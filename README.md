@@ -13,8 +13,8 @@ Hi, Jason here! Welcome to my page.
 May the **SICP** be with you. 🧙
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagliacii&count_private=true&show_icons=true&layout=compact"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pagliacii&count_private=true&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pagliacii&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagliacii&count_private=true&show_icons=true&layout=compact&card_width=445"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pagliacii&show_icons=true&layout=compact" />
 </p>
 <a href="https://github.com/Pagliacii/sicp-reg-machine">
