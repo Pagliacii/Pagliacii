@@ -12,19 +12,22 @@ Hi, Jason here! Welcome to my page.
 
 May the **SICP** be with you. 🧙
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pagliacii&count_private=true&show_icons=true&theme=tokyonight)
-
-<a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagliacii&count_private=true&show_icons=true&theme=tokyonight&langs_count=8&layout=compact" />
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagliacii&count_private=true&show_icons=true&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pagliacii&count_private=true&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pagliacii&show_icons=true&layout=compact" />
+</p>
+<a href="https://github.com/Pagliacii/sicp-reg-machine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=sicp-reg-machine" />
 </a>
-<a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pagliacii&show_icons=true&theme=tokyonight&layout=compact" />
+<a href="https://github.com/Pagliacii/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=my-sicp-solutions" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Pagliacii/QuickSSH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=QuickSSH" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Pagliacii/useless-swf-player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=useless-swf-player" />
 </a>
 
 <details>
