@@ -5,6 +5,7 @@ on:
     workflows: ["Update Wakatime Stats"]
     type:
       - complete
+      - requested
 
 jobs:
   update-fresh-time:
