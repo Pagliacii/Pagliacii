@@ -2,6 +2,8 @@
 
 Hi, Jason here! Welcome to my page.
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pagliacii&count_private=true&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats"/>](https://metrics.lecoq.io/pagliacii?template=classic)
+
 - 🖥️ I'm a programmer from China and my always used nickname is **Pagliacii**.
 
 - 🌱 I’m currently reading **Essentials of Programming Languages**
@@ -12,11 +14,23 @@ Hi, Jason here! Welcome to my page.
 
 May the **SICP** be with you. 🧙
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pagliacii&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagliacii&count_private=true&show_icons=true&layout=compact&card_width=445"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pagliacii&show_icons=true&layout=compact" />
-</p>
+<details>
+<summary><b>FYI</b></summary>
+If you are curious to know what the nickname means, it came from a movie named Watchmen. Its original word is "Pagliacci", and I misspelled it "Pagliacii".
+</details>
+
+---
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+**:pushpin: Pinned Repos**
+
 <a href="https://github.com/Pagliacii/sicp-reg-machine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=sicp-reg-machine" />
 </a>
@@ -29,12 +43,13 @@ May the **SICP** be with you. 🧙
 <a href="https://github.com/Pagliacii/useless-swf-player">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=useless-swf-player" />
 </a>
-
-<details>
-<summary><b>FYI</b></summary>
-If you are curious to know what the nickname means, it came from a movie named Watchmen. Its original word is "Pagliacci", and I misspelled it "Pagliacii".
-</details>
+<a href="https://github.com/Pagliacii/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dotfiles" />
+</a>
+<a href="https://github.com/Pagliacii/dmenu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dmenu" />
+</a>
 
 ---
 
-<p align="center">This <i>README</i> file is generated every <b>3 hours, 8 minutes and 50 seconds</b>!<br/>Last refresh: Sunday, 25 July, 08:04 CEST<br/></p>
+<p align="center">This <i>README</i> file is generated every <b>3 hours and 8 minutes</b>!<br/>Last refresh: Wednesday, 28 July, 16:20 CST<br/></p>
