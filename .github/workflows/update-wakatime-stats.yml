@@ -5,6 +5,7 @@ on:
     workflows: ["Update GitHub Activity"]
     type:
       - complete
+      - requested
 
 jobs:
   update-wakatime-stats:
