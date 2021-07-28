@@ -3,7 +3,7 @@ name: Update Wakatime Stats
 on:
   workflow_run:
     workflows: ["Update GitHub Activity"]
-    type:
+    types:
       - completed
 
 jobs:
