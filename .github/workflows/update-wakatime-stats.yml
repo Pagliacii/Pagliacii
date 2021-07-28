@@ -10,6 +10,7 @@ on:
 
 jobs:
   update-wakatime-stats:
+    needs: update-github-activity
     name: Update Wakatime Stats section in README
     runs-on: ubuntu-latest
     steps:

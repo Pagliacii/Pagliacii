@@ -10,6 +10,7 @@ on:
 
 jobs:
   update-fresh-time:
+    needs: update-wakatime-stats
     name: Update Refresh Time field in README
     runs-on: ubuntu-latest
     steps:

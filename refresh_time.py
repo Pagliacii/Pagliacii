@@ -11,6 +11,9 @@ text = readme.read_text()
 updated_text = re.sub(
     ">Last refresh: (\w+, \d+ \w+, \d+:\d+) CST<",
     f">Last refresh: {now.strftime('%A, %d %B, %H:%M')} CST<",
-    text
+    text,
+)
+updated_text = re.sub(
+    "^.*Last Updated on \d+/\d+/\d+.*$", "", updated_text, flags=re.MULTILINE
 )
 readme.write_text(updated_text)

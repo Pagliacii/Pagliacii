@@ -67,7 +67,7 @@ Markdown                 1 hr 35 mins        ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/07/2021
+
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
@@ -93,4 +93,7 @@ Markdown                 1 hr 35 mins        ░░░░░░░░░░░�
 
 ---
 
-<p align="center">This <i>README</i> file is generated every <b>3 hours and 8 minutes</b>!<br/>Last refresh: Wednesday, 28 July, 17:25 CST<br/></p>
+<p align="center">This <i>README</i> file is generated every <b>3 hours and 8 minutes</b>!<br/>Last refresh: Wednesday, 28 July, 17:45 CST<br/></p>
+<img align="center" src="https://github.com/Pagliacii/Pagliacii/actions/workflows/update-github-activity.yml/badge.svg">
+<img align="center" src="https://github.com/Pagliacii/Pagliacii/actions/workflows/update-wakatime-stats.yml/badge.svg">
+<img align="center" src="https://github.com/Pagliacii/Pagliacii/actions/workflows/update-refresh-time.yml/badge.svg">
