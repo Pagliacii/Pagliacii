@@ -1,9 +1,6 @@
 name: Update Refresh Time
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '8 */3 * * *'
   workflow_dispatch:
