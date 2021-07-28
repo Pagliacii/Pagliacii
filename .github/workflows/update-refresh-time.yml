@@ -3,7 +3,7 @@ name: Update Refresh Time
 on:
   workflow_run:
     workflows: ["Update Wakatime Stats"]
-    type:
+    types:
       - completed
 
 jobs:
