@@ -1,9 +1,6 @@
 name: Update Wakatime Stats
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '4 */3 * * *'
   workflow_dispatch:
