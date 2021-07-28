@@ -3,7 +3,6 @@ name: Update Wakatime Stats
 on:
   schedule:
     - cron: '4 */3 * * *'
-  workflow_dispatch:
   workflow_run:
     workflows: ["Update GitHub Activity"]
     type:
