@@ -20,5 +20,5 @@ jobs:
           git config --local user.email "github-actions@github.com"
           git config --local user.name "github-actions"
           git add .
-          git commit -m "docs: update refresh time"
+          git commit -m "docs[skip actions]: update refresh time"
           git push
