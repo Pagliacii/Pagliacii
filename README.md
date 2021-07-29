@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Closed issue [#138](https://github.com/dtolnay/thiserror/issues/138) in [dtolnay/thiserror](https://github.com/dtolnay/thiserror)
-2. 🗣 Commented on [#138](https://github.com/dtolnay/thiserror/issues/138) in [dtolnay/thiserror](https://github.com/dtolnay/thiserror)
-3. ❗️ Opened issue [#138](https://github.com/dtolnay/thiserror/issues/138) in [dtolnay/thiserror](https://github.com/dtolnay/thiserror)
+1. ⭐ Starred [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow)
+2. ⭐ Starred [maguowei/starred](https://github.com/maguowei/starred)
+3. ⭐ Starred [nektos/act](https://github.com/nektos/act)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
