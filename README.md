@@ -10,7 +10,7 @@ Hi, Jason here! Welcome to my page.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Pagliacii?tab=repositories&type=source)
 
-- 📫 How to reach me: <div>![EMail Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:huangmianrui0310@gmail.com) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Pagliacii) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/PagliaciiH)</div>
+- 📫 How to reach me: <div><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:huangmianrui0310@gmail.com" alt="send to me"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Pagliacii" alt="GitHub"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/PagliaciiH" alt="Twitter"></div>
 
 May the **SICP** be with you. 🧙
 
@@ -98,5 +98,5 @@ Markdown                 2 hrs 41 mins       █░░░░░░░░░░�
 <div align="center">
   <img src="https://github.com/Pagliacii/Pagliacii/actions/workflows/update-refresh-time.yml/badge.svg" alt="build state">
  <img src="https://visitor-badge.glitch.me/badge?page_id=Pagliacii.Pagliacii" alt="visitors" />
- <img src="https://img.shields.io/github/license/Pagliacii/Pagliacii" alt="license">
+ <img src="https://img.shields.io/github/license/Pagliacii/Pagliacii?link=https://github.com/Pagliacii/Pagliacii/blob/main/LICENSE" alt="license">
 </div>
