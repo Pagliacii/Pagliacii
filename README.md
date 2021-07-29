@@ -10,9 +10,7 @@ Hi, Jason here! Welcome to my page.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Pagliacii?tab=repositories&type=source)
 
-- 📫 How to reach me: <div><a href="mailto:huangmianrui0310@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send to me"></a> <a href="https://github.com/Pagliacii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://twitter.com/PagliaciiH"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a></div>
-
-May the **SICP** be with you. 🧙
+- 🧙 May the **SICP** be with you.
 
 <details>
 <summary><b>FYI</b></summary>
@@ -21,7 +19,21 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 ---
 
-**:zap: Recent Activity:**
+:mailbox_with_mail: **How to reach me:**
+
+<p>
+  <a href="mailto:huangmianrui0310@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send to me">
+  </a>
+  <a href="https://github.com/Pagliacii">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/PagliaciiH">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+:zap: **Recent Activity:**
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#138](https://github.com/dtolnay/thiserror/issues/138) in [dtolnay/thiserror](https://github.com/dtolnay/thiserror)
@@ -73,30 +85,32 @@ Markdown                 2 hrs 41 mins       █░░░░░░░░░░�
 
 **:pushpin: Pinned Repos**
 
-<a href="https://github.com/Pagliacii/sicp-reg-machine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=sicp-reg-machine" />
-</a>
-<a href="https://github.com/Pagliacii/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=my-sicp-solutions" />
-</a>
-<a href="https://github.com/Pagliacii/QuickSSH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=QuickSSH" />
-</a>
-<a href="https://github.com/Pagliacii/useless-swf-player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=useless-swf-player" />
-</a>
-<a href="https://github.com/Pagliacii/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dotfiles" />
-</a>
-<a href="https://github.com/Pagliacii/dmenu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dmenu" />
-</a>
+<p>
+  <a href="https://github.com/Pagliacii/sicp-reg-machine">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=sicp-reg-machine" />
+  </a>
+  <a href="https://github.com/Pagliacii/dotfiles">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=my-sicp-solutions" />
+  </a>
+  <a href="https://github.com/Pagliacii/QuickSSH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=QuickSSH" />
+  </a>
+  <a href="https://github.com/Pagliacii/useless-swf-player">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=useless-swf-player" />
+  </a>
+  <a href="https://github.com/Pagliacii/dotfiles">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dotfiles" />
+  </a>
+  <a href="https://github.com/Pagliacii/dmenu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dmenu" />
+  </a>
+</p>
 
 ---
 
 <p align="center">This <i>README</i> file is generated every <b>3 hours and 8 minutes</b>!<br/>Last refresh: Thursday, 29 July, 11:32 CST<br/></p>
-<div align="center">
+<p align="center">
   <a href="https://github.com/Pagliacii/Pagliacii/actions/workflows/update-refresh-time.yml"><img src="https://github.com/Pagliacii/Pagliacii/actions/workflows/update-refresh-time.yml/badge.svg" alt="build state"></a>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Pagliacii.Pagliacii" alt="visitors" />
   <a href="https://github.com/Pagliacii/Pagliacii/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Pagliacii/Pagliacii" alt="license"></a>
-</div>
+</p>
