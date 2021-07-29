@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Recent GitHub Activity - Profile Readme
+        uses: Readme-Workflows/recent-activity@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
