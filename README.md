@@ -19,7 +19,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 ---
 
-:toolbox: **Things I use with:**
+:toolbox: **Things I used:**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
@@ -43,6 +43,7 @@ If you are curious to know what the nickname means, it came from a movie named W
   <img alt="Windows Terminal" src="https://img.shields.io/badge/-Windows_Terminal-4d4d4d?style=flat-square&logo=windows-terminal&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391fe?style=flat-square&logo=PowerShell&logoColor=white" />
   <img alt="Homebrew" src="https://img.shields.io/badge/-Homebrew-fbb040?style=flat-square&logo=homebrew&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41cd52?style=flat-square&logo=qt&logoColor=white" />
   <img alt="Wakatime" src="https://img.shields.io/badge/-Wakatime-000000?style=flat-square&logo=wakatime&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
