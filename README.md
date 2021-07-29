@@ -74,6 +74,10 @@ If you are curious to know what the nickname means, it came from a movie named W
   </a>
 </p>
 
+:star2: **Projects starred by me:**
+
+[My Awesome Stars](AWESOME-STARS.md)
+
 :zap: **Recent Activity:**
 
 <!--START_SECTION:activity-->
