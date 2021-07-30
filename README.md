@@ -22,7 +22,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 :toolbox: **Things I used:**
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="C Language" src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=c&logoColor=white" />
   <img alt="Racket" src="https://img.shields.io/badge/-Racket-9f1d20?style=flat-square&logo=racket&logoColor=white" />
