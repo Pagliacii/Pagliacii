@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Pagliacii/keypressed](https://github.com/Pagliacii/keypressed)
-2. ⭐ Starred [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow)
-3. ⭐ Starred [maguowei/starred](https://github.com/maguowei/starred)
+1. ⭐ Starred [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer)
+2. ⭐ Starred [ppy/osu](https://github.com/ppy/osu)
+3. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
