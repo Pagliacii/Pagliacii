@@ -724,7 +724,7 @@
 - [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - ObjectBox Go - a database for your Go structs/objects. Super-fast and simple.
 - [oxplot/pdftilecut](https://github.com/oxplot/pdftilecut) - pdftilecut lets you sub-divide a PDF page(s) into smaller pages so you can print them on small form printers.
 - [lavalamp-/ipv666](https://github.com/lavalamp-/ipv666) - Golang IPv6 address enumeration
-- [liamg/aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
+- [liamg/darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing.
 - [Humpheh/goboy](https://github.com/Humpheh/goboy) - Multi-platform Nintendo Game Boy Color emulator written in Go
@@ -870,6 +870,7 @@
 
 ## HTML 
 
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - Introduction to modern Prolog
 - [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
@@ -1985,7 +1986,6 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
-- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries.
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -2468,7 +2468,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊 Beautiful and interactive data visualization platform, for metrics,logs,traces and big-screens
+- [datav-io/datav](https://github.com/datav-io/datav) - As an open-source alternative to DataDog&NewRelic, Datav is a modern apm for metrics/traces/logs, and has a built-in independent data visualization platform(like grafana,but much better for apm purpose)📊.      Datav has fully native support for @open-telemetry.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
