@@ -131,14 +131,14 @@ Rust                     4 hrs 11 mins       █░░░░░░░░░░�
 **:pushpin: Pinned Repos**
 
 <p>
+  <a href="https://github.com/Pagliacii/keypressed">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=keypressed" />
+  </a>
   <a href="https://github.com/Pagliacii/sicp-reg-machine">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=sicp-reg-machine" />
   </a>
-  <a href="https://github.com/Pagliacii/dotfiles">
+  <a href="https://github.com/Pagliacii/my-sicp-solutions">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=my-sicp-solutions" />
-  </a>
-  <a href="https://github.com/Pagliacii/QuickSSH">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=QuickSSH" />
   </a>
   <a href="https://github.com/Pagliacii/useless-swf-player">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=useless-swf-player" />
@@ -146,8 +146,8 @@ Rust                     4 hrs 11 mins       █░░░░░░░░░░�
   <a href="https://github.com/Pagliacii/dotfiles">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dotfiles" />
   </a>
-  <a href="https://github.com/Pagliacii/dmenu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dmenu" />
+  <a href="https://github.com/Pagliacii/QuickSSH">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=QuickSSH" />
   </a>
 </p>
 
