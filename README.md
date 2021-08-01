@@ -137,8 +137,8 @@ Python                   35 mins             ░░░░░░░░░░░�
   <a href="https://github.com/Pagliacii/sicp-reg-machine">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=sicp-reg-machine" />
   </a>
-  <a href="https://github.com/Pagliacii/my-sicp-solutions">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=my-sicp-solutions" />
+  <a href="https://github.com/Pagliacii/game-of-life">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=game-of-life" />
   </a>
   <a href="https://github.com/Pagliacii/useless-swf-player">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=useless-swf-player" />
