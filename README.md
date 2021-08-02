@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Pagliacii/game-of-life](https://github.com/Pagliacii/game-of-life)
-2. ⭐ Starred [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer)
-3. ⭐ Starred [ppy/osu](https://github.com/ppy/osu)
+1. 📔 Created new repository [Pagliacii/langton-ant](https://github.com/Pagliacii/langton-ant)
+2. 📔 Created new repository [Pagliacii/game-of-life](https://github.com/Pagliacii/game-of-life)
+3. ⭐ Starred [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
