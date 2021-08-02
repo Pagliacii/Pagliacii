@@ -2476,7 +2476,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [datav-io/datav](https://github.com/datav-io/datav) - As an open-source alternative to DataDog&NewRelic, Datav is a modern apm for metrics/traces/logs, and has a built-in independent data visualization platform(like grafana,but much better for apm purpose)📊.      Datav has fully native support for @open-telemetry.
+- [datav-io/datav](https://github.com/datav-io/datav) - 📊Datav is a data visualization platform for metrics,traces,logs and large-screens. Also as an open-source alternative to DataDog&NewRelic, we build a apm layer on datav, which has fully native support for @open-telemetry.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
