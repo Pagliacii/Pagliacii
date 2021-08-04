@@ -292,7 +292,7 @@
 - [imDema/FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-- [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS
@@ -937,7 +937,6 @@
 - [w3c/epubcheck](https://github.com/w3c/epubcheck) - Validation tool for EPUB
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
@@ -1248,6 +1247,7 @@
 ## OCaml 
 
 - [mgree/smoosh](https://github.com/mgree/smoosh) - The Symbolic, Mechanized, Observable, Operational SHell: an executable formalization of the POSIX shell standard.
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [facebookarchive/pfff](https://github.com/facebookarchive/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
@@ -1485,6 +1485,7 @@
 
 ## Python 
 
+- [illBeRoy/taskipy](https://github.com/illBeRoy/taskipy) - the complementary task runner for python
 - [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer) - version-string management for VCS-controlled trees
 - [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -2348,6 +2349,7 @@
 
 ## Starlark 
 
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [lucperkins/colossus](https://github.com/lucperkins/colossus) - Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
 
 ## Stylus 
@@ -2476,7 +2478,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊Datav is a data visualization platform for metrics,traces,logs and large-screens. Also as an open-source alternative to DataDog&NewRelic, we build a apm layer on datav, which has fully native support for @open-telemetry.
+- [datav-io/datav](https://github.com/datav-io/datav) - 📊Modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
