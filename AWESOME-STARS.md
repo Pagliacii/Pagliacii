@@ -525,6 +525,7 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [redguardtoo/elpa-mirror](https://github.com/redguardtoo/elpa-mirror) - Create local emacs package repository. 15 seconds to install 115 packages.
 - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
+- [manateelazycat/emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
@@ -726,7 +727,7 @@
 - [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - ObjectBox Go - a database for your Go structs/objects. Super-fast and simple.
 - [oxplot/pdftilecut](https://github.com/oxplot/pdftilecut) - pdftilecut lets you sub-divide a PDF page(s) into smaller pages so you can print them on small form printers.
 - [lavalamp-/ipv666](https://github.com/lavalamp-/ipv666) - Golang IPv6 address enumeration
-- [liamg/darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing.
 - [Humpheh/goboy](https://github.com/Humpheh/goboy) - Multi-platform Nintendo Game Boy Color emulator written in Go
@@ -1208,6 +1209,7 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [Hyperparticle/one-pixel-attack-keras](https://github.com/Hyperparticle/one-pixel-attack-keras) - Keras implementation of "One pixel attack for fooling deep neural networks" using differential evolution on Cifar10 and ImageNet
 - [AppliedDataSciencePartners/DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) - A replica of the AlphaZero methodology for deep reinforcement learning in Python
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 
 ## Kotlin 
@@ -1220,7 +1222,7 @@
 - [hmathsan/dotfiles](https://github.com/hmathsan/dotfiles) - Dotfiles for my Arch linux setup
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
-- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
@@ -1566,7 +1568,6 @@
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - A website application running in Google app engine, deliver rss news to your kindle. generate mobi using python, multilanguages supported.
-- [manateelazycat/emacs-application-framework](https://github.com/manateelazycat/emacs-application-framework) - Emacs application framework
 - [thautwarm/frontend-for-free](https://github.com/thautwarm/frontend-for-free) - end the parsing problem
 - [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
@@ -1932,7 +1933,6 @@
 - [the-Infected-Drake/TIDoS-Framework](https://github.com/the-Infected-Drake/TIDoS-Framework) - A web-penetration testing toolkit, presently suited for reconnaissance purposes.
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [marcdacosta/ambient-shipping](https://github.com/marcdacosta/ambient-shipping) - This repo contains utilities for capturing AIS messages and joining them with shipping records.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
