@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [first binary release](https://github.com/Pagliacii/keypressed/releases/tag/v0.2.2-alpha) in [Pagliacii/keypressed](https://github.com/Pagliacii/keypressed)
-2. ⭐ Starred [illBeRoy/taskipy](https://github.com/illBeRoy/taskipy)
-3. ⭐ Starred [bazelbuild/starlark](https://github.com/bazelbuild/starlark)
+1. ⭐ Starred [rr-debugger/rr](https://github.com/rr-debugger/rr)
+2. ✌️ Released [first binary release](https://github.com/Pagliacii/keypressed/releases/tag/v0.2.2-alpha) in [Pagliacii/keypressed](https://github.com/Pagliacii/keypressed)
+3. ⭐ Starred [illBeRoy/taskipy](https://github.com/illBeRoy/taskipy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
