@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [osohq/oso](https://github.com/osohq/oso)
-2. ⭐ Starred [rr-debugger/rr](https://github.com/rr-debugger/rr)
-3. ✌️ Released [first binary release](https://github.com/Pagliacii/keypressed/releases/tag/v0.2.2-alpha) in [Pagliacii/keypressed](https://github.com/Pagliacii/keypressed)
+1. ⭐ Starred [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core)
+2. ⭐ Starred [osohq/oso](https://github.com/osohq/oso)
+3. ⭐ Starred [rr-debugger/rr](https://github.com/rr-debugger/rr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
