@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core)
-2. ⭐ Starred [osohq/oso](https://github.com/osohq/oso)
-3. ⭐ Starred [rr-debugger/rr](https://github.com/rr-debugger/rr)
+1. ⭐ Starred [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
+2. ⭐ Starred [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+3. ⭐ Starred [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
