@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dry-python/classes](https://github.com/dry-python/classes)
-2. ⭐ Starred [willmcgugan/textual](https://github.com/willmcgugan/textual)
-3. ⭐ Starred [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
+1. ⭐ Starred [isidentical/refactor](https://github.com/isidentical/refactor)
+2. ⭐ Starred [localstack/localstack](https://github.com/localstack/localstack)
+3. ⭐ Starred [dry-python/classes](https://github.com/dry-python/classes)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
