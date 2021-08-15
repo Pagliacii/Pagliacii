@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
-2. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
-3. ⭐ Starred [strapi/strapi](https://github.com/strapi/strapi)
+1. ⭐ Starred [django/django](https://github.com/django/django)
+2. ⭐ Starred [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
+3. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
