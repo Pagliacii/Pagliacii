@@ -334,7 +334,7 @@
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -2499,7 +2499,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [datav-io/datav](https://github.com/datav-io/datav) - 📊Modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
+- [datav-io/datav](https://github.com/datav-io/datav) - 📊A lightweight alternative to Grafana, also datav is a modern apm for metrics,traces and logs. Datav has fully native support for @open-telemetry, is an open-source alternative to DataDog, NewRelic.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
