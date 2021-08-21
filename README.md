@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter)
-2. ⭐ Starred [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
-3. 🔱 Forked [Pagliacii/NvChad](https://github.com/Pagliacii/NvChad) from [NvChad/NvChad](https://github.com/NvChad/NvChad)
+1. ⭐ Starred [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten)
+2. ⭐ Starred [EngoEngine/engo](https://github.com/EngoEngine/engo)
+3. ⭐ Starred [TomWright/dasel](https://github.com/TomWright/dasel)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
