@@ -43,6 +43,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Pascal](#pascal)
+  - [Pawn](#pawn)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [PureScript](#purescript)
@@ -297,7 +298,7 @@
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
-- [relativty/wrmhl](https://github.com/relativty/wrmhl) - ⚡️ Super fast communication beetwen Unity3D and Arduino. Create Interactive experiences in a minute ⏱
+- [relativty/wrmhl](https://github.com/relativty/wrmhl) - (Archived) Simple communication between Unity3D and Arduino - by Maxim xyz.
 - [dvf/blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [ferventdesert/Hawk](https://github.com/ferventdesert/Hawk) - visualized crawler & ETL IDE written with C#/WPF
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
@@ -338,7 +339,6 @@
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-- [c-smile/sciter-js-sdk](https://github.com/c-smile/sciter-js-sdk) - Sciter.JS - Sciter but with QuickJS on board instead of my TIScript
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
 - [root-project/cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -559,6 +559,10 @@
 
 ## Go 
 
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
+- [EngoEngine/engo](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
@@ -760,7 +764,7 @@
 - [schollz/pake](https://github.com/schollz/pake) - PAKE library for generating a strong secret between parties over an insecure channel
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -1276,6 +1280,7 @@
 
 ## Others 
 
+- [wujood/awesome-gamejam](https://github.com/wujood/awesome-gamejam) - This is a curated list that contains helpful links and resources for game jams and game development.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [prathyvsh/pl-catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages
@@ -1473,6 +1478,10 @@
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 - [castle-engine/castle-engine](https://github.com/castle-engine/castle-engine) - Cross-platform (desktop, mobile, console) 3D and 2D game engine supporting many asset formats (glTF, X3D, Spine...) and using modern Object Pascal
 - [ThomasJaeger/VisualMASM](https://github.com/ThomasJaeger/VisualMASM) - Visual MASM - Assembly IDE for Microsoft MASM
+
+## Pawn 
+
+- [c-smile/sciter-js-sdk](https://github.com/c-smile/sciter-js-sdk) - Sciter.JS - Sciter but with QuickJS on board instead of my TIScript
 
 ## Perl 
 
