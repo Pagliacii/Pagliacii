@@ -680,7 +680,7 @@
 - [mattes/go-asciibot](https://github.com/mattes/go-asciibot) - Golang ASCII Robot Generator
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [billziss-gh/cgofuse](https://github.com/billziss-gh/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
-- [thecodingmachine/gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
@@ -1509,6 +1509,7 @@
 
 ## Python 
 
+- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
 - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [lona-web-org/lona](https://github.com/lona-web-org/lona) - Write responsive web apps in full python
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
