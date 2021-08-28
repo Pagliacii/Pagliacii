@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trusch/snakeos](https://github.com/trusch/snakeos)
-2. ⭐ Starred [Luwx/Lightly](https://github.com/Luwx/Lightly)
-3. ⭐ Starred [presslabs/gitfs](https://github.com/presslabs/gitfs)
+1. ⭐ Starred [basarat/typescript-book](https://github.com/basarat/typescript-book)
+2. ⭐ Starred [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)
+3. ⭐ Starred [apex/gateway](https://github.com/apex/gateway)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
