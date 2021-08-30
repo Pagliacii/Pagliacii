@@ -349,7 +349,7 @@
 - [awwbees/BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth
 - [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
-- [MeteorStudioASU/lcc](https://github.com/MeteorStudioASU/lcc) - 
+- [MeteorStudioASU/lcc](https://github.com/MeteorStudioASU/lcc) - LCC (Localization Cue Correction) is a solution for spatialized audio through stereo speakers. LCC is a lightweight implementation of crosstalk cancellation so your left ear hears the left channel of audio, and your right ear hears the right channel of audio while ensuring unwanted audio signal coloration is mitigated.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
