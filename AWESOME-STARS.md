@@ -1438,7 +1438,7 @@
 - [rShetty/awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems) - Awesome list of distributed systems resources
 - [reactjs/react-basic](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden.
 - [hasura/awesome-react-graphql](https://github.com/hasura/awesome-react-graphql) - A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome
-- [lmk123/crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - 让浏览任意语言的网站变得无比轻松的浏览器扩展程序。
+- [lmk123/crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。
 - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
@@ -1877,7 +1877,7 @@
 - [google/sg2im](https://github.com/google/sg2im) - Code for "Image Generation from Scene Graphs", Johnson et al, CVPR 2018
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube
 - [sibblegp/b2blaze](https://github.com/sibblegp/b2blaze) - b2blaze
-- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
+- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [NationalSecurityAgency/lemongraph](https://github.com/NationalSecurityAgency/lemongraph) - Log-based transactional graph engine
 - [lmacken/pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
