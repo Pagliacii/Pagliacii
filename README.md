@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Terry-Mao/goim](https://github.com/Terry-Mao/goim)
-2. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
-3. ⭐ Starred [cs01/termpair](https://github.com/cs01/termpair)
+1. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+2. ⭐ Starred [Terry-Mao/goim](https://github.com/Terry-Mao/goim)
+3. ⭐ Starred [necolas/normalize.css](https://github.com/necolas/normalize.css)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
