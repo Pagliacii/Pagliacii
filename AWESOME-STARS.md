@@ -62,6 +62,7 @@
   - [Smarty](#smarty)
   - [Starlark](#starlark)
   - [Stylus](#stylus)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [SystemVerilog](#systemverilog)
   - [TeX](#tex)
@@ -2391,6 +2392,10 @@
 ## Stylus 
 
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
+
+## Svelte 
+
+- [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 
 ## Swift 
 
