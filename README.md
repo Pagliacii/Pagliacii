@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
-2. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-3. ⭐ Starred [Terry-Mao/goim](https://github.com/Terry-Mao/goim)
+1. ⭐ Starred [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv)
+2. ⭐ Starred [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
+3. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
