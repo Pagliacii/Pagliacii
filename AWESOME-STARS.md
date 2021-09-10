@@ -561,6 +561,7 @@
 
 ## Go 
 
+- [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
 - [apex/gateway](https://github.com/apex/gateway) - Drop-in replacement for Go net/http when running in AWS Lambda & API Gateway
@@ -1518,6 +1519,7 @@
 
 ## Python 
 
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
 - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
@@ -2022,6 +2024,8 @@
 
 ## Rust 
 
+- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [trusch/snakeos](https://github.com/trusch/snakeos) - bootable x86 snake game in rust
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included library for building authorization in your application.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
