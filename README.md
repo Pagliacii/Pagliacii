@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb)
-2. ⭐ Starred [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue)
-3. ⭐ Starred [mgdm/htmlq](https://github.com/mgdm/htmlq)
+1. ⭐ Starred [Jam3/math-as-code](https://github.com/Jam3/math-as-code)
+2. ⭐ Starred [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb)
+3. ⭐ Starred [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
