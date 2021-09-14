@@ -692,7 +692,7 @@
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [github/vulcanizer](https://github.com/github/vulcanizer) - GitHub's ops focused Elasticsearch library
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud operating system
+- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the Metaverse
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
@@ -1519,6 +1519,7 @@
 
 ## Python 
 
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
@@ -2193,7 +2194,7 @@
 - [dotenv-rs/dotenv](https://github.com/dotenv-rs/dotenv) - Library to help supply environment variables in testing and development
 - [nebulet/nebulet](https://github.com/nebulet/nebulet) - A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
 - [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - A better library for loading dynamic libraries
@@ -2602,7 +2603,7 @@
 - [Badacadabra/vim-archery](https://github.com/Badacadabra/vim-archery) - :dart: Vim colorscheme inspired by Arch Linux colors
 - [romainl/flattened](https://github.com/romainl/flattened) - Solarized, without the bullshit.
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
-- [hzchirs/vim-material](https://github.com/hzchirs/vim-material) - 🧩 equinusocio's Material Theme port for vim/neovim
+- [hzchirs/vim-material](https://github.com/hzchirs/vim-material) - 🧩 A Material Theme port for vim/neovim
 - [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
