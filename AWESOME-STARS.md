@@ -692,7 +692,7 @@
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [github/vulcanizer](https://github.com/github/vulcanizer) - GitHub's ops focused Elasticsearch library
-- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the Metaverse
+- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
@@ -908,6 +908,7 @@
 - [swfobject/swfobject](https://github.com/swfobject/swfobject) - An open source Javascript framework for detecting the Adobe Flash Player plugin and embedding Flash (swf) files.
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
@@ -1075,7 +1076,6 @@
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -2028,7 +2028,7 @@
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [trusch/snakeos](https://github.com/trusch/snakeos) - bootable x86 snake game in rust
-- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included library for building authorization in your application.
+- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included Framework for building authorization in your application.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rg3dengine/rg3d](https://github.com/rg3dengine/rg3d) - 3D and 2D game engine written in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
