@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [derrod/legendary](https://github.com/derrod/legendary)
-2. ⭐ Starred [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects)
-3. ⭐ Starred [Jam3/math-as-code](https://github.com/Jam3/math-as-code)
+1. ⭐ Starred [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)
+2. ⭐ Starred [jorisschellekens/borb](https://github.com/jorisschellekens/borb)
+3. ⭐ Starred [derrod/legendary](https://github.com/derrod/legendary)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
