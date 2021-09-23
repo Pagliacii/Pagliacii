@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ellie/atuin](https://github.com/ellie/atuin)
-2. ⭐ Starred [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)
-3. ⭐ Starred [jorisschellekens/borb](https://github.com/jorisschellekens/borb)
+1. ⭐ Starred [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre)
+2. ⭐ Starred [ellie/atuin](https://github.com/ellie/atuin)
+3. ⭐ Starred [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
