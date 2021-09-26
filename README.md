@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kylepollina/objexplore](https://github.com/kylepollina/objexplore)
-2. ⭐ Starred [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY)
-3. ⭐ Starred [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
+1. ⭐ Starred [stackgl/shader-school](https://github.com/stackgl/shader-school)
+2. ⭐ Starred [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator)
+3. ⭐ Starred [kylepollina/objexplore](https://github.com/kylepollina/objexplore)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
