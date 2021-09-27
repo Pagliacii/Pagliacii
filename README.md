@@ -125,7 +125,7 @@ JavaScript               2 hrs 50 mins       ██░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 27/09/2021
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
