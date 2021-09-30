@@ -125,7 +125,7 @@ Other                    1 hr 5 mins         █░░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
