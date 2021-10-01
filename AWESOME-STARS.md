@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AsciiDoc](#asciidoc)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [AutoIt](#autoit)
@@ -77,6 +78,10 @@
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
   - [YASnippet](#yasnippet)
+
+## AsciiDoc 
+
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -513,7 +518,7 @@
 
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
 
@@ -1341,6 +1346,7 @@
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [sgossner/VSCO-2-CE](https://github.com/sgossner/VSCO-2-CE) - An open-source orchestral library
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.
+- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [rsocket/rsocket](https://github.com/rsocket/rsocket) - RSocket Protocol Definition
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
@@ -1527,6 +1533,7 @@
 
 ## Python 
 
+- [shuhari/500lines-rewrite](https://github.com/shuhari/500lines-rewrite) - Re-write code of "500 Lines or Less" project.
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
 - [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python, https://rxpy.rtfd.io
@@ -1981,7 +1988,6 @@
 - [intohole/moodstyle](https://github.com/intohole/moodstyle) - machine learning alg write with pure python ／ 机器学习
 - [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 - [cslarsen/minijit](https://github.com/cslarsen/minijit) - A basic x86-64 JIT compiler written from scratch in stock Python
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [jostbr/pymaze](https://github.com/jostbr/pymaze) - A maze generator, solver and visualizer for Python
 - [spy16/pyschemes](https://github.com/spy16/pyschemes) - PySchemes is a library for validating data structures in python
 - [the-Infected-Drake/TIDoS-Framework](https://github.com/the-Infected-Drake/TIDoS-Framework) - A web-penetration testing toolkit, presently suited for reconnaissance purposes.
@@ -2344,7 +2350,6 @@
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [tj/n](https://github.com/tj/n) - Node version management
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
-- [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [gigamonkey/monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
