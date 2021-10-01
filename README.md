@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mborgerson/xemu](https://github.com/mborgerson/xemu)
-2. ⭐ Starred [axboe/fio](https://github.com/axboe/fio)
-3. ⭐ Starred [RandomThings23/donut](https://github.com/RandomThings23/donut)
+1. ⭐ Starred [shuhari/500lines-rewrite](https://github.com/shuhari/500lines-rewrite)
+2. ⭐ Starred [mborgerson/xemu](https://github.com/mborgerson/xemu)
+3. ⭐ Starred [axboe/fio](https://github.com/axboe/fio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
