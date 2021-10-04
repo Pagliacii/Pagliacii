@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dirkolbrich/hugo-theme-tailwindcss-starter](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter)
-2. ⭐ Starred [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)
-3. ⭐ Starred [shuhari/500lines-rewrite](https://github.com/shuhari/500lines-rewrite)
+1. ⭐ Starred [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists)
+2. ⭐ Starred [dirkolbrich/hugo-theme-tailwindcss-starter](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter)
+3. ⭐ Starred [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
