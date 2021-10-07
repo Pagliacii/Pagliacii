@@ -1018,7 +1018,7 @@
 - [touch-callable/touch-callable](https://github.com/touch-callable/touch-callable) - Automatically generate a Web UI for Python function using type annotations.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
-- [NickCarneiro/curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [FPGAwars/icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
@@ -2685,7 +2685,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
