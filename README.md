@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [beeware/briefcase](https://github.com/beeware/briefcase)
-2. ⭐ Starred [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists)
-3. ⭐ Starred [dirkolbrich/hugo-theme-tailwindcss-starter](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter)
+1. ⭐ Starred [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
+2. ⭐ Starred [beeware/briefcase](https://github.com/beeware/briefcase)
+3. ⭐ Starred [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
