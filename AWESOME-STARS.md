@@ -1885,7 +1885,7 @@
 - [pypyjs/pypyjs](https://github.com/pypyjs/pypyjs) - PyPy compiled to JavaScript
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 - [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
@@ -2224,7 +2224,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
-- [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - A better library for loading dynamic libraries
+- [nagisa/rust_libloading](https://github.com/nagisa/rust_libloading) - Bindings around the platform's dynamic library loading primitives with greatly improved memory safety.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
@@ -2327,6 +2327,7 @@
 
 ## Shell 
 
+- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
