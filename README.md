@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)
-2. ⭐ Starred [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu)
-3. ⭐ Starred [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
+1. ⭐ Starred [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go)
+2. ⭐ Starred [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)
+3. ⭐ Starred [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
