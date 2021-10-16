@@ -569,6 +569,7 @@
 
 ## Go 
 
+- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
@@ -1303,6 +1304,7 @@
 
 ## Others 
 
+- [xinali/articles](https://github.com/xinali/articles) - Personal Blog/主记录漏洞挖掘相关研究(文章位于issues)
 - [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [wujood/awesome-gamejam](https://github.com/wujood/awesome-gamejam) - This is a curated list that contains helpful links and resources for game jams and game development.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
@@ -1535,6 +1537,9 @@
 
 ## Python 
 
+- [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
+- [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
+- [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [shuhari/500lines-rewrite](https://github.com/shuhari/500lines-rewrite) - Re-write code of "500 Lines or Less" project.
 - [RandomThings23/donut](https://github.com/RandomThings23/donut) - DONUTS DONUTS DONUTS 🍩
@@ -2327,6 +2332,7 @@
 
 ## Shell 
 
+- [DoctorLai/Teaching-Kids-Programming](https://github.com/DoctorLai/Teaching-Kids-Programming) - Teaching Kids Programming / Teaching Wife Programming
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby
 - [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
