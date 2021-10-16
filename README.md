@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go)
-2. ⭐ Starred [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)
-3. ⭐ Starred [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu)
+1. ⭐ Starred [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing)
+2. ⭐ Starred [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
+3. ⭐ Starred [DoctorLai/Teaching-Kids-Programming](https://github.com/DoctorLai/Teaching-Kids-Programming)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
