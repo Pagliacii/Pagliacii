@@ -590,6 +590,7 @@
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [stephank/lazyssh](https://github.com/stephank/lazyssh) - A jump-host SSH server that starts machines on-demand
 - [hantmac/Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
@@ -698,7 +699,7 @@
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [github/vulcanizer](https://github.com/github/vulcanizer) - GitHub's ops focused Elasticsearch library
-- [micro/micro](https://github.com/micro/micro) - Micro is an open source distributed cloud OS
+- [micro/micro](https://github.com/micro/micro) - Micro is a distributed cloud operating system
 - [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
@@ -901,7 +902,6 @@
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - Introduction to modern Prolog
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [bep/docuapi](https://github.com/bep/docuapi) - Beautiful multilingual API documentation theme for Hugo
