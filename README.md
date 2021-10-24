@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel)
-2. ⭐ Starred [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing)
-3. ⭐ Starred [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
+1. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)
+2. ⭐ Starred [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim)
+3. ⭐ Starred [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
