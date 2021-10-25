@@ -110,6 +110,7 @@
 
 ## C 
 
+- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [mborgerson/xemu](https://github.com/mborgerson/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
@@ -991,6 +992,7 @@
 
 ## JavaScript 
 
+- [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [stackgl/shader-school](https://github.com/stackgl/shader-school) - :mortar_board: A workshopper for GLSL shaders and graphics programming
 - [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1537,6 +1539,7 @@
 
 ## Python 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
@@ -1587,7 +1590,7 @@
 - [doyensec/regexploit](https://github.com/doyensec/regexploit) - Find regular expressions which are vulnerable to ReDoS (Regular Expression Denial of Service)
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
-- [lux-org/lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
+- [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -2054,6 +2057,7 @@
 
 ## Rust 
 
+- [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
@@ -2109,7 +2113,7 @@
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [NerdyPepper/dijo](https://github.com/NerdyPepper/dijo) - scriptable, curses-based, digital habit tracker
+- [nerdypepper/dijo](https://github.com/nerdypepper/dijo) - scriptable, curses-based, digital habit tracker
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
