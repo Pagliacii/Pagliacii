@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nginx/nginx](https://github.com/nginx/nginx)
-2. ⭐ Starred [nuta/kerla](https://github.com/nuta/kerla)
-3. ⭐ Starred [frappe/erpnext](https://github.com/frappe/erpnext)
+1. ⭐ Starred [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer)
+2. ⭐ Starred [nginx/nginx](https://github.com/nginx/nginx)
+3. ⭐ Starred [nuta/kerla](https://github.com/nuta/kerla)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
