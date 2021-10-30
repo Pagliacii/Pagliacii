@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [laixintao/lobbyboy](https://github.com/laixintao/lobbyboy)
-2. ⭐ Starred [lewish/asciiflow](https://github.com/lewish/asciiflow)
-3. ⭐ Starred [betterRunner/context-note](https://github.com/betterRunner/context-note)
+1. ⭐ Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
+2. ⭐ Starred [laixintao/lobbyboy](https://github.com/laixintao/lobbyboy)
+3. ⭐ Starred [lewish/asciiflow](https://github.com/lewish/asciiflow)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
