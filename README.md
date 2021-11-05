@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu)
-2. ⭐ Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
-3. ⭐ Starred [laixintao/lobbyboy](https://github.com/laixintao/lobbyboy)
+1. ⭐ Starred [openatx/uiautomator2](https://github.com/openatx/uiautomator2)
+2. ⭐ Starred [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services)
+3. ⭐ Starred [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
