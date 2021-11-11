@@ -131,7 +131,7 @@
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [rime/ibus-rime](https://github.com/rime/ibus-rime) - 【中州韻】Rime for Linux/IBus
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [EtchedPixels/FUZIX](https://github.com/EtchedPixels/FUZIX) - FuzixOS: Because Small Is Beautiful
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
@@ -1254,6 +1254,7 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [Hyperparticle/one-pixel-attack-keras](https://github.com/Hyperparticle/one-pixel-attack-keras) - Keras implementation of "One pixel attack for fooling deep neural networks" using differential evolution on Cifar10 and ImageNet
 - [AppliedDataSciencePartners/DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) - A replica of the AlphaZero methodology for deep reinforcement learning in Python
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 
 ## Kotlin 
@@ -2010,7 +2011,6 @@
 - [the-Infected-Drake/TIDoS-Framework](https://github.com/the-Infected-Drake/TIDoS-Framework) - A web-penetration testing toolkit, presently suited for reconnaissance purposes.
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [marcdacosta/ambient-shipping](https://github.com/marcdacosta/ambient-shipping) - This repo contains utilities for capturing AIS messages and joining them with shipping records.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
@@ -2604,6 +2604,7 @@
 
 ## Vim script 
 
+- [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
@@ -2710,7 +2711,7 @@
 ## Vue 
 
 - [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: Open Source Airtable Alternative
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
