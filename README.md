@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sainnhe/everforest](https://github.com/sainnhe/everforest)
-2. ⭐ Starred [rg3dengine/rusty-editor](https://github.com/rg3dengine/rusty-editor)
-3. ⭐ Starred [openatx/uiautomator2](https://github.com/openatx/uiautomator2)
+1. ⭐ Starred [rossant/awesome-math](https://github.com/rossant/awesome-math)
+2. ⭐ Starred [sainnhe/everforest](https://github.com/sainnhe/everforest)
+3. ⭐ Starred [rg3dengine/rusty-editor](https://github.com/rg3dengine/rusty-editor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
