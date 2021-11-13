@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rossant/awesome-math](https://github.com/rossant/awesome-math)
-2. ⭐ Starred [sainnhe/everforest](https://github.com/sainnhe/everforest)
-3. ⭐ Starred [rg3dengine/rusty-editor](https://github.com/rg3dengine/rusty-editor)
+1. ⭐ Starred [FPGAwars/apio](https://github.com/FPGAwars/apio)
+2. ⭐ Starred [YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr)
+3. ⭐ Starred [rossant/awesome-math](https://github.com/rossant/awesome-math)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
