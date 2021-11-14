@@ -110,6 +110,7 @@
 
 ## C 
 
+- [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
@@ -319,6 +320,8 @@
 
 ## C++ 
 
+- [YosysHQ/yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
+- [YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr) - nextpnr portable FPGA place and route tool
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
@@ -1542,6 +1545,7 @@
 
 ## Python 
 
+- [FPGAwars/apio](https://github.com/FPGAwars/apio) - :seedling: Open source ecosystem for open FPGA boards
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [laixintao/lobbyboy](https://github.com/laixintao/lobbyboy) - A lobby boy will create a VPS server when you need one, and destroy it after using it.
