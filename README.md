@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [laixintao/tokei-pie](https://github.com/laixintao/tokei-pie)
-2. ⭐ Starred [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave)
-3. ⭐ Starred [YosysHQ/yosys](https://github.com/YosysHQ/yosys)
+1. ⭐ Starred [roapi/roapi](https://github.com/roapi/roapi)
+2. ⭐ Starred [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker)
+3. ⭐ Starred [laixintao/tokei-pie](https://github.com/laixintao/tokei-pie)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
