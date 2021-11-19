@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave)
-2. ⭐ Starred [YosysHQ/yosys](https://github.com/YosysHQ/yosys)
-3. ⭐ Starred [FPGAwars/apio](https://github.com/FPGAwars/apio)
+1. ⭐ Starred [laixintao/tokei-pie](https://github.com/laixintao/tokei-pie)
+2. ⭐ Starred [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave)
+3. ⭐ Starred [YosysHQ/yosys](https://github.com/YosysHQ/yosys)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
