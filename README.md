@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [koekeishiya/skhd](https://github.com/koekeishiya/skhd)
-2. ⭐ Starred [roapi/roapi](https://github.com/roapi/roapi)
-3. ⭐ Starred [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker)
+1. ⭐ Starred [cmacrae/spacebar](https://github.com/cmacrae/spacebar)
+2. ⭐ Starred [koekeishiya/skhd](https://github.com/koekeishiya/skhd)
+3. ⭐ Starred [roapi/roapi](https://github.com/roapi/roapi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
