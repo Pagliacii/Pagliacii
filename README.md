@@ -127,7 +127,7 @@ HTML                     1 hr 4 mins         ░░░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
