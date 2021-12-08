@@ -81,8 +81,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lepture/authlib](https://github.com/lepture/authlib)
-2. ⭐ Starred [cmacrae/spacebar](https://github.com/cmacrae/spacebar)
+1. ⭐ Starred [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs)
+2. ⭐ Starred [lepture/authlib](https://github.com/lepture/authlib)
 3. ⭐ Starred [koekeishiya/skhd](https://github.com/koekeishiya/skhd)
 <!--RECENT_ACTIVITY:end-->
 
