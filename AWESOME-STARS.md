@@ -1296,6 +1296,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## OCaml 
@@ -1380,7 +1381,6 @@
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [18F/technology-budgeting](https://github.com/18F/technology-budgeting) - See https://derisking-guide.18f.gov/
 - [veeral-patel/awesome-risk-quantification](https://github.com/veeral-patel/awesome-risk-quantification) - A collection of awesome projects, blog posts, books, and talks on quantifying risk
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [vicky002/1000_Projects](https://github.com/vicky002/1000_Projects) - :sunglasses: Mega List of practical projects that one can solve in any programming language!
 - [PizzaPokerGuy/ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) - A collection of the best resources for programming, web development, computer science and more.
