@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [snakemake/snakemake](https://github.com/snakemake/snakemake)
-2. ⭐ Starred [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
-3. ⭐ Starred [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs)
+1. ⭐ Starred [inconvergent/weird](https://github.com/inconvergent/weird)
+2. ⭐ Starred [snakemake/snakemake](https://github.com/snakemake/snakemake)
+3. ⭐ Starred [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
