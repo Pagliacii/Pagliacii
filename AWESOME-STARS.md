@@ -829,7 +829,6 @@
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-- [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [andlabs/ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
@@ -2539,7 +2538,7 @@
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
-- [kommandr/kmdr-cli](https://github.com/kommandr/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
+- [explainDev/kmdr-cli](https://github.com/explainDev/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
@@ -2595,6 +2594,7 @@
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [savecost/datav](https://github.com/savecost/datav) - 📊https://datav.io is a lightweight but better alternative to Grafana, providen visualization for metrics,traces and logs etc,  You can use datav as a standalone service like grafana, but it's better to use it with ai-apm for apm purposes.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
