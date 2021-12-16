@@ -586,7 +586,7 @@
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC infrastructure. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -680,7 +680,7 @@
 - [zeromake/docker-debug](https://github.com/zeromake/docker-debug) - use new container attach on already container go on debug
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
-- [cdr/sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
+- [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
@@ -2577,7 +2577,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
@@ -2593,7 +2593,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [savecost/datav](https://github.com/savecost/datav) - 📊https://datav.io is a lightweight but better alternative to Grafana, providen visualization for metrics,traces and logs etc,  You can use datav as a standalone service like grafana, but it's better to use it with ai-apm for apm purposes.
+- [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [ihexxa/quickshare](https://github.com/ihexxa/quickshare) - Quick and simple file sharing between different devices, built with Go, React and Typescript.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
@@ -2742,7 +2742,7 @@
 
 ## YASnippet 
 
-- [hlissner/doom-snippets](https://github.com/hlissner/doom-snippets) - The Doom Emacs snippets library
+- [doomemacs/snippets](https://github.com/doomemacs/snippets) - The Doom Emacs snippets library
 
 
 ## License
