@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [andreev-io/little-raft](https://github.com/andreev-io/little-raft)
-2. ⭐ Starred [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
-3. ⭐ Starred [inconvergent/weird](https://github.com/inconvergent/weird)
+1. ⭐ Starred [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
+2. ⭐ Starred [andreev-io/little-raft](https://github.com/andreev-io/little-raft)
+3. ⭐ Starred [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
