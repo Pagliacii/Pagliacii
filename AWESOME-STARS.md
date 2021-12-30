@@ -335,7 +335,7 @@
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM.
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and nanosecond C++ profiler, logger, tests enabler
+- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [kirillkovalenko/nssm](https://github.com/kirillkovalenko/nssm) - Non-Sucking Service Manager
 - [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor) - A collection of out-of-tree LLVM passes for teaching and learning
@@ -416,7 +416,6 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -1026,6 +1025,7 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [touch-callable/touch-callable](https://github.com/touch-callable/touch-callable) - Automatically generate a Web UI for Python function using type annotations.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1044,7 +1044,7 @@
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [tom-james-watson/dat-cp](https://github.com/tom-james-watson/dat-cp) - dcp | Dat Copy - remote file copy, powered by the Dat protocol
-- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -1817,6 +1817,7 @@
 - [stackless-dev/stackless](https://github.com/stackless-dev/stackless) - The Stackless Python programming language
 - [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
+- [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [rabbitism/GadioVideo](https://github.com/rabbitism/GadioVideo) - Generate Gadio videos from existing gadio timeline..
@@ -2415,7 +2416,7 @@
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
 - [harttle/macbook-lighter](https://github.com/harttle/macbook-lighter) - Macbook screen and keyboard backlight on the ambient light
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
@@ -2537,7 +2538,6 @@
 - [ebkr/r2modmanPlus](https://github.com/ebkr/r2modmanPlus) - A simple and easy to use mod manager for several Unity games using Thunderstore
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
