@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya)
-2. ⭐ Starred [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
-3. ⭐ Starred [andreev-io/little-raft](https://github.com/andreev-io/little-raft)
+1. ⭐ Starred [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
+2. ⭐ Starred [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya)
+3. ⭐ Starred [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
