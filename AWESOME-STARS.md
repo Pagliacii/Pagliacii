@@ -73,6 +73,7 @@
   - [VBA](#vba)
   - [VBScript](#vbscript)
   - [Vala](#vala)
+  - [Verilog](#verilog)
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
@@ -111,6 +112,7 @@
 
 ## C 
 
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave) - GTKWave is a fully featured GTK+ based wave viewer for Unix and Win32 which reads LXT, LXT2, VZT, FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
@@ -1549,11 +1551,14 @@
 
 ## Python 
 
+- [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
+- [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
+- [nameko/nameko](https://github.com/nameko/nameko) - Python framework for building microservices
+- [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy) - WeChat SDK for Python
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [laixintao/tokei-pie](https://github.com/laixintao/tokei-pie) - Render tokei's output to interactive sunburst chart.
-- [FPGAwars/apio](https://github.com/FPGAwars/apio) - :seedling: Open source ecosystem for open FPGA boards
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [lobbyboy-ssh/lobbyboy](https://github.com/lobbyboy-ssh/lobbyboy) - A lobby boy will create a VPS server when you need one, and destroy it after using it.
@@ -2081,6 +2086,7 @@
 
 ## Rust 
 
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for static datasets without writing a single line of code.
@@ -2621,6 +2627,10 @@
 ## Vala 
 
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+
+## Verilog 
+
+- [FPGAwars/apio](https://github.com/FPGAwars/apio) - :seedling: Open source ecosystem for open FPGA boards
 
 ## Vim Snippet 
 
