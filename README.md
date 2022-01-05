@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)
-2. ⭐ Starred [upx/upx](https://github.com/upx/upx)
-3. ⭐ Starred [PyO3/maturin](https://github.com/PyO3/maturin)
+1. ⭐ Starred [darold/pgbadger](https://github.com/darold/pgbadger)
+2. ⭐ Starred [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats)
+3. ⭐ Starred [upx/upx](https://github.com/upx/upx)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
