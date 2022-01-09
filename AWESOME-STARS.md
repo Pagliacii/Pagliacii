@@ -112,6 +112,7 @@
 
 ## C 
 
+- [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -314,7 +315,7 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
-- [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build HTML Desktop Apps on .NET/.NET Core/.NET 5 using native GUI, HTML5, JavaScript, CSS
+- [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [relativty/wrmhl](https://github.com/relativty/wrmhl) - (Archived) Simple communication between Unity3D and Arduino - by Maxim xyz.
 - [dvf/blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
@@ -474,6 +475,7 @@
 
 ## CSS 
 
+- [angea/pocorgtfo](https://github.com/angea/pocorgtfo) - a "Proof of Concept or GTFO" mirror with extra article index, direct links and clean PDFs.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
@@ -1505,6 +1507,7 @@
 
 ## PHP 
 
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
@@ -1550,6 +1553,7 @@
 
 ## Python 
 
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [nameko/nameko](https://github.com/nameko/nameko) - Python framework for building microservices
@@ -2085,6 +2089,7 @@
 
 ## Rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [andreev-io/little-raft](https://github.com/andreev-io/little-raft) - The lightest distributed consensus library. Run your own replicated state machine! ❤️
