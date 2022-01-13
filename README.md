@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
-2. ⭐ Starred [FastVM/minivm](https://github.com/FastVM/minivm)
-3. ⭐ Starred [xxh/xxh](https://github.com/xxh/xxh)
+1. 🎉 Merged PR [#1](https://github.com/Pagliacii/extract_pdf_files/pull/1) in [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)
+2. ⭐ Starred [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)
+3. ⭐ Starred [FastVM/minivm](https://github.com/FastVM/minivm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
