@@ -792,7 +792,7 @@
 - [schollz/pake](https://github.com/schollz/pake) - PAKE library for generating a strong secret between parties over an insecure channel
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -1308,6 +1308,7 @@
 
 ## OCaml 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
 - [mgree/smoosh](https://github.com/mgree/smoosh) - The Symbolic, Mechanized, Observable, Operational SHell: an executable formalization of the POSIX shell standard.
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
@@ -1941,6 +1942,7 @@
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [yoda-pa/yoda](https://github.com/yoda-pa/yoda) - Wise and powerful personal assistant, available in your nearest terminal
 - [dn1z/pgn2gif](https://github.com/dn1z/pgn2gif) - A small tool that generates gif of a chess game
+- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [google/sg2im](https://github.com/google/sg2im) - Code for "Image Generation from Scene Graphs", Johnson et al, CVPR 2018
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube
@@ -2107,7 +2109,6 @@
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
 - [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries.
@@ -2453,7 +2454,6 @@
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [go-modules-by-example/index](https://github.com/go-modules-by-example/index) - Go modules by example is a series of work-along guides
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [alcor/itty-bitty](https://github.com/alcor/itty-bitty) - Itty.bitty is a tool to create links that contain small sites
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
