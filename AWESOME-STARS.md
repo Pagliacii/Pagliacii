@@ -24,6 +24,7 @@
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [GDScript](#gdscript)
+  - [GLSL](#glsl)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [HTML](#html)
@@ -390,6 +391,7 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [ssloy/triador](https://github.com/ssloy/triador) - Ternary computer emulator
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+- [maxbachmann/RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects
 - [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [CoatiSoftware/SourcetrailDB](https://github.com/CoatiSoftware/SourcetrailDB) - Library to export Sourcetrail compatible database files for writing custom indexers
@@ -525,7 +527,6 @@
 ## Cython 
 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
-- [maxbachmann/RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 
 ## Dart 
 
@@ -575,6 +576,10 @@
 - [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot game engine!
 - [securas/LDtk2Godot](https://github.com/securas/LDtk2Godot) - A plugin to import LDtk tilemaps into Godot
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
+
+## GLSL 
+
+- [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 
 ## Gnuplot 
 
@@ -1308,7 +1313,6 @@
 
 ## OCaml 
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
 - [mgree/smoosh](https://github.com/mgree/smoosh) - The Symbolic, Mechanized, Observable, Operational SHell: an executable formalization of the POSIX shell standard.
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
@@ -1324,6 +1328,7 @@
 
 ## Others 
 
+- [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [xinali/articles](https://github.com/xinali/articles) - Personal Blog/主记录漏洞挖掘相关研究(文章位于issues)
 - [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
@@ -2047,7 +2052,6 @@
 - [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [OmkarPathak/pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
-- [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [PyFilesystem/pyfilesystem](https://github.com/PyFilesystem/pyfilesystem) - Python filesystem abstraction layer
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -2109,6 +2113,7 @@
 - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
 - [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries.
