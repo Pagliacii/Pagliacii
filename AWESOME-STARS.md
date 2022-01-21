@@ -186,7 +186,7 @@
 - [alephsecurity/xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64) - 
 - [TimeToogo/ff-proxy](https://github.com/TimeToogo/ff-proxy) - A UDP to TCP proxy server for sending HTTP requests with zero roundtrips
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [blacksphere/blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [rxi/fe](https://github.com/rxi/fe) - A tiny, embeddable language implemented in ANSI C
 - [izabera/zeromaps](https://github.com/izabera/zeromaps) - A "living" Linux process with no memory
@@ -2527,7 +2527,7 @@
 
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
-- [AriaMinaei/theatre](https://github.com/AriaMinaei/theatre) - Motion design editor for the web
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
