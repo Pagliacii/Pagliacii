@@ -81,8 +81,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
-2. ⭐ Starred [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+1. ⭐ Starred [ogham/dog](https://github.com/ogham/dog)
+2. ⭐ Starred [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 3. 🎉 Merged PR [#1](https://github.com/Pagliacii/extract_pdf_files/pull/1) in [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)
 <!--RECENT_ACTIVITY:end-->
 
