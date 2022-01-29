@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [theryangeary/choose](https://github.com/theryangeary/choose)
-2. ⭐ Starred [cube2222/octosql](https://github.com/cube2222/octosql)
-3. ⭐ Starred [rgcr/m-cli](https://github.com/rgcr/m-cli)
+1. ⭐ Starred [gleitz/howdoi](https://github.com/gleitz/howdoi)
+2. ⭐ Starred [theryangeary/choose](https://github.com/theryangeary/choose)
+3. ⭐ Starred [cube2222/octosql](https://github.com/cube2222/octosql)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
