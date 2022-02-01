@@ -1039,6 +1039,7 @@
 - [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [touch-callable/touch-callable](https://github.com/touch-callable/touch-callable) - Automatically generate a Web UI for Python function using type annotations.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
@@ -1282,7 +1283,7 @@
 
 ## Lua 
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
 - [hmathsan/dotfiles](https://github.com/hmathsan/dotfiles) - Dotfiles for my Arch linux setup
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
@@ -1669,7 +1670,6 @@
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [vineetjohn/daily-coding-problem](https://github.com/vineetjohn/daily-coding-problem) - Solutions to problems sent by dailycodingproblem.com
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [terrencepreilly/darglint](https://github.com/terrencepreilly/darglint) - A python documentation linter which checks that the docstring description matches the definition.
