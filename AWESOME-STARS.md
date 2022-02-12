@@ -861,7 +861,7 @@
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [icexin/gocraft](https://github.com/icexin/gocraft) - A Minecraft like game written in go
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [ysrc/yulong-hids-archived](https://github.com/ysrc/yulong-hids-archived) - 一款由 YSRC 开源的主机入侵检测系统
+- [ysrc/yulong-hids-archived](https://github.com/ysrc/yulong-hids-archived) - [archived] 一款实验性质的主机入侵检测系统
 - [fzerorubigd/goql](https://github.com/fzerorubigd/goql) - A golang source code scanner, this time in sql :)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [balacode/one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.
@@ -1283,7 +1283,7 @@
 
 ## Lua 
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [hmathsan/dotfiles](https://github.com/hmathsan/dotfiles) - Dotfiles for my Arch linux setup
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
@@ -2558,7 +2558,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
+- [widgetti/ipyvolume](https://github.com/widgetti/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [benawad/vsinder](https://github.com/benawad/vsinder) - Dating App for VSCode
