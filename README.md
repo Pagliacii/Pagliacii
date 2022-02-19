@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tstack/lnav](https://github.com/tstack/lnav)
-2. 💪 Opened PR [#1984](https://github.com/redis/redis-py/pull/1984) in [redis/redis-py](https://github.com/redis/redis-py)
-3. 🔱 Forked [Pagliacii/redis-py](https://github.com/Pagliacii/redis-py) from [redis/redis-py](https://github.com/redis/redis-py)
+1. ⭐ Starred [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
+2. ⭐ Starred [tstack/lnav](https://github.com/tstack/lnav)
+3. 💪 Opened PR [#1984](https://github.com/redis/redis-py/pull/1984) in [redis/redis-py](https://github.com/redis/redis-py)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
