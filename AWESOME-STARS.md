@@ -19,7 +19,6 @@
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
   - [Cython](#cython)
-  - [D](#d)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
@@ -81,6 +80,7 @@
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
   - [YASnippet](#yasnippet)
+  - [hoon](#hoon)
 
 ## AsciiDoc 
 
@@ -113,6 +113,7 @@
 
 ## C 
 
+- [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -190,7 +191,6 @@
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [rxi/fe](https://github.com/rxi/fe) - A tiny, embeddable language implemented in ANSI C
 - [izabera/zeromaps](https://github.com/izabera/zeromaps) - A "living" Linux process with no memory
-- [urbit/urbit](https://github.com/urbit/urbit) - An operating function
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
 - [connor-brooks/ecosim](https://github.com/connor-brooks/ecosim) - An interactive ecosystem and evolution simulator written in C and OpenGL, for GNU/Linux.
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
@@ -305,7 +305,7 @@
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - https://1.2345345.xyz/ads.html
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
@@ -527,10 +527,6 @@
 ## Cython 
 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
-
-## D 
-
-- [FastVM/minivm](https://github.com/FastVM/minivm) - A VM That is Dynamic and Fast
 
 ## Dart 
 
@@ -2779,6 +2775,10 @@
 ## YASnippet 
 
 - [doomemacs/snippets](https://github.com/doomemacs/snippets) - The Doom Emacs snippets library
+
+## hoon 
+
+- [urbit/urbit](https://github.com/urbit/urbit) - An operating function
 
 
 ## License
