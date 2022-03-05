@@ -2495,6 +2495,7 @@
 
 ## Swift 
 
+- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
