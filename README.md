@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Pagliacii/sicp-reg-machine](https://github.com/Pagliacii/sicp-reg-machine)
-2. ⭐ Starred [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
-3. 💪 Opened PR [#1984](https://github.com/redis/redis-py/pull/1984) in [redis/redis-py](https://github.com/redis/redis-py)
+1. 🎉 Merged PR [#2](https://github.com/Pagliacii/extract_pdf_files/pull/2) in [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)
+2. ⭐ Starred [Pagliacii/sicp-reg-machine](https://github.com/Pagliacii/sicp-reg-machine)
+3. ⭐ Starred [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
