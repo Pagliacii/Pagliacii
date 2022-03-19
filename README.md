@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis)
-2. 🎉 Merged PR [#2](https://github.com/Pagliacii/extract_pdf_files/pull/2) in [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)
-3. ⭐ Starred [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
+1. ⭐ Starred [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
+2. ⭐ Starred [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1)
+3. ⭐ Starred [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
