@@ -981,6 +981,7 @@
 
 ## Java 
 
+- [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [w3c/epubcheck](https://github.com/w3c/epubcheck) - Validation tool for EPUB
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
@@ -2097,6 +2098,7 @@
 
 ## Rust 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
@@ -2532,6 +2534,7 @@
 
 ## TypeScript 
 
+- [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
