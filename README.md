@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [redis/redis](https://github.com/redis/redis)
-2. ⭐ Starred [rxin/db-readings](https://github.com/rxin/db-readings)
-3. ⭐ Starred [fluent/fluentd](https://github.com/fluent/fluentd)
+1. ⭐ Starred [slint-ui/slint](https://github.com/slint-ui/slint)
+2. ⭐ Starred [raysan5/raygui](https://github.com/raysan5/raygui)
+3. ⭐ Starred [redis/redis](https://github.com/redis/redis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
