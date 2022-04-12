@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Junnplus/blog](https://github.com/Junnplus/blog)
-2. ⭐ Starred [clojure/core.logic](https://github.com/clojure/core.logic)
-3. ⭐ Starred [nelhage/reptyr](https://github.com/nelhage/reptyr)
+1. ⭐ Starred [samber/lo](https://github.com/samber/lo)
+2. ⭐ Starred [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
+3. ⭐ Starred [Junnplus/blog](https://github.com/Junnplus/blog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
