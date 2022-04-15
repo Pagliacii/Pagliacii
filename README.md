@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ducaale/xh](https://github.com/ducaale/xh)
-2. ⭐ Starred [httpie/httpie](https://github.com/httpie/httpie)
-3. ⭐ Starred [samber/lo](https://github.com/samber/lo)
+1. ⭐ Starred [safing/portmaster](https://github.com/safing/portmaster)
+2. ⭐ Starred [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML)
+3. ⭐ Starred [ducaale/xh](https://github.com/ducaale/xh)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
