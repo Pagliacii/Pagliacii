@@ -2515,6 +2515,7 @@
 
 ## Swift 
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
@@ -2557,7 +2558,7 @@
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
