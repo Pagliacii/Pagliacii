@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bloomberg/memray](https://github.com/bloomberg/memray)
-2. ⭐ Starred [exelban/stats](https://github.com/exelban/stats)
-3. ⭐ Starred [safing/portmaster](https://github.com/safing/portmaster)
+1. ⭐ Starred [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
+2. ⭐ Starred [bloomberg/memray](https://github.com/bloomberg/memray)
+3. ⭐ Starred [exelban/stats](https://github.com/exelban/stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
