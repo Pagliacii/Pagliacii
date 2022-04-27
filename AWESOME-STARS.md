@@ -774,7 +774,7 @@
 - [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [nsf/termbox-go](https://github.com/nsf/termbox-go) - Pure Go termbox implementation
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
 - [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync
 - [oxplot/pdftilecut](https://github.com/oxplot/pdftilecut) - pdftilecut lets you sub-divide a PDF page(s) into smaller pages so you can print them on small form printers.
 - [lavalamp-/ipv666](https://github.com/lavalamp-/ipv666) - Golang IPv6 address enumeration
@@ -1061,6 +1061,7 @@
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [tom-james-watson/dat-cp](https://github.com/tom-james-watson/dat-cp) - dcp | Dat Copy - remote file copy, powered by the Dat protocol
+- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -1612,7 +1613,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
-- [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit
+- [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
