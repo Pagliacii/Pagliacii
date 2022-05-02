@@ -563,7 +563,6 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [redguardtoo/elpa-mirror](https://github.com/redguardtoo/elpa-mirror) - Create local emacs package repository. 15 seconds to install 115 packages.
 - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
@@ -1089,7 +1088,7 @@
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [Devs-Garden/jsonbase](https://github.com/Devs-Garden/jsonbase) - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.
+- [syamdanda/jsonbase](https://github.com/syamdanda/jsonbase) - A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new features and providing more updates. The another beautiful advantage with JSON-base is since it is a NPM module, this fits well in your nodeJs applications eco system. if you want to develop quick prototypes/poc or need of a database with minimal requirements then, JSONBASe is an must option that you can consider. However there is a limitation if you go beyond a million records per table.
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [appium/appium](https://github.com/appium/appium) - :iphone: Automation for iOS, Android, and Windows Apps.
 - [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library
@@ -1698,6 +1697,7 @@
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 - [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - A website application running in Google app engine, deliver rss news to your kindle. generate mobi using python, multilanguages supported.
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [thautwarm/frontend-for-free](https://github.com/thautwarm/frontend-for-free) - end the parsing problem
 - [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [Kharacternyk/dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
