@@ -81,8 +81,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-2. ⭐ Starred [bloomberg/memray](https://github.com/bloomberg/memray)
+1. ⭐ Starred [rtitmuss/torn](https://github.com/rtitmuss/torn)
+2. ⭐ Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
 3. ⭐ Starred [exelban/stats](https://github.com/exelban/stats)
 <!--RECENT_ACTIVITY:end-->
 
