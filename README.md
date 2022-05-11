@@ -87,7 +87,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C832%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C832%20hrs%2049%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -127,7 +127,7 @@ Text                     15 mins             ░░░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 11/05/2022 02:18:59 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
