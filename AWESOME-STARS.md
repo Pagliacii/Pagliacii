@@ -1710,7 +1710,7 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11. The user is expected to have knowledge of theoretical computer science. https://github.com/seebye/ueberzug/wiki/
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
-- [python/typing](https://github.com/python/typing) - Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.
+- [python/typing](https://github.com/python/typing) - Python static typing home. Hosts the documentation and a user help forum.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
