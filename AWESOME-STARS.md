@@ -103,7 +103,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 
 ## Batchfile 
@@ -1263,7 +1263,7 @@
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
 - [experiencor/self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car) - A self driving toy car using end-to-end learning
@@ -1830,7 +1830,7 @@
 - [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
+- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [martinblech/xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
