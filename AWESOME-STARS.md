@@ -677,7 +677,7 @@
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Minimum resources, better performance. Iris is environmentally friendly :leaves:  | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
@@ -2182,7 +2182,7 @@
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 - [ogham/rust-ansi-term](https://github.com/ogham/rust-ansi-term) - Rust library for ANSI terminal colours and styles (bold, underline)
-- [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [zhming0/sai](https://github.com/zhming0/sai) - A minimal IoC/DI framework for Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
