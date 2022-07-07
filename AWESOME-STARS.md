@@ -78,6 +78,7 @@
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [YASnippet](#yasnippet)
+- [Zig](#zig)
 - [hoon](#hoon)
 
 ## AsciiDoc 
@@ -2789,6 +2790,10 @@
 ## YASnippet 
 
 - [doomemacs/snippets](https://github.com/doomemacs/snippets) - The Doom Emacs snippets library
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## hoon 
 
