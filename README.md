@@ -87,7 +87,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C086%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C086%20hrs%2045%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -127,7 +127,7 @@ Cheetah                  3 hrs 29 mins       ██░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 10/07/2022 02:41:13 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
