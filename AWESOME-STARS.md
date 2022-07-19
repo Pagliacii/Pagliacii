@@ -491,7 +491,7 @@
 - [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 - [emacs-china/Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [tailwindlabs/designing-with-tailwindcss](https://github.com/tailwindlabs/designing-with-tailwindcss) - Source code for the "Designing with Tailwind CSS" course.
-- [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python 中文版）
+- [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python - Chinese Version）
 - [B00merang-Project/Windows-10](https://github.com/B00merang-Project/Windows-10) - Windows 10 Light theme for Linux (GTK)
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
@@ -1843,7 +1843,7 @@
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [rabbitism/GadioVideo](https://github.com/rabbitism/GadioVideo) - Generate Gadio videos from existing gadio timeline..
-- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [ethereum/lahja](https://github.com/ethereum/lahja) - Lahja is a generic multi process event bus implementation written in Python 3.6+ to enable lightweight inter-process communication, based on non-blocking asyncio
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
