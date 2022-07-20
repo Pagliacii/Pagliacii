@@ -81,8 +81,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ziglang/zig](https://github.com/ziglang/zig)
-2. 💪 Opened PR [#1](https://github.com/Pagliacii/NvChad/pull/1) in [Pagliacii/NvChad](https://github.com/Pagliacii/NvChad)
+1. ⭐ Starred [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library)
+2. ⭐ Starred [pointhi/kicad-color-schemes](https://github.com/pointhi/kicad-color-schemes)
 3. ⭐ Starred [geovens/gInk](https://github.com/geovens/gInk)
 <!--RECENT_ACTIVITY:end-->
 
