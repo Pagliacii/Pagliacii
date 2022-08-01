@@ -1600,7 +1600,7 @@
 - [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 - [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automati
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
 - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
