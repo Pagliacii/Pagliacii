@@ -81,7 +81,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library)
+1. ⭐ Starred [issus/altium-library](https://github.com/issus/altium-library)
 2. ⭐ Starred [pointhi/kicad-color-schemes](https://github.com/pointhi/kicad-color-schemes)
 3. ⭐ Starred [geovens/gInk](https://github.com/geovens/gInk)
 <!--RECENT_ACTIVITY:end-->
