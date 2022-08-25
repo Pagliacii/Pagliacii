@@ -74,8 +74,8 @@
 - [VBScript](#vbscript)
 - [Vala](#vala)
 - [Verilog](#verilog)
+- [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
-- [Vim script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [YASnippet](#yasnippet)
@@ -727,8 +727,8 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [github/vulcanizer](https://github.com/github/vulcanizer) - GitHub's ops focused Elasticsearch library
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [micro/micro](https://github.com/micro/micro) - API first development platform
-- [chai2010/go2-book](https://github.com/chai2010/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
+- [micro/micro](https://github.com/micro/micro) - API first services platform
+- [golang-china/go2-book](https://github.com/golang-china/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
 - [peterh/liner](https://github.com/peterh/liner) - Pure Go line editor with history, inspired by linenoise
@@ -810,7 +810,7 @@
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [goki/gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
-- [chai2010/awesome-go-zh](https://github.com/chai2010/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
+- [golang-china/awesome-go-zh](https://github.com/golang-china/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
 - [googleforgames/open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
@@ -1305,7 +1305,7 @@
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
-- [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio Service Mesh Advanced Practical - Istio服务网格进阶实战 https://www.servicemesher.com/istio-handbook/
+- [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio服务网格进阶实战
 - [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13.1 emoji color OpenType-SVG font for Linux/MacOS/Windows
 
 ## Markdown 
@@ -1576,7 +1576,7 @@
 - [pointhi/kicad-color-schemes](https://github.com/pointhi/kicad-color-schemes) - Want to change the color scheme of KiCad? Look here for Inspiration.
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter) - Formats docstrings to follow PEP 257
@@ -2672,11 +2672,7 @@
 
 - [FPGAwars/apio](https://github.com/FPGAwars/apio) - :seedling: Open source ecosystem for open FPGA boards
 
-## Vim Snippet 
-
-- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
-
-## Vim script 
+## Vim Script 
 
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
@@ -2778,6 +2774,10 @@
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
+
+## Vim Snippet 
+
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 
 ## Vue 
 
