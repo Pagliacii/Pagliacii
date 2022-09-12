@@ -1265,7 +1265,7 @@
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [virgili0/Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
 - [experiencor/self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car) - A self driving toy car using end-to-end learning
@@ -1475,7 +1475,7 @@
 - [rianhunter/dbxfs](https://github.com/rianhunter/dbxfs) - User-space file system for Dropbox
 - [ocean1/awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-- [zziz/pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
+- [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [luhuisicnu/The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh) - 翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程
 - [numbbbbb/sicp](https://github.com/numbbbbb/sicp) - 收录我完成的练习题
