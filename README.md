@@ -81,8 +81,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor)
-2. ⭐ Starred [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+1. ⭐ Starred [grbl/grbl](https://github.com/grbl/grbl)
+2. ⭐ Starred [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor)
 3. ⭐ Starred [issus/altium-library](https://github.com/issus/altium-library)
 <!--RECENT_ACTIVITY:end-->
 
