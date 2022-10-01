@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
-2. ⭐ Starred [petgraph/petgraph](https://github.com/petgraph/petgraph)
-3. ⭐ Starred [radareorg/radare2](https://github.com/radareorg/radare2)
+1. ⭐ Starred [FreddieHong19/Open5x](https://github.com/FreddieHong19/Open5x)
+2. ⭐ Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
+3. ⭐ Starred [petgraph/petgraph](https://github.com/petgraph/petgraph)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
