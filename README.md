@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
-2. ⭐ Starred [guysoft/OctoPi](https://github.com/guysoft/OctoPi)
-3. ⭐ Starred [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts)
+1. ⭐ Starred [KMKfw/kmk_firmware](https://github.com/KMKfw/kmk_firmware)
+2. ⭐ Starred [mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
+3. ⭐ Starred [guysoft/OctoPi](https://github.com/guysoft/OctoPi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
