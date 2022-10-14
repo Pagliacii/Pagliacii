@@ -471,7 +471,6 @@
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [tensorflow/minigo](https://github.com/tensorflow/minigo) - An open-source implementation of the AlphaGoZero algorithm
@@ -2550,6 +2549,7 @@
 ## SystemVerilog 
 
 - [itsFrank/MinecraftHDL](https://github.com/itsFrank/MinecraftHDL) - A Verilog synthesis flow for Minecraft redstone circuits
+- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 
 ## TeX 
 
