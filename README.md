@@ -81,8 +81,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr)
-2. ⭐ Starred [canonical/multipass](https://github.com/canonical/multipass)
+1. ⭐ Starred [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
+2. ⭐ Starred [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr)
 3. ⭐ Starred [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer)
 <!--RECENT_ACTIVITY:end-->
 
