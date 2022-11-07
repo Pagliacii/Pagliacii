@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
-2. ⭐ Starred [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr)
-3. ⭐ Starred [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer)
+1. ⭐ Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
+2. ⭐ Starred [rq/rq](https://github.com/rq/rq)
+3. ⭐ Starred [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
