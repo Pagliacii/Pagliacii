@@ -21,6 +21,7 @@
 - [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [GAP](#gap)
@@ -551,6 +552,10 @@
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node) - Distroless Node.js Docker Images
 
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
 ## Elixir 
 
 - [roylez/cloak](https://github.com/roylez/cloak) - Multi-user Shadowsocks/Trojan server written in Elixir
@@ -1038,7 +1043,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [deepnight/ld48-NuclearBlaze-48h](https://github.com/deepnight/ld48-NuclearBlaze-48h) - Nuclear Blaze, a 48h game for Ludum Dare 48
