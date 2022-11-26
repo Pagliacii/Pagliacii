@@ -81,8 +81,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs)
-2. ⭐ Starred [rq/rq](https://github.com/rq/rq)
+1. ⭐ Starred [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge)
+2. ⭐ Starred [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs)
 3. ⭐ Starred [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
 <!--RECENT_ACTIVITY:end-->
 
