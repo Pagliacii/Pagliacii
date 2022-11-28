@@ -50,6 +50,7 @@
 - [Pascal](#pascal)
 - [Pawn](#pawn)
 - [Perl](#perl)
+- [PlantUML](#plantuml)
 - [PowerShell](#powershell)
 - [PureScript](#purescript)
 - [Python](#python)
@@ -1355,7 +1356,6 @@
 - [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
 - [issus/altium-library](https://github.com/issus/altium-library) - Open source Altium Database Library with over 165,000 high quality components and full 3d models.
 - [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
-- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [junnplus/blog](https://github.com/junnplus/blog) - Junnplus's technology blog
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
@@ -1574,6 +1574,10 @@
 - [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer
 - [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+
+## PlantUML 
+
+- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 
 ## PowerShell 
 
