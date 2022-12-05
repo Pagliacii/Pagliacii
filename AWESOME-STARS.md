@@ -558,7 +558,7 @@
 
 ## Emacs Lisp 
 
-- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A smooth-as-butter asynchronous LSP client for Emaca
+- [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A smooth-as-butter asynchronous LSP client for Emacas
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [DogLooksGood/emacs-rime](https://github.com/DogLooksGood/emacs-rime) - RIME ㄓ in Emacs
 - [abrochard/mermaid-mode](https://github.com/abrochard/mermaid-mode) - Emacs major mode for working with mermaid graphs https://mermaidjs.github.io/
