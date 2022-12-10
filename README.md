@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [reloadware/reloadium](https://github.com/reloadware/reloadium)
-2. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
-3. ⭐ Starred [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge)
+1. ⭐ Starred [wuzhouhui/awk](https://github.com/wuzhouhui/awk)
+2. ⭐ Starred [crossoverJie/ptg](https://github.com/crossoverJie/ptg)
+3. ⭐ Starred [libvips/libvips](https://github.com/libvips/libvips)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
