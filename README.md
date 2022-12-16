@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wuzhouhui/awk](https://github.com/wuzhouhui/awk)
-2. ⭐ Starred [crossoverJie/ptg](https://github.com/crossoverJie/ptg)
-3. ⭐ Starred [libvips/libvips](https://github.com/libvips/libvips)
+1. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
+2. ⭐ Starred [wuzhouhui/awk](https://github.com/wuzhouhui/awk)
+3. ⭐ Starred [crossoverJie/ptg](https://github.com/crossoverJie/ptg)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
