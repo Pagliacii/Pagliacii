@@ -23,6 +23,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
+- [Erlang](#erlang)
 - [GAP](#gap)
 - [GDScript](#gdscript)
 - [Gnuplot](#gnuplot)
@@ -587,6 +588,10 @@
 - [haskell/haskell-mode](https://github.com/haskell/haskell-mode) - Emacs mode for Haskell
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+
+## Erlang 
+
+- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
 
 ## GAP 
 
@@ -1850,7 +1855,7 @@
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
 - [stuartlangridge/ColourPicker](https://github.com/stuartlangridge/ColourPicker) - A colour picker app for Ubuntu and Linux which allows picking any colour on the screen
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
@@ -2316,7 +2321,7 @@
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
-- [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
