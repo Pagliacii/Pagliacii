@@ -852,7 +852,7 @@
 - [talkgo/read](https://github.com/talkgo/read) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [rtr7/router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
+- [rtr7/router7](https://github.com/rtr7/router7) - router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [perlin-network/noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -1021,7 +1021,7 @@
 ## Java 
 
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
-- [w3c/epubcheck](https://github.com/w3c/epubcheck) - Validation tool for EPUB
+- [w3c/epubcheck](https://github.com/w3c/epubcheck) - The conformance checker for EPUB publications
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
