@@ -633,7 +633,7 @@
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server and SDKs
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -1106,7 +1106,7 @@
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - CUI 整合 for foobar2000
+- [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - :cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
