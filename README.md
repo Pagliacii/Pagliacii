@@ -81,7 +81,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pyglet/pyglet](https://github.com/pyglet/pyglet)
+1. ⭐ Starred [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot)
 2. ⭐ Starred [apache/couchdb](https://github.com/apache/couchdb)
 3. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
 <!--RECENT_ACTIVITY:end-->
