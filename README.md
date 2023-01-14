@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot)
-2. ⭐ Starred [apache/couchdb](https://github.com/apache/couchdb)
-3. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
+1. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
+2. ⭐ Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+3. ⭐ Starred [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
