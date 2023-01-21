@@ -1922,7 +1922,7 @@
 - [cknd/stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly exceptions for Python
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [NtesEyes/pylane](https://github.com/NtesEyes/pylane) - An python vm injector with debug tools, based on gdb.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [pytest-dev/pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
