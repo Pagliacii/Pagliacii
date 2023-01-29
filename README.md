@@ -87,7 +87,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C824%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C825%20hrs%2029%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -118,12 +118,12 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       47 mins             █████████████████████████   100.0%
+sh                       1 hr 36 mins        █████████████████████████   100.0%
 
 ```
 
 
-
+ Last Updated on 29/01/2023 21:20:50 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
