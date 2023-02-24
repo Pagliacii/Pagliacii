@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pola-rs/polars](https://github.com/pola-rs/polars)
-2. ⭐ Starred [jart/blink](https://github.com/jart/blink)
-3. ⭐ Starred [maaslalani/nap](https://github.com/maaslalani/nap)
+1. ⭐ Starred [neondatabase/neon](https://github.com/neondatabase/neon)
+2. ⭐ Starred [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
+3. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
