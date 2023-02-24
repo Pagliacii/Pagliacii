@@ -87,7 +87,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C931%20hrs%2054%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -124,7 +124,7 @@ Text                     0 secs              ░░░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 24/02/2023 18:30:18 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
