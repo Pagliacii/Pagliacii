@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [neondatabase/neon](https://github.com/neondatabase/neon)
-2. ⭐ Starred [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
-3. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+1. ⭐ Starred [edgedb/edgedb](https://github.com/edgedb/edgedb)
+2. ⭐ Starred [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)
+3. ⭐ Starred [neondatabase/neon](https://github.com/neondatabase/neon)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
