@@ -1736,7 +1736,7 @@
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [dabeaz/bitey](https://github.com/dabeaz/bitey) - 
-- [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles with pretrained deep neural networks, forced alignments and transformers. https://subaligner.readthedocs.io/
+- [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize, translate or generate subtitles with pretrained deep neural networks, forced alignments and transformers. https://subaligner.readthedocs.io/
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [leon-thomm/Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
 - [jgonggrijp/pip-review](https://github.com/jgonggrijp/pip-review) - A tool to keep track of your Python package updates.
@@ -2216,7 +2216,7 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) - An over-engineered rewrite of pipes.sh in Rust
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mcneja/disguiser](https://github.com/mcneja/disguiser) - 2021 7DRL game: Disguise mechanics
