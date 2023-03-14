@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)
-2. ⭐ Starred [edgedb/edgedb](https://github.com/edgedb/edgedb)
-3. ⭐ Starred [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)
+1. 🔱 Forked [Pagliacii/chatgpt_telegram_bot](https://github.com/Pagliacii/chatgpt_telegram_bot) from [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot)
+2. ⭐ Starred [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)
+3. ⭐ Starred [edgedb/edgedb](https://github.com/edgedb/edgedb)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
