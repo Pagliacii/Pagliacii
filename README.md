@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
-2. 🔱 Forked [Pagliacii/chatgpt_telegram_bot](https://github.com/Pagliacii/chatgpt_telegram_bot) from [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot)
-3. ⭐ Starred [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)
+1. ⭐ Starred [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)
+2. ⭐ Starred [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+3. 🔱 Forked [Pagliacii/chatgpt_telegram_bot](https://github.com/Pagliacii/chatgpt_telegram_bot) from [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
