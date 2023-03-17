@@ -349,7 +349,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anytime, anywhere! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝙚𝙖𝙨𝙮 way. Cut, copy, and paste anything, anytime, anywhere! 😄
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -1621,6 +1621,7 @@
 
 ## Python 
 
+- [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii) - My README.md
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
