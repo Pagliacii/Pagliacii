@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-2. ⭐ Starred [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)
-3. ⭐ Starred [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
+1. ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)
+2. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+3. ⭐ Starred [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
