@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MichaIng/DietPi](https://github.com/MichaIng/DietPi)
-2. ⭐ Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
-3. ⭐ Starred [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
+1. ⭐ Starred [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf)
+2. ⭐ Starred [MichaIng/DietPi](https://github.com/MichaIng/DietPi)
+3. ⭐ Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
