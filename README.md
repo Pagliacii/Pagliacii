@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vors/ZLocation](https://github.com/vors/ZLocation)
-2. ⭐ Starred [wez/wezterm](https://github.com/wez/wezterm)
-3. ⭐ Starred [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf)
+1. ⭐ Starred [stupidloud/nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt)
+2. ⭐ Starred [vors/ZLocation](https://github.com/vors/ZLocation)
+3. ⭐ Starred [wez/wezterm](https://github.com/wez/wezterm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
