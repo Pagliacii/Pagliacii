@@ -1356,6 +1356,7 @@
 - [mgree/smoosh](https://github.com/mgree/smoosh) - The Symbolic, Mechanized, Observable, Operational SHell: an executable formalization of the POSIX shell standard.
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [facebookarchive/pfff](https://github.com/facebookarchive/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
 
 ## Objective-C 
@@ -1831,7 +1832,6 @@
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [novoid/lazyblorg](https://github.com/novoid/lazyblorg) - Blogging with Org-mode for very lazy people
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
