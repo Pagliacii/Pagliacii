@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wklken/vim-for-server](https://github.com/wklken/vim-for-server)
-2. ⭐ Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
-3. ⭐ Starred [stupidloud/nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt)
+1. ⭐ Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+2. ⭐ Starred [wklken/vim-for-server](https://github.com/wklken/vim-for-server)
+3. ⭐ Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
