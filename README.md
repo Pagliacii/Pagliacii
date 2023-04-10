@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
-2. ⭐ Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-3. ⭐ Starred [wklken/vim-for-server](https://github.com/wklken/vim-for-server)
+1. ⭐ Starred [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
+2. ⭐ Starred [django/daphne](https://github.com/django/daphne)
+3. ⭐ Starred [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
