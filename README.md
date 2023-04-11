@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [charliermarsh/ruff](https://github.com/charliermarsh/ruff)
-2. ⭐ Starred [django/daphne](https://github.com/django/daphne)
-3. ⭐ Starred [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
+1. 🎉 Merged PR [#16](https://github.com/Pagliacii/useless-swf-player/pull/16) in [Pagliacii/useless-swf-player](https://github.com/Pagliacii/useless-swf-player)
+2. 🎉 Merged PR [#12](https://github.com/Pagliacii/useless-swf-player/pull/12) in [Pagliacii/useless-swf-player](https://github.com/Pagliacii/useless-swf-player)
+3. 🎉 Merged PR [#15](https://github.com/Pagliacii/useless-swf-player/pull/15) in [Pagliacii/useless-swf-player](https://github.com/Pagliacii/useless-swf-player)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
