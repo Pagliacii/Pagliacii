@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openfaas/faasd](https://github.com/openfaas/faasd)
-2. ⭐ Starred [openfaas/faas](https://github.com/openfaas/faas)
-3. 🎉 Merged PR [#16](https://github.com/Pagliacii/useless-swf-player/pull/16) in [Pagliacii/useless-swf-player](https://github.com/Pagliacii/useless-swf-player)
+1. ⭐ Starred [hkociemba/RubiksCube-TwophaseSolver](https://github.com/hkociemba/RubiksCube-TwophaseSolver)
+2. ⭐ Starred [openfaas/faasd](https://github.com/openfaas/faasd)
+3. ⭐ Starred [openfaas/faas](https://github.com/openfaas/faas)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
