@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hkociemba/RubiksCube-TwophaseSolver](https://github.com/hkociemba/RubiksCube-TwophaseSolver)
-2. ⭐ Starred [openfaas/faasd](https://github.com/openfaas/faasd)
-3. ⭐ Starred [openfaas/faas](https://github.com/openfaas/faas)
+1. ⭐ Starred [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust)
+2. ⭐ Starred [intel/hyperscan](https://github.com/intel/hyperscan)
+3. ⭐ Starred [onekey-sec/unblob](https://github.com/onekey-sec/unblob)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
