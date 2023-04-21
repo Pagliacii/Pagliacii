@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch)
-2. ⭐ Starred [ghdl/ghdl](https://github.com/ghdl/ghdl)
-3. ⭐ Starred [facebookincubator/cinder](https://github.com/facebookincubator/cinder)
+1. ⭐ Starred [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
+2. ⭐ Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)
+3. ⭐ Starred [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
