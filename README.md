@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline)
-2. ⭐ Starred [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
-3. ⭐ Starred [NangoHQ/nango](https://github.com/NangoHQ/nango)
+1. ⭐ Starred [simonw/datasette](https://github.com/simonw/datasette)
+2. ⭐ Starred [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1)
+3. ⭐ Starred [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
