@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [simonw/datasette](https://github.com/simonw/datasette)
-2. ⭐ Starred [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1)
-3. ⭐ Starred [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline)
+1. ⭐ Starred [KDE/krita](https://github.com/KDE/krita)
+2. ⭐ Starred [veloren/veloren](https://github.com/veloren/veloren)
+3. ⭐ Starred [simonw/datasette](https://github.com/simonw/datasette)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
