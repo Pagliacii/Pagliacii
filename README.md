@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [extism/extism](https://github.com/extism/extism)
-2. ⭐ Starred [KDE/krita](https://github.com/KDE/krita)
-3. ⭐ Starred [veloren/veloren](https://github.com/veloren/veloren)
+1. ⭐ Starred [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
+2. ❗️ Opened issue [#4745](https://github.com/ScoopInstaller/Main/issues/4745) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
+3. ⭐ Starred [extism/extism](https://github.com/extism/extism)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
