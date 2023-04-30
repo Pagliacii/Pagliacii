@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#862](https://github.com/sharpie7/circuitjs1/issues/862) in [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
-2. ⭐ Starred [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
-3. ⭐ Starred [ScoopInstaller/GithubActions](https://github.com/ScoopInstaller/GithubActions)
+1. ⭐ Starred [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
+2. ⭐ Starred [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
+3. ⭐ Starred [rustwasm/console_error_panic_hook](https://github.com/rustwasm/console_error_panic_hook)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
