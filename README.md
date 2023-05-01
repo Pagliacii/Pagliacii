@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
-2. ⭐ Starred [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
-3. ⭐ Starred [rustwasm/console_error_panic_hook](https://github.com/rustwasm/console_error_panic_hook)
+1. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+2. ⭐ Starred [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
+3. ⭐ Starred [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
