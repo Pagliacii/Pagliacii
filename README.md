@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-2. ⭐ Starred [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
-3. ⭐ Starred [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
+1. ⭐ Starred [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+2. ⭐ Starred [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)
+3. ⭐ Starred [FPGAwars/Alhambra-II-FPGA](https://github.com/FPGAwars/Alhambra-II-FPGA)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
