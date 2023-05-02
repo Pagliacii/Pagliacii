@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#47](https://github.com/Pagliacii/dotfiles/pull/47) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-2. 💪 Opened PR [#47](https://github.com/Pagliacii/dotfiles/pull/47) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. 🎉 Merged PR [#46](https://github.com/Pagliacii/dotfiles/pull/46) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+2. ⭐ Starred [miniflux/v2](https://github.com/miniflux/v2)
+3. 🎉 Merged PR [#47](https://github.com/Pagliacii/dotfiles/pull/47) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
