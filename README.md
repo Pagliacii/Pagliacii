@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
-2. ⭐ Starred [folke/lazy.nvim](https://github.com/folke/lazy.nvim)
-3. ⭐ Starred [tokio-rs/axum](https://github.com/tokio-rs/axum)
+1. ⭐ Starred [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
+2. ⭐ Starred [dreamsofcode-io/tmux](https://github.com/dreamsofcode-io/tmux)
+3. ⭐ Starred [catppuccin/nvim](https://github.com/catppuccin/nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
