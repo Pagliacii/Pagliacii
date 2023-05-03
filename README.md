@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [variar/klogg](https://github.com/variar/klogg)
-2. 💪 Opened PR [#1](https://github.com/Pagliacii/pagliacii-bucket/pull/1) in [Pagliacii/pagliacii-bucket](https://github.com/Pagliacii/pagliacii-bucket)
-3. 📔 Created new repository [Pagliacii/pagliacii-bucket](https://github.com/Pagliacii/pagliacii-bucket)
+1. 🎉 Merged PR [#1](https://github.com/Pagliacii/pagliacii-bucket/pull/1) in [Pagliacii/pagliacii-bucket](https://github.com/Pagliacii/pagliacii-bucket)
+2. ⭐ Starred [variar/klogg](https://github.com/variar/klogg)
+3. 💪 Opened PR [#1](https://github.com/Pagliacii/pagliacii-bucket/pull/1) in [Pagliacii/pagliacii-bucket](https://github.com/Pagliacii/pagliacii-bucket)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
