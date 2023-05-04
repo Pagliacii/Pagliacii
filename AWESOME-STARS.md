@@ -352,11 +352,12 @@
 
 ## C++ 
 
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new second brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 smart second brain :rocket:
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -622,6 +623,7 @@
 
 ## Go 
 
+- [deta/space-cli](https://github.com/deta/space-cli) - 
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
@@ -1620,6 +1622,7 @@
 
 ## PowerShell 
 
+- [ScoopInstaller/BucketTemplate](https://github.com/ScoopInstaller/BucketTemplate) - Template Bucket for Scoop Installer
 - [ScoopInstaller/GithubActions](https://github.com/ScoopInstaller/GithubActions) - Github Actions for Scoop buckets
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
@@ -2519,6 +2522,7 @@
 
 ## Shell 
 
+- [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
