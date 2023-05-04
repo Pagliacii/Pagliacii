@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [leozide/leocad](https://github.com/leozide/leocad)
-2. ❗️ Opened issue [#49](https://github.com/Pagliacii/dotfiles/issues/49) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. ❗️ Opened issue [#48](https://github.com/Pagliacii/dotfiles/issues/48) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. 🎉 Merged PR [#52](https://github.com/Pagliacii/dotfiles/pull/52) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+2. 💪 Opened PR [#52](https://github.com/Pagliacii/dotfiles/pull/52) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+3. 🎉 Merged PR [#51](https://github.com/Pagliacii/dotfiles/pull/51) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
