@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#52](https://github.com/Pagliacii/dotfiles/pull/52) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-2. 💪 Opened PR [#52](https://github.com/Pagliacii/dotfiles/pull/52) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. 🎉 Merged PR [#51](https://github.com/Pagliacii/dotfiles/pull/51) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. ⭐ Starred [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
+2. 🎉 Merged PR [#52](https://github.com/Pagliacii/dotfiles/pull/52) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+3. 💪 Opened PR [#52](https://github.com/Pagliacii/dotfiles/pull/52) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
