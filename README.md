@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server)
-2. ⭐ Starred [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)
-3. ⭐ Starred [amir20/dozzle](https://github.com/amir20/dozzle)
+1. 📔 Created new repository [Pagliacii/docker-lsp-zero](https://github.com/Pagliacii/docker-lsp-zero)
+2. ⭐ Starred [linuxserver/docker-openssh-server](https://github.com/linuxserver/docker-openssh-server)
+3. ⭐ Starred [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
