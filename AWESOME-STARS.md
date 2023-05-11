@@ -1404,7 +1404,6 @@
 - [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
 - [issus/altium-library](https://github.com/issus/altium-library) - Open source Altium Database Library with over 165,000 high quality components and full 3d models.
 - [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
-- [junnplus/blog](https://github.com/junnplus/blog) - Junnplus's technology blog
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [opsdisk/the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - Free copy of The Cyber Plumber's Handbook
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
