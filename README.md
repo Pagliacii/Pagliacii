@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#60](https://github.com/Pagliacii/dotfiles/issues/60) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-2. 🎉 Merged PR [#61](https://github.com/Pagliacii/dotfiles/pull/61) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. 💪 Opened PR [#61](https://github.com/Pagliacii/dotfiles/pull/61) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. 🎉 Merged PR [#62](https://github.com/Pagliacii/dotfiles/pull/62) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+2. 💪 Opened PR [#62](https://github.com/Pagliacii/dotfiles/pull/62) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+3. ✔️ Closed issue [#60](https://github.com/Pagliacii/dotfiles/issues/60) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
