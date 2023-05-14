@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz)
-2. ⭐ Starred [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
-3. 🎉 Merged PR [#62](https://github.com/Pagliacii/dotfiles/pull/62) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. ⭐ Starred [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim)
+2. ⭐ Starred [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz)
+3. ⭐ Starred [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
