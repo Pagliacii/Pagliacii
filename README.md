@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
-2. ⭐ Starred [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)
-3. ⭐ Starred [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
+1. 🎉 Merged PR [#68](https://github.com/Pagliacii/dotfiles/pull/68) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+2. 💪 Opened PR [#68](https://github.com/Pagliacii/dotfiles/pull/68) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+3. 🎉 Merged PR [#67](https://github.com/Pagliacii/dotfiles/pull/67) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
