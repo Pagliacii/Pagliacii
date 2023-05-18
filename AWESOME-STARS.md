@@ -353,7 +353,7 @@
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘐𝘮𝘢𝘨𝘪𝘯𝘦 𝘩𝘢𝘷𝘪𝘯𝘨 𝘢 𝘴𝘦𝘤𝘰𝘯𝘥 𝘣𝘳𝘢𝘪𝘯... Your new, ridonkuliciously-smart clipboard manager:rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::sunglasses:
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -1194,7 +1194,7 @@
 - [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook
 - [Schachte/Mermrender](https://github.com/Schachte/Mermrender) - 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service)
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
-- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [ncform/ncform](https://github.com/ncform/ncform) - 🍻 ncform, a very nice configuration generation way to develop forms ( vue, json-schema, form, generator )
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
@@ -1307,6 +1307,7 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [Hyperparticle/one-pixel-attack-keras](https://github.com/Hyperparticle/one-pixel-attack-keras) - Keras implementation of "One pixel attack for fooling deep neural networks" using differential evolution on Cifar10 and ImageNet
 - [AppliedDataSciencePartners/DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning) - A replica of the AlphaZero methodology for deep reinforcement learning in Python
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 
 ## Kotlin 
@@ -1316,6 +1317,9 @@
 
 ## Lua 
 
+- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim. Strongly recommended for Windows users.
+- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [adelarsq/image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) - Image Preview for Neovim 🖼
 - [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) - Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus
@@ -2160,7 +2164,6 @@
 - [spy16/pyschemes](https://github.com/spy16/pyschemes) - PySchemes is a library for validating data structures in python
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [marcdacosta/ambient-shipping](https://github.com/marcdacosta/ambient-shipping) - This repo contains utilities for capturing AIS messages and joining them with shipping records.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
@@ -2238,7 +2241,7 @@
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
