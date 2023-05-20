@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
-2. ⭐ Starred [glacambre/firenvim](https://github.com/glacambre/firenvim)
-3. 🎉 Merged PR [#70](https://github.com/Pagliacii/dotfiles/pull/70) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. ⭐ Starred [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui)
+2. ⭐ Starred [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
+3. ⭐ Starred [glacambre/firenvim](https://github.com/glacambre/firenvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
