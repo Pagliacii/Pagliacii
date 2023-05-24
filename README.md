@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
-2. 🎉 Merged PR [#73](https://github.com/Pagliacii/dotfiles/pull/73) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. 💪 Opened PR [#73](https://github.com/Pagliacii/dotfiles/pull/73) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. ⭐ Starred [mickael-menu/zk](https://github.com/mickael-menu/zk)
+2. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)
+3. ⭐ Starred [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
