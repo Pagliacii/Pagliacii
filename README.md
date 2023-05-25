@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#74](https://github.com/Pagliacii/dotfiles/pull/74) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-2. 💪 Opened PR [#74](https://github.com/Pagliacii/dotfiles/pull/74) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. ⭐ Starred [mickael-menu/zk](https://github.com/mickael-menu/zk)
+1. 🎉 Merged PR [#76](https://github.com/Pagliacii/dotfiles/pull/76) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+2. 💪 Opened PR [#76](https://github.com/Pagliacii/dotfiles/pull/76) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+3. 🎉 Merged PR [#75](https://github.com/Pagliacii/dotfiles/pull/75) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
