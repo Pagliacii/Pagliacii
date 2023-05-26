@@ -580,7 +580,6 @@
 ## Elixir 
 
 - [roylez/cloak](https://github.com/roylez/cloak) - Multi-user Shadowsocks/Trojan server written in Elixir
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 
 ## Emacs Lisp 
 
@@ -1700,7 +1699,7 @@
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter) - Formats docstrings to follow PEP 257
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [nameko/nameko](https://github.com/nameko/nameko) - Python framework for building microservices
@@ -2467,6 +2466,7 @@
 - [rustasync/runtime](https://github.com/rustasync/runtime) - Empowering everyone to build asynchronous software
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) - git, implemented in rust, for fun and education :crab:
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [bytecodealliance/lucet](https://github.com/bytecodealliance/lucet) - Lucet, the Sandboxing WebAssembly Compiler.
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
