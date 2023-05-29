@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#78](https://github.com/Pagliacii/dotfiles/pull/78) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-2. 💪 Opened PR [#78](https://github.com/Pagliacii/dotfiles/pull/78) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. 🎉 Merged PR [#77](https://github.com/Pagliacii/dotfiles/pull/77) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. ⭐ Starred [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp)
+2. 🎉 Merged PR [#78](https://github.com/Pagliacii/dotfiles/pull/78) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+3. 💪 Opened PR [#78](https://github.com/Pagliacii/dotfiles/pull/78) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
