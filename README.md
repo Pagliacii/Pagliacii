@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mhinz/vim-galore](https://github.com/mhinz/vim-galore)
-2. ⭐ Starred [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
-3. ⭐ Starred [folke/edgy.nvim](https://github.com/folke/edgy.nvim)
+1. ⭐ Starred [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+2. ⭐ Starred [mhinz/vim-galore](https://github.com/mhinz/vim-galore)
+3. ⭐ Starred [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
