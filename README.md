@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
-2. ⭐ Starred [mhinz/vim-galore](https://github.com/mhinz/vim-galore)
-3. ⭐ Starred [killercup/cargo-edit](https://github.com/killercup/cargo-edit)
+1. ❗️ Opened issue [#4874](https://github.com/ScoopInstaller/Main/issues/4874) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
+2. ⭐ Starred [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+3. ⭐ Starred [mhinz/vim-galore](https://github.com/mhinz/vim-galore)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
