@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5026](https://github.com/astral-sh/ruff/issues/5026) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. ❗️ Opened issue [#4874](https://github.com/ScoopInstaller/Main/issues/4874) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
-3. ⭐ Starred [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+1. ✔️ Closed issue [#4874](https://github.com/ScoopInstaller/Main/issues/4874) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
+2. ❗️ Opened issue [#5026](https://github.com/astral-sh/ruff/issues/5026) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. ❗️ Opened issue [#4874](https://github.com/ScoopInstaller/Main/issues/4874) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
