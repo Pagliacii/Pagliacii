@@ -421,7 +421,7 @@
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [arc80/plywood](https://github.com/arc80/plywood) - A multimedia development kit for C++
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
@@ -783,7 +783,7 @@
 - [haifenghuang/magpie](https://github.com/haifenghuang/magpie) - :bird: Successor of my monkey Interpreter(support for class, linq, sql, net, http, fmt, json and A realtime syntax highlighting REPL).
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
@@ -2752,6 +2752,7 @@
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [ExplainDev/kmdr-cli](https://github.com/ExplainDev/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
