@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [faster-cpython/ideas](https://github.com/faster-cpython/ideas)
-2. ✔️ Closed issue [#4874](https://github.com/ScoopInstaller/Main/issues/4874) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
-3. ❗️ Opened issue [#5026](https://github.com/astral-sh/ruff/issues/5026) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. ⭐ Starred [bloomberg/pystack](https://github.com/bloomberg/pystack)
+2. ⭐ Starred [robherley/snips.sh](https://github.com/robherley/snips.sh)
+3. ⭐ Starred [faster-cpython/ideas](https://github.com/faster-cpython/ideas)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
