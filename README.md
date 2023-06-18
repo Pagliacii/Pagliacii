@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [asciinema/asciinema](https://github.com/asciinema/asciinema)
-2. ⭐ Starred [bloomberg/pystack](https://github.com/bloomberg/pystack)
-3. ⭐ Starred [robherley/snips.sh](https://github.com/robherley/snips.sh)
+1. ⭐ Starred [rs/zerolog](https://github.com/rs/zerolog)
+2. ⭐ Starred [asciinema/asciinema](https://github.com/asciinema/asciinema)
+3. ⭐ Starred [bloomberg/pystack](https://github.com/bloomberg/pystack)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
