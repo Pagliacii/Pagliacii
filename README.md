@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Pagliacii/snips.nvim](https://github.com/Pagliacii/snips.nvim) from [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
-2. ⭐ Starred [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
-3. ❗️ Opened issue [#6](https://github.com/Sanix-Darker/snips.nvim/issues/6) in [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
+1. ⭐ Starred [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig)
+2. 💪 Opened PR [#7](https://github.com/Sanix-Darker/snips.nvim/pull/7) in [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
+3. 🔱 Forked [Pagliacii/snips.nvim](https://github.com/Pagliacii/snips.nvim) from [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
