@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rs/zerolog](https://github.com/rs/zerolog)
-2. ⭐ Starred [asciinema/asciinema](https://github.com/asciinema/asciinema)
-3. ⭐ Starred [bloomberg/pystack](https://github.com/bloomberg/pystack)
+1. 🔱 Forked [Pagliacii/snips.nvim](https://github.com/Pagliacii/snips.nvim) from [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
+2. ⭐ Starred [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
+3. ❗️ Opened issue [#6](https://github.com/Sanix-Darker/snips.nvim/issues/6) in [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
