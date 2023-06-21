@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kikito/middleclass](https://github.com/kikito/middleclass)
-2. 💪 Opened PR [#8](https://github.com/Sanix-Darker/snips.nvim/pull/8) in [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
-3. ⭐ Starred [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig)
+1. ⭐ Starred [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch)
+2. 👍 Approved [#9](https://github.com/Sanix-Darker/snips.nvim/pull/9#pullrequestreview-1490865429) in [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
+3. ⭐ Starred [kikito/middleclass](https://github.com/kikito/middleclass)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
