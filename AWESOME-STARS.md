@@ -124,6 +124,7 @@
 
 ## C 
 
+- [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
