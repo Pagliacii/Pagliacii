@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sahib/rmlint](https://github.com/sahib/rmlint)
-2. ⭐ Starred [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api)
-3. 💪 Opened PR [#25](https://github.com/Sanix-Darker/snips.nvim/pull/25) in [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim)
+1. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+2. ⭐ Starred [sahib/rmlint](https://github.com/sahib/rmlint)
+3. ⭐ Starred [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
