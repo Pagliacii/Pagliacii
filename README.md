@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maaslalani/slides](https://github.com/maaslalani/slides)
-2. ⭐ Starred [enjoy-digital/litex](https://github.com/enjoy-digital/litex)
-3. ⭐ Starred [sb-ocr/diy-spacemouse](https://github.com/sb-ocr/diy-spacemouse)
+1. ⭐ Starred [glycerine/zygomys](https://github.com/glycerine/zygomys)
+2. ⭐ Starred [maaslalani/slides](https://github.com/maaslalani/slides)
+3. ⭐ Starred [enjoy-digital/litex](https://github.com/enjoy-digital/litex)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
