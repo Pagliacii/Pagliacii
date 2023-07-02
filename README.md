@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [michaelb/sniprun](https://github.com/michaelb/sniprun)
-2. ⭐ Starred [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils)
-3. ⭐ Starred [simonw/llm](https://github.com/simonw/llm)
+1. ⭐ Starred [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim)
+2. ⭐ Starred [michaelb/sniprun](https://github.com/michaelb/sniprun)
+3. ⭐ Starred [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
