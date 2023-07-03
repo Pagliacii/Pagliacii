@@ -1333,6 +1333,7 @@
 
 ## Lua 
 
+- [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [kikito/middleclass](https://github.com/kikito/middleclass) - Object-orientation for Lua
 - [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) - Create snips from your vim/nvim editor
@@ -1694,6 +1695,7 @@
 
 ## Python 
 
+- [StanislavPetrovV/Minecraft](https://github.com/StanislavPetrovV/Minecraft) - Voxel Engine (like Minecraft) in Python and OpenGL
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
