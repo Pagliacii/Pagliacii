@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [StanislavPetrovV/Minecraft](https://github.com/StanislavPetrovV/Minecraft)
-2. ⭐ Starred [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim)
-3. ⭐ Starred [michaelb/sniprun](https://github.com/michaelb/sniprun)
+1. ⭐ Starred [3rd/image.nvim](https://github.com/3rd/image.nvim)
+2. ⭐ Starred [StanislavPetrovV/Minecraft](https://github.com/StanislavPetrovV/Minecraft)
+3. ⭐ Starred [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
