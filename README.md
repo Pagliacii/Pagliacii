@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth)
-2. ❗️ Opened issue [#1617](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1617) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
-3. ⭐ Starred [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)
+1. ⭐ Starred [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim)
+2. ❗️ Opened issue [#137](https://github.com/folke/flash.nvim/issues/137) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
+3. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
