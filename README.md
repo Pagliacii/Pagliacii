@@ -130,6 +130,12 @@ JSON                     46 mins             ░░░░░░░░░░░�
 **:pushpin: Pinned Repos**
 
 <p>
+  <a href="https://github.com/Pagliacii/dotfiles">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dotfiles" />
+  </a>
+  <a href="https://github.com/Pagliacii/sys-open.nvim">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=sys-open.nvim" />
+  </a>
   <a href="https://github.com/Pagliacii/keypressed">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=keypressed" />
   </a>
@@ -138,12 +144,6 @@ JSON                     46 mins             ░░░░░░░░░░░�
   </a>
   <a href="https://github.com/Pagliacii/game-of-life">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=game-of-life" />
-  </a>
-  <a href="https://github.com/Pagliacii/useless-swf-player">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=useless-swf-player" />
-  </a>
-  <a href="https://github.com/Pagliacii/dotfiles">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=dotfiles" />
   </a>
   <a href="https://github.com/Pagliacii/QuickSSH">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pagliacii&repo=QuickSSH" />
