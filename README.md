@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anishathalye/dotbot](https://github.com/anishathalye/dotbot)
-2. ⭐ Starred [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim)
-3. ❗️ Opened issue [#137](https://github.com/folke/flash.nvim/issues/137) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
+1. 📔 Created new repository [Pagliacii/sys-open.nvim](https://github.com/Pagliacii/sys-open.nvim)
+2. ⭐ Starred [anishathalye/dotbot](https://github.com/anishathalye/dotbot)
+3. ⭐ Starred [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
