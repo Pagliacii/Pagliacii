@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stedolan/counterexamples](https://github.com/stedolan/counterexamples)
-2. ⭐ Starred [jvns/nginx-playground](https://github.com/jvns/nginx-playground)
-3. ⭐ Starred [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
+1. ⭐ Starred [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim)
+2. ⭐ Starred [stedolan/counterexamples](https://github.com/stedolan/counterexamples)
+3. ⭐ Starred [jvns/nginx-playground](https://github.com/jvns/nginx-playground)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
