@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode)
-2. ⭐ Starred [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim)
-3. ⭐ Starred [stedolan/counterexamples](https://github.com/stedolan/counterexamples)
+1. ❗️ Opened issue [#24](https://github.com/LGUG2Z/whkd/issues/24) in [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd)
+2. ⭐ Starred [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode)
+3. ⭐ Starred [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
