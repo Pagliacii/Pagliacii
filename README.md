@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs)
-2. ❗️ Opened issue [#24](https://github.com/LGUG2Z/whkd/issues/24) in [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd)
-3. ⭐ Starred [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode)
+1. ⭐ Starred [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim)
+2. ❗️ Opened issue [#1298](https://github.com/ScoopInstaller/Versions/issues/1298) in [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions)
+3. ⭐ Starred [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
