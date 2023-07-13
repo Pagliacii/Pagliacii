@@ -1706,6 +1706,7 @@
 
 ## Python 
 
+- [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth) - Convert Word documents (.docx files) to HTML
 - [StanislavPetrovV/Minecraft](https://github.com/StanislavPetrovV/Minecraft) - Voxel Engine (like Minecraft) in Python and OpenGL
@@ -1721,7 +1722,7 @@
 - [hkociemba/RubiksCube-TwophaseSolver](https://github.com/hkociemba/RubiksCube-TwophaseSolver) - Solve Rubik's Cube in less than 19 moves on average with Python.
 - [django/daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server
 - [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii) - My README.md
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
+- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - 🕸 Web apps in pure Python 🐍
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
