@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
-2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
-3. ⭐ Starred [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui)
+1. ⭐ Starred [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)
+2. ⭐ Starred [jart/cosmopolitan](https://github.com/jart/cosmopolitan)
+3. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
