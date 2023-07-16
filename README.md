@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-2. ❗️ Opened issue [#3999](https://github.com/wez/wezterm/issues/3999) in [wez/wezterm](https://github.com/wez/wezterm)
-3. ❗️ Opened issue [#3998](https://github.com/wez/wezterm/issues/3998) in [wez/wezterm](https://github.com/wez/wezterm)
+1. ⭐ Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+2. ⭐ Starred [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+3. ❗️ Opened issue [#3999](https://github.com/wez/wezterm/issues/3999) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
