@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim)
-2. ✔️ Closed issue [#3999](https://github.com/wez/wezterm/issues/3999) in [wez/wezterm](https://github.com/wez/wezterm)
-3. ⭐ Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+1. ⭐ Starred [MCUdude/MegaCore](https://github.com/MCUdude/MegaCore)
+2. ⭐ Starred [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim)
+3. ✔️ Closed issue [#3999](https://github.com/wez/wezterm/issues/3999) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
