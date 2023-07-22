@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. ⭐ Starred [MCUdude/MegaCore](https://github.com/MCUdude/MegaCore)
-3. ⭐ Starred [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim)
+1. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
+2. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+3. ⭐ Starred [MCUdude/MegaCore](https://github.com/MCUdude/MegaCore)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
