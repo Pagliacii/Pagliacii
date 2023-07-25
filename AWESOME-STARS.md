@@ -124,6 +124,7 @@
 
 ## C 
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [MCUdude/MegaCore](https://github.com/MCUdude/MegaCore) - Arduino hardware package for ATmega64, ATmega128, ATmega165, ATmega169, ATmega325, ATmega329, ATmega640, ATmega645, ATmega649, ATmega1280, ATmega1281, ATmega2560, ATmega2561, ATmega3250, ATmega3290, A
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [enjoy-digital/litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
@@ -2755,7 +2756,7 @@
 
 ## TypeScript 
 
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is an open-source complete observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
