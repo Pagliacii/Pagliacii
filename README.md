@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
-2. ⭐ Starred [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)
-3. ⭐ Starred [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
+1. ⭐ Starred [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim)
+2. ⭐ Starred [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
+3. ⭐ Starred [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
