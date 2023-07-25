@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)
-2. ⭐ Starred [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
-3. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
+1. ⭐ Starred [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
+2. ⭐ Starred [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)
+3. ⭐ Starred [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
