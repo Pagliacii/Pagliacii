@@ -2908,6 +2908,7 @@
 
 ## Vim Script 
 
+- [normen/vim-pio](https://github.com/normen/vim-pio) - Vim Plugin for PlatformIO
 - [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch) - dispatch.vim: Asynchronous build and test dispatcher
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod
