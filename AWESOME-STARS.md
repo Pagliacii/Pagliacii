@@ -634,6 +634,7 @@
 
 ## Go 
 
+- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1008,7 +1009,7 @@
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -1821,7 +1822,7 @@
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
@@ -2288,6 +2289,7 @@
 
 ## Rust 
 
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
@@ -2875,7 +2877,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [DataObserve/datav](https://github.com/DataObserve/datav) - A modern data visualization platform, mainly focus on observability and APM
+- [DataObserve/datav](https://github.com/DataObserve/datav) - 
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
