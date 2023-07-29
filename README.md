@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord)
-2. ⭐ Starred [klauspost/compress](https://github.com/klauspost/compress)
-3. ⭐ Starred [normen/vim-pio](https://github.com/normen/vim-pio)
+1. ⭐ Starred [Artoriuz/OSEE](https://github.com/Artoriuz/OSEE)
+2. ⭐ Starred [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord)
+3. ⭐ Starred [klauspost/compress](https://github.com/klauspost/compress)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
