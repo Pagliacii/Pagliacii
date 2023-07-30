@@ -427,7 +427,7 @@
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
-- [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.
+- [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. For Windows and Linux.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [arc80/plywood](https://github.com/arc80/plywood) - A multimedia development kit for C++
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
@@ -659,7 +659,7 @@
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
-- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
+- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
 - [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [ilyakaznacheev/cleanenv](https://github.com/ilyakaznacheev/cleanenv) - ✨Clean and minimalistic environment configuration reader for Golang
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
@@ -1454,6 +1454,7 @@
 
 ## Others 
 
+- [Artoriuz/OSEE](https://github.com/Artoriuz/OSEE) - Open-source Electrical Engineering Curriculum
 - [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api) - Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits
 - [Alarm-Siren/arduino-kicad-library](https://github.com/Alarm-Siren/arduino-kicad-library) - KiCad Symbol & Footprint Library for Arduino Modules (Shields, Sockets and Tiles)
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas) - 
