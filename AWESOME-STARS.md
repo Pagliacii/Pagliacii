@@ -129,6 +129,7 @@
 
 ## C 
 
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [MCUdude/MegaCore](https://github.com/MCUdude/MegaCore) - Arduino hardware package for ATmega64, ATmega128, ATmega165, ATmega169, ATmega325, ATmega329, ATmega640, ATmega645, ATmega649, ATmega1280, ATmega1281, ATmega2560, ATmega2561, ATmega3250, ATmega3290, A
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
