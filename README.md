@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)
-2. ⭐ Starred [Artoriuz/OSEE](https://github.com/Artoriuz/OSEE)
-3. ⭐ Starred [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord)
+1. ⭐ Starred [Marskey/telescope-sg](https://github.com/Marskey/telescope-sg)
+2. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+3. ⭐ Starred [nothings/single_file_libs](https://github.com/nothings/single_file_libs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
