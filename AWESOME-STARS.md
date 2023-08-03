@@ -1731,6 +1731,7 @@
 
 ## Python 
 
+- [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [mwilliamson/python-mammoth](https://github.com/mwilliamson/python-mammoth) - Convert Word documents (.docx files) to HTML
