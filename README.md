@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
-2. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
-3. ⭐ Starred [Marskey/telescope-sg](https://github.com/Marskey/telescope-sg)
+1. ⭐ Starred [arendst/Tasmota](https://github.com/arendst/Tasmota)
+2. ⭐ Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
+3. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
