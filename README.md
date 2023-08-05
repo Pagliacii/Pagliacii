@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1317](https://github.com/ScoopInstaller/Versions/issues/1317) in [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions)
-2. ⭐ Starred [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase)
-3. ⭐ Starred [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim)
+1. ⭐ Starred [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware)
+2. ⭐ Starred [aolofsson/awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
+3. ⭐ Starred [scateu/tsv_edl.vim](https://github.com/scateu/tsv_edl.vim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
