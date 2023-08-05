@@ -67,6 +67,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [SWIG](#swig)
+- [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -129,6 +130,7 @@
 
 ## C 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -484,7 +486,6 @@
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
 - [alicevision/AliceVision](https://github.com/alicevision/AliceVision) - Photogrammetric Computer Vision Framework
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [kovacsv/VisualScriptCAD](https://github.com/kovacsv/VisualScriptCAD) - A simple visual scripting based 3D modeling application.
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
@@ -1349,6 +1350,7 @@
 
 ## Lua 
 
+- [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
 - [Marskey/telescope-sg](https://github.com/Marskey/telescope-sg) - Ast-grep picker for telescop.nvim
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
@@ -1463,6 +1465,7 @@
 
 ## Others 
 
+- [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [Artoriuz/OSEE](https://github.com/Artoriuz/OSEE) - Open-source Electrical Engineering Curriculum
 - [fawazahmed0/currency-api](https://github.com/fawazahmed0/currency-api) - Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits
@@ -2613,6 +2616,10 @@
 
 - [tpaviot/pythonocc-core](https://github.com/tpaviot/pythonocc-core) - Python package for 3D CAD/BIM/PLM/CAM
 
+## Scala 
+
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
+
 ## Scheme 
 
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
@@ -2775,6 +2782,7 @@
 
 ## TypeScript 
 
+- [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
