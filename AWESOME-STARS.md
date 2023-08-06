@@ -1465,6 +1465,7 @@
 
 ## Others 
 
+- [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - 🛠Helpful items for making open source hardware projects.
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
 - [Artoriuz/OSEE](https://github.com/Artoriuz/OSEE) - Open-source Electrical Engineering Curriculum
@@ -1734,6 +1735,8 @@
 
 ## Python 
 
+- [aolofsson/awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs
+- [scateu/tsv_edl.vim](https://github.com/scateu/tsv_edl.vim) - video editing with vim/spreadsheet/sed/python. methodology inspired by BBC digital paper edit. "Excel-dit"
 - [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -2745,6 +2748,7 @@
 
 ## Swift 
 
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
