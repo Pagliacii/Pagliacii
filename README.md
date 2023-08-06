@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware)
-2. ⭐ Starred [aolofsson/awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
-3. ⭐ Starred [scateu/tsv_edl.vim](https://github.com/scateu/tsv_edl.vim)
+1. ⭐ Starred [milanvarady/Applite](https://github.com/milanvarady/Applite)
+2. ⭐ Starred [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware)
+3. ⭐ Starred [aolofsson/awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
