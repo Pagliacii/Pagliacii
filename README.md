@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books)
-2. ⭐ Starred [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals)
-3. ⭐ Starred [jokajak/keyseer.nvim](https://github.com/jokajak/keyseer.nvim)
+1. ⭐ Starred [RaafatTurki/hex.nvim](https://github.com/RaafatTurki/hex.nvim)
+2. ⭐ Starred [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim)
+3. ⭐ Starred [junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
