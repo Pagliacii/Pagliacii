@@ -87,7 +87,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C826%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C826%20hrs%2024%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -102,8 +102,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 ```text
 Monday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
 Tuesday                  429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Wednesday                673 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Thursday                 443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Wednesday                674 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Thursday                 442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 Friday                   411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 Saturday                 514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Sunday                   701 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
@@ -124,7 +124,7 @@ INI                      1 hr 6 mins         █░░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 16/08/2023 15:24:28 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
