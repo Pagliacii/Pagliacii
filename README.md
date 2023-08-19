@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mstange/samply](https://github.com/mstange/samply)
-2. ⭐ Starred [utmapp/UTM](https://github.com/utmapp/UTM)
-3. ⭐ Starred [skeeto/w64devkit](https://github.com/skeeto/w64devkit)
+1. ⭐ Starred [spack/spack](https://github.com/spack/spack)
+2. ⭐ Starred [mstange/samply](https://github.com/mstange/samply)
+3. ⭐ Starred [utmapp/UTM](https://github.com/utmapp/UTM)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
