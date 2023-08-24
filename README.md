@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)
-2. ❗️ Opened issue [#1329](https://github.com/ScoopInstaller/Versions/issues/1329) in [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions)
-3. ⭐ Starred [spack/spack](https://github.com/spack/spack)
+1. ⭐ Starred [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim)
+2. 💪 Opened PR [#2](https://github.com/roobert/f-string-toggle.nvim/pull/2) in [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim)
+3. 🔱 Forked [Pagliacii/f-string-toggle.nvim](https://github.com/Pagliacii/f-string-toggle.nvim) from [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
