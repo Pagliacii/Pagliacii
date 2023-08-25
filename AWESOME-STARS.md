@@ -1360,6 +1360,7 @@
 
 ## Lua 
 
+- [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim) - :yarn: A Neovim plugin to toggle python f-strings
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
 - [RaafatTurki/hex.nvim](https://github.com/RaafatTurki/hex.nvim) - hex editing done right
 - [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim) - Neovim plugin for swapping operands and operators in binary expressions
