@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim)
-2. 💪 Opened PR [#2](https://github.com/roobert/f-string-toggle.nvim/pull/2) in [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim)
-3. 🔱 Forked [Pagliacii/f-string-toggle.nvim](https://github.com/Pagliacii/f-string-toggle.nvim) from [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim)
+1. ⭐ Starred [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
+2. ⭐ Starred [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim)
+3. 💪 Opened PR [#2](https://github.com/roobert/f-string-toggle.nvim/pull/2) in [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
