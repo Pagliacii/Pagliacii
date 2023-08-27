@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#32](https://github.com/luckasRanarison/nvim-devdocs/issues/32) in [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs)
-2. ⭐ Starred [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs)
-3. ⭐ Starred [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
+1. 🔱 Forked [Pagliacii/nvim-devdocs](https://github.com/Pagliacii/nvim-devdocs) from [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs)
+2. ❗️ Opened issue [#32](https://github.com/luckasRanarison/nvim-devdocs/issues/32) in [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs)
+3. ⭐ Starred [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
