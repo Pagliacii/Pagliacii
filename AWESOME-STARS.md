@@ -652,6 +652,7 @@
 
 ## Go 
 
+- [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
