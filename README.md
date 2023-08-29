@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#83](https://github.com/Pagliacii/dotfiles/issues/83) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-2. ❗️ Opened issue [#83](https://github.com/Pagliacii/dotfiles/issues/83) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. ⭐ Starred [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer)
+1. ⭐ Starred [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+2. ⭐ Starred [ljinkai/weekly](https://github.com/ljinkai/weekly)
+3. ⭐ Starred [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
