@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer)
-2. ⭐ Starred [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)
-3. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
+1. ⭐ Starred [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer)
+2. ⭐ Starred [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer)
+3. ⭐ Starred [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
