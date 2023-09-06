@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RaafatTurki/corn.nvim](https://github.com/RaafatTurki/corn.nvim)
-2. ⭐ Starred [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-3. ⭐ Starred [ljinkai/weekly](https://github.com/ljinkai/weekly)
+1. 💪 Opened PR [#41](https://github.com/luckasRanarison/nvim-devdocs/pull/41) in [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs)
+2. 🔱 Forked [Pagliacii/nvim-devdocs](https://github.com/Pagliacii/nvim-devdocs) from [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs)
+3. ❗️ Opened issue [#40](https://github.com/luckasRanarison/nvim-devdocs/issues/40) in [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
