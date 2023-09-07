@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#85](https://github.com/Pagliacii/dotfiles/issues/85) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-2. ✔️ Closed issue [#84](https://github.com/Pagliacii/dotfiles/issues/84) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-3. ❗️ Opened issue [#85](https://github.com/Pagliacii/dotfiles/issues/85) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. ⭐ Starred [smjonas/live-command.nvim](https://github.com/smjonas/live-command.nvim)
+2. ⭐ Starred [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+3. ⭐ Starred [Textualize/textual-web](https://github.com/Textualize/textual-web)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
