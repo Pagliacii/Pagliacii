@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [googleapis/release-please](https://github.com/googleapis/release-please)
-2. ⭐ Starred [rui314/chibicc](https://github.com/rui314/chibicc)
-3. ⭐ Starred [dancrossnyc/rxv64](https://github.com/dancrossnyc/rxv64)
+1. ❗️ Opened issue [#89](https://github.com/Pagliacii/dotfiles/issues/89) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+2. ⭐ Starred [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer)
+3. ⭐ Starred [googleapis/release-please](https://github.com/googleapis/release-please)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
