@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [orbstack/orbstack](https://github.com/orbstack/orbstack)
-2. ⭐ Starred [underpig1/octos](https://github.com/underpig1/octos)
-3. ⭐ Starred [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed)
+1. ⭐ Starred [nschloe/tuna](https://github.com/nschloe/tuna)
+2. ⭐ Starred [orbstack/orbstack](https://github.com/orbstack/orbstack)
+3. ⭐ Starred [underpig1/octos](https://github.com/underpig1/octos)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
