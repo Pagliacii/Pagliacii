@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#89](https://github.com/Pagliacii/dotfiles/issues/89) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
-2. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)
-3. ❗️ Opened issue [#89](https://github.com/Pagliacii/dotfiles/issues/89) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)
+1. ⭐ Starred [orbstack/orbstack](https://github.com/orbstack/orbstack)
+2. ⭐ Starred [underpig1/octos](https://github.com/underpig1/octos)
+3. ⭐ Starred [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
