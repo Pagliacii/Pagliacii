@@ -802,7 +802,7 @@
 - [jackdoe/baxx](https://github.com/jackdoe/baxx) - ssh register@ui.baxx.dev [shutdown due to covid-19]
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [aporcupine/GoUnix](https://github.com/aporcupine/GoUnix) - This project is a collection of many of the basic tools used on Unix-like operating systems implemented in Go as a learning exercize.
-- [antonmedv/red](https://github.com/antonmedv/red) - Terminal log analysis tools
+- [webpod/red](https://github.com/webpod/red) - Terminal log analysis tools
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [astaxie/bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
@@ -2959,7 +2959,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [data-observe/datav](https://github.com/data-observe/datav) - Datav is an extremely powerful data visulization  platform for APM and Observability. You can build nearly any views you want into Metrics, Logs and Traces.
+- [data-observe/datav](https://github.com/data-observe/datav) - A modern data visualization  platform for APM and Observability. View metrics, traces and logs in one place and  correlate them deeply.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
