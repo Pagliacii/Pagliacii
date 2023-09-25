@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [beartype/plum](https://github.com/beartype/plum)
-2. ⭐ Starred [klen/nvim-config-local](https://github.com/klen/nvim-config-local)
-3. ⭐ Starred [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python)
+1. ⭐ Starred [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim)
+2. ⭐ Starred [beartype/plum](https://github.com/beartype/plum)
+3. ⭐ Starred [klen/nvim-config-local](https://github.com/klen/nvim-config-local)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
