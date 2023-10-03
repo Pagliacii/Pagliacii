@@ -1345,6 +1345,7 @@
 
 ## Jupyter Notebook 
 
+- [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 - [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
@@ -1829,7 +1830,7 @@
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [pointhi/kicad-color-schemes](https://github.com/pointhi/kicad-color-schemes) - Want to change the color scheme of KiCad? Look here for Inspiration.
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
