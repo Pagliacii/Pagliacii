@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
-2. ⭐ Starred [tmbo/questionary](https://github.com/tmbo/questionary)
-3. ⭐ Starred [laixintao/flameshow](https://github.com/laixintao/flameshow)
+1. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+2. ⭐ Starred [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
+3. ⭐ Starred [tmbo/questionary](https://github.com/tmbo/questionary)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
