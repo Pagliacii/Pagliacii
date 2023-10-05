@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1582](https://github.com/LazyVim/LazyVim/issues/1582) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-2. ⭐ Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
-3. ⭐ Starred [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
+1. ⭐ Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)
+2. ⭐ Starred [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)
+3. ❗️ Opened issue [#1582](https://github.com/LazyVim/LazyVim/issues/1582) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
