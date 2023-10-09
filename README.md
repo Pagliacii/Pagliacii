@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr)
-2. ⭐ Starred [athul/archie](https://github.com/athul/archie)
-3. ⭐ Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)
+1. ⭐ Starred [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+2. ⭐ Starred [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr)
+3. ⭐ Starred [athul/archie](https://github.com/athul/archie)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
