@@ -898,7 +898,7 @@
 - [syncsynchalt/illustrated-tls12](https://github.com/syncsynchalt/illustrated-tls12) - The Illustrated TLS 1.2 Connection: Every byte explained
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [goki/gi](https://github.com/goki/gi) - A free and open source framework for building useful, fast, and beautiful 2D and 3D GUIs that run on macOS, Windows, Linux, iOS, and Android with a single pure Go codebase.
+- [goki/gi](https://github.com/goki/gi) - A free and open source framework for building powerful, fast, and beautiful 2D and 3D GUIs that run on macOS, Windows, Linux, iOS, and Android with a single pure Go codebase.
 - [golang-china/awesome-go-zh](https://github.com/golang-china/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
 - [googleforgames/open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
@@ -1117,6 +1117,7 @@
 
 ## JavaScript 
 
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
@@ -1378,6 +1379,8 @@
 
 ## Lua 
 
+- [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - A Neovim plugin enabling you to solve LeetCode problems within Neovim.
+- [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim) - Find Nerd Glyphs Easily 🤓🔭
 - [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) - Utilities for interacting with Wezterm from within Neovim
 - [klen/nvim-config-local](https://github.com/klen/nvim-config-local) - Secure load local config files for neovim
 - [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) - A launch point for your nvim configuration for Python
@@ -1538,7 +1541,7 @@
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [xinali/articles](https://github.com/xinali/articles) - Personal Blog/主记录漏洞挖掘相关研究(文章位于issues)
-- [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
+- [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [wujood/awesome-gamejam](https://github.com/wujood/awesome-gamejam) - This is a curated list that contains helpful links and resources for game jams and game development.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
@@ -2834,6 +2837,7 @@
 
 ## TeX 
 
+- [IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation) - A book about compiling Racket and Python to x86-64 assembly
 - [wuzhouhui/awk](https://github.com/wuzhouhui/awk) - The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 - [pgf-tikz/pgf](https://github.com/pgf-tikz/pgf) - A Portable Graphic Format for TeX
@@ -2970,7 +2974,7 @@
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
-- [data-observe/datav](https://github.com/data-observe/datav) - A fully customizable and programmable observability platform with native support for OpenTelemetry.  :unicorn: You can view metrics, traces, and logs in one place and correlate them seamlessly. Datav 
+- [data-observe/datav](https://github.com/data-observe/datav) - :unicorn: Fully Customizable and programmable observability platform.  :unicorn: Monitor any applications using OpenTelemetry, eBPF and clickhouse.  🚀 Aggregate metrics on traces and logs to get a rel
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
