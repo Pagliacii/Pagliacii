@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)
-2. ⭐ Starred [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim)
-3. ❗️ Opened issue [#253](https://github.com/folke/flash.nvim/issues/253) in [folke/flash.nvim](https://github.com/folke/flash.nvim)
+1. ⭐ Starred [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword)
+2. ⭐ Starred [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)
+3. ⭐ Starred [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
