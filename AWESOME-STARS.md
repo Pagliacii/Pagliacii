@@ -799,6 +799,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [celicoo/docli](https://github.com/celicoo/docli) - Command-line interfaces made easy
 - [jackdoe/baxx](https://github.com/jackdoe/baxx) - ssh register@ui.baxx.dev [shutdown due to covid-19]
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
@@ -1880,7 +1881,7 @@
 - [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [taskipy/taskipy](https://github.com/taskipy/taskipy) - the complementary task runner for python
 - [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer) - version-string management for VCS-controlled trees
 - [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
