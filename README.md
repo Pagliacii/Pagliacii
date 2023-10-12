@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword)
-2. ⭐ Starred [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)
-3. ⭐ Starred [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim)
+1. ⭐ Starred [kepano/flexoki](https://github.com/kepano/flexoki)
+2. ⭐ Starred [makew0rld/didder](https://github.com/makew0rld/didder)
+3. ⭐ Starred [sdiehl/kaleidoscope](https://github.com/sdiehl/kaleidoscope)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
