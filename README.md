@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim)
-2. ⭐ Starred [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
-3. ⭐ Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+1. ⭐ Starred [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub)
+2. ⭐ Starred [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim)
+3. ⭐ Starred [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
