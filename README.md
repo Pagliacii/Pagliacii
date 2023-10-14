@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kepano/flexoki](https://github.com/kepano/flexoki)
-2. ⭐ Starred [makew0rld/didder](https://github.com/makew0rld/didder)
-3. ⭐ Starred [sdiehl/kaleidoscope](https://github.com/sdiehl/kaleidoscope)
+1. ⭐ Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
+2. ⭐ Starred [kepano/flexoki](https://github.com/kepano/flexoki)
+3. ⭐ Starred [makew0rld/didder](https://github.com/makew0rld/didder)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
