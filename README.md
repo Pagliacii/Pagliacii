@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub)
-2. ⭐ Starred [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim)
-3. ⭐ Starred [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+1. ❗️ Opened issue [#107](https://github.com/Exafunction/codeium.nvim/issues/107) in [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim)
+2. ⭐ Starred [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub)
+3. ⭐ Starred [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
