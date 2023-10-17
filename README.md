@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 📔 Created new repository [Pagliacii/silent-lake](https://github.com/Pagliacii/silent-lake)
-3. ❗️ Opened issue [#108](https://github.com/Exafunction/codeium.nvim/issues/108) in [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim)
+1. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+2. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 📔 Created new repository [Pagliacii/silent-lake](https://github.com/Pagliacii/silent-lake)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
