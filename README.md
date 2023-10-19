@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-2. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 📔 Created new repository [Pagliacii/silent-lake](https://github.com/Pagliacii/silent-lake)
+1. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+2. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+3. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
