@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-2. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-3. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)
+2. ⭐ Starred [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim)
+3. 💪 Opened PR [#111](https://github.com/f-person/git-blame.nvim/pull/111) in [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
