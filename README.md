@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bep/goat](https://github.com/bep/goat)
-2. 🔱 Forked [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry) from [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub)
-3. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)
+1. ⭐ Starred [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
+2. ⭐ Starred [bep/goat](https://github.com/bep/goat)
+3. 🔱 Forked [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry) from [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
