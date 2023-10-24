@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [typicode/json-server](https://github.com/typicode/json-server)
-2. ⭐ Starred [tscanlin/tocbot](https://github.com/tscanlin/tocbot)
-3. ⭐ Starred [vfeskov/vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top)
+1. ⭐ Starred [pypa/hatch](https://github.com/pypa/hatch)
+2. ⭐ Starred [typicode/json-server](https://github.com/typicode/json-server)
+3. ⭐ Starred [tscanlin/tocbot](https://github.com/tscanlin/tocbot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
