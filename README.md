@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [airstruck/knife](https://github.com/airstruck/knife)
-2. ⭐ Starred [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)
-3. ⭐ Starred [pypa/hatch](https://github.com/pypa/hatch)
+1. ⭐ Starred [terrastruct/d2](https://github.com/terrastruct/d2)
+2. ⭐ Starred [airstruck/knife](https://github.com/airstruck/knife)
+3. ⭐ Starred [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
