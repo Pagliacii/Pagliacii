@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [terrastruct/d2](https://github.com/terrastruct/d2)
-2. ⭐ Starred [airstruck/knife](https://github.com/airstruck/knife)
-3. ⭐ Starred [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)
+1. ⭐ Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+2. ⭐ Starred [binpash/try](https://github.com/binpash/try)
+3. ⭐ Starred [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
