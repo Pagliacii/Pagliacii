@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
-2. ⭐ Starred [binpash/try](https://github.com/binpash/try)
-3. ⭐ Starred [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
+1. ⭐ Starred [yuzutech/kroki](https://github.com/yuzutech/kroki)
+2. ⭐ Starred [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+3. ⭐ Starred [binpash/try](https://github.com/binpash/try)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
