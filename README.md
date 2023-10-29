@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](https://github.com/Pagliacii/hugo-bearberry/pull/4) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
-2. ⭐ Starred [ozh/github-colors](https://github.com/ozh/github-colors)
-3. ⭐ Starred [yuzutech/kroki](https://github.com/yuzutech/kroki)
+1. 🎉 Merged PR [#4](https://github.com/Pagliacii/hugo-bearberry/pull/4) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
+2. 💪 Opened PR [#4](https://github.com/Pagliacii/hugo-bearberry/pull/4) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
+3. ⭐ Starred [ozh/github-colors](https://github.com/ozh/github-colors)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
