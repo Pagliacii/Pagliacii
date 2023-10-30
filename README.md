@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yuin/goldmark](https://github.com/yuin/goldmark)
-2. 🎉 Merged PR [#4](https://github.com/Pagliacii/hugo-bearberry/pull/4) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
-3. 💪 Opened PR [#4](https://github.com/Pagliacii/hugo-bearberry/pull/4) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
+1. ⭐ Starred [danielgross/localpilot](https://github.com/danielgross/localpilot)
+2. ⭐ Starred [yuin/goldmark](https://github.com/yuin/goldmark)
+3. 🎉 Merged PR [#4](https://github.com/Pagliacii/hugo-bearberry/pull/4) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
