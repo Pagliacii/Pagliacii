@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
-2. ⭐ Starred [bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-3. ⭐ Starred [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms)
+1. 💪 Opened PR [#15](https://github.com/yihong0618/tg_bing_dalle/pull/15) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+2. 💪 Opened PR [#14](https://github.com/yihong0618/tg_bing_dalle/pull/14) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+3. 🔱 Forked [Pagliacii/tg_bing_dalle](https://github.com/Pagliacii/tg_bing_dalle) from [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
