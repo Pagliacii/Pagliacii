@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-2. ⭐ Starred [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms)
-3. ⭐ Starred [Moddable-OpenSource/moddable](https://github.com/Moddable-OpenSource/moddable)
+1. ⭐ Starred [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+2. ⭐ Starred [bensadeh/tailspin](https://github.com/bensadeh/tailspin)
+3. ⭐ Starred [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
