@@ -130,6 +130,7 @@
 
 ## C 
 
+- [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [Moddable-OpenSource/moddable](https://github.com/Moddable-OpenSource/moddable) - Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
@@ -887,7 +888,6 @@
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -2401,6 +2401,7 @@
 
 ## Rust 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [dancrossnyc/rxv64](https://github.com/dancrossnyc/rxv64) - xv6 OS
 - [andreabergia/rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
@@ -2867,7 +2868,6 @@
 - [pgf-tikz/pgf](https://github.com/pgf-tikz/pgf) - A Portable Graphic Format for TeX
 - [mit-pdos/xv6-riscv-book](https://github.com/mit-pdos/xv6-riscv-book) - Text describing xv6 on RISC-V
 - [ongardie/dissertation](https://github.com/ongardie/dissertation) - Sources for my PhD dissertation on the Raft consensus algorithm
-- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [thautwarm/gkdhighlight](https://github.com/thautwarm/gkdhighlight) - syntax highligher for GkdTeX
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
