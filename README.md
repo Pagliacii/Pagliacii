@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
-2. ⭐ Starred [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
-3. 💪 Opened PR [#16](https://github.com/yihong0618/tg_bing_dalle/pull/16) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+1. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+2. ⭐ Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
+3. ⭐ Starred [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
