@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#27](https://github.com/yihong0618/tg_bing_dalle/pull/27#pullrequestreview-1715240067) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
-2. ⭐ Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)
-3. ⭐ Starred [fantasy-peak/cpp-freegpt-webui](https://github.com/fantasy-peak/cpp-freegpt-webui)
+1. ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+2. ⭐ Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
+3. 👍 Approved [#27](https://github.com/yihong0618/tg_bing_dalle/pull/27#pullrequestreview-1715240067) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
