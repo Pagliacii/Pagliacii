@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pit-ray/win-vind](https://github.com/pit-ray/win-vind)
-2. ⭐ Starred [typst/typst](https://github.com/typst/typst)
-3. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+1. ⭐ Starred [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy)
+2. ⭐ Starred [pit-ray/win-vind](https://github.com/pit-ray/win-vind)
+3. ⭐ Starred [typst/typst](https://github.com/typst/typst)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
