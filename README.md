@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#38](https://github.com/yihong0618/tg_bing_dalle/pull/38) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
-2. 💪 Opened PR [#38](https://github.com/yihong0618/tg_bing_dalle/pull/38) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
-3. ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+1. ⭐ Starred [pit-ray/win-vind](https://github.com/pit-ray/win-vind)
+2. ⭐ Starred [typst/typst](https://github.com/typst/typst)
+3. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
