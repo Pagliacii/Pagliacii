@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt)
-2. ⭐ Starred [stevanmilic/nvim-lspimport](https://github.com/stevanmilic/nvim-lspimport)
-3. ⭐ Starred [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy)
+1. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+2. ⭐ Starred [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt)
+3. ⭐ Starred [stevanmilic/nvim-lspimport](https://github.com/stevanmilic/nvim-lspimport)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
