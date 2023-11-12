@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
-2. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-3. ⭐ Starred [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt)
+1. ⭐ Starred [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
+2. ⭐ Starred [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
+3. ⭐ Starred [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
