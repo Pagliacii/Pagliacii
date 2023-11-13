@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jokob-sk/Pi.Alert](https://github.com/jokob-sk/Pi.Alert)
-2. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
-3. ⭐ Starred [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
+1. ⭐ Starred [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot)
+2. ⭐ Starred [jokob-sk/Pi.Alert](https://github.com/jokob-sk/Pi.Alert)
+3. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
