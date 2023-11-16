@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-2. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-3. ⭐ Starred [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
+1. ⭐ Starred [jxnl/instructor](https://github.com/jxnl/instructor)
+2. ⭐ Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+3. ⭐ Starred [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
