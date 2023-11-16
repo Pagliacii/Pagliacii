@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rcmdnk/vim_ahk](https://github.com/rcmdnk/vim_ahk)
-2. ⭐ Starred [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action)
-3. ⭐ Starred [jxnl/instructor](https://github.com/jxnl/instructor)
+1. 💪 Opened PR [#41](https://github.com/yihong0618/tg_bing_dalle/pull/41) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+2. ⭐ Starred [rcmdnk/vim_ahk](https://github.com/rcmdnk/vim_ahk)
+3. ⭐ Starred [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
