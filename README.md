@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless)
-2. ⭐ Starred [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-3. 💪 Opened PR [#41](https://github.com/yihong0618/tg_bing_dalle/pull/41) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
+2. ⭐ Starred [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless)
+3. ⭐ Starred [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
