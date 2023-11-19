@@ -377,6 +377,7 @@
 
 ## C++ 
 
+- [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [fantasy-peak/cpp-freegpt-webui](https://github.com/fantasy-peak/cpp-freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required. Web server developed with c++
@@ -1370,6 +1371,7 @@
 
 ## Jupyter Notebook 
 
+- [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -1827,7 +1829,6 @@
 
 ## Python 
 
-- [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
 - [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot) - Open-Source,ROS Robot Dog Kit
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
