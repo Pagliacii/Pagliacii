@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Pagliacii/chip-8-rs](https://github.com/Pagliacii/chip-8-rs)
-2. ⭐ Starred [radareorg/iaito](https://github.com/radareorg/iaito)
-3. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
+1. ⭐ Starred [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
+2. 📔 Created new repository [Pagliacii/chip-8-rs](https://github.com/Pagliacii/chip-8-rs)
+3. ⭐ Starred [radareorg/iaito](https://github.com/radareorg/iaito)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
