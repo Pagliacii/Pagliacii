@@ -667,6 +667,7 @@
 
 ## Go 
 
+- [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [bep/goat](https://github.com/bep/goat) - Render ASCII art as SVG diagrams
@@ -2707,7 +2708,7 @@
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [sunjay/rust-simple-game-dev-tutorial](https://github.com/sunjay/rust-simple-game-dev-tutorial) - Rust game development tutorial with specs ECS and SDL2
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [gimli-rs/gimli](https://github.com/gimli-rs/gimli) - A library for reading and writing the DWARF debugging format
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
