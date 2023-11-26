@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
-2. ⭐ Starred [aws/copilot-cli](https://github.com/aws/copilot-cli)
-3. ⭐ Starred [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
+1. ⭐ Starred [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)
+2. ⭐ Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
+3. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
