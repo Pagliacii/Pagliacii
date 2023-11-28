@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)
-2. ⭐ Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
-3. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
+1. ⭐ Starred [davidkreidler/OpenCO2_Sensor](https://github.com/davidkreidler/OpenCO2_Sensor)
+2. ⭐ Starred [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)
+3. ⭐ Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
