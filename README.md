@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [uqfoundation/dill](https://github.com/uqfoundation/dill)
-2. ⭐ Starred [OneLoneCoder/olcNES](https://github.com/OneLoneCoder/olcNES)
-3. ⭐ Starred [gibbok/typescript-book](https://github.com/gibbok/typescript-book)
+1. ⭐ Starred [azure-rtos/threadx](https://github.com/azure-rtos/threadx)
+2. ⭐ Starred [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager)
+3. ⭐ Starred [uqfoundation/dill](https://github.com/uqfoundation/dill)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
