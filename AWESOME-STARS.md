@@ -132,6 +132,7 @@
 
 ## C 
 
+- [azure-rtos/threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [Moddable-OpenSource/moddable](https://github.com/Moddable-OpenSource/moddable) - Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.
@@ -379,6 +380,7 @@
 
 ## C++ 
 
+- [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 - [OneLoneCoder/olcNES](https://github.com/OneLoneCoder/olcNES) - NES Emulator, and Tutorial Video Code
 - [davidkreidler/OpenCO2_Sensor](https://github.com/davidkreidler/OpenCO2_Sensor) - Arduino Repository for an E-Ink CO2 Sensor using ESP32 and SCD4X
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
@@ -1832,6 +1834,7 @@
 
 ## Python 
 
+- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot) - Open-Source,ROS Robot Dog Kit
