@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TabbyML/tabby](https://github.com/TabbyML/tabby)
-2. ⭐ Starred [meganetaaan/stack-chan](https://github.com/meganetaaan/stack-chan)
-3. ⭐ Starred [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)
+1. ⭐ Starred [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm)
+2. ⭐ Starred [TabbyML/tabby](https://github.com/TabbyML/tabby)
+3. ⭐ Starred [meganetaaan/stack-chan](https://github.com/meganetaaan/stack-chan)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
