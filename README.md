@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui)
-2. ⭐ Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
-3. 💪 Opened PR [#45](https://github.com/yihong0618/tg_bing_dalle/pull/45) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+1. ⭐ Starred [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim)
+2. ⭐ Starred [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui)
+3. ⭐ Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
