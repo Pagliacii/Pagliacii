@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
-2. 💪 Opened PR [#45](https://github.com/yihong0618/tg_bing_dalle/pull/45) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
-3. ⭐ Starred [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm)
+1. ⭐ Starred [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui)
+2. ⭐ Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
+3. 💪 Opened PR [#45](https://github.com/yihong0618/tg_bing_dalle/pull/45) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
