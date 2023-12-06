@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#45](https://github.com/yihong0618/tg_bing_dalle/pull/45) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
-2. ⭐ Starred [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm)
-3. ⭐ Starred [TabbyML/tabby](https://github.com/TabbyML/tabby)
+1. ⭐ Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
+2. 💪 Opened PR [#45](https://github.com/yihong0618/tg_bing_dalle/pull/45) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+3. ⭐ Starred [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
