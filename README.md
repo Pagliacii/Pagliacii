@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim)
-2. ⭐ Starred [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui)
-3. ⭐ Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
+1. ⭐ Starred [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator)
+2. ⭐ Starred [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim)
+3. ⭐ Starred [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
