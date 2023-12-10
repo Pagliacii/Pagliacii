@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
-2. ⭐ Starred [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator)
-3. ⭐ Starred [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim)
+1. ⭐ Starred [fujiapple852/trippy](https://github.com/fujiapple852/trippy)
+2. ⭐ Starred [skywind3000/kcp](https://github.com/skywind3000/kcp)
+3. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
