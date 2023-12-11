@@ -81,7 +81,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher)
+1. ⭐ Starred [near/borsh](https://github.com/near/borsh)
 2. ⭐ Starred [fujiapple852/trippy](https://github.com/fujiapple852/trippy)
 3. ⭐ Starred [skywind3000/kcp](https://github.com/skywind3000/kcp)
 <!--RECENT_ACTIVITY:end-->
