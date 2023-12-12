@@ -1551,6 +1551,7 @@
 
 ## Others 
 
+- [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
 - [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
@@ -2645,7 +2646,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
@@ -2930,6 +2931,7 @@
 
 ## TypeScript 
 
+- [Millera0/private](https://github.com/Millera0/private) - This project has been deleted to avoid legal risks.
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer
 - [meganetaaan/stack-chan](https://github.com/meganetaaan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
@@ -2949,7 +2951,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
