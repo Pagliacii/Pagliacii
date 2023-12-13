@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [compnerd/swift-win32](https://github.com/compnerd/swift-win32)
-2. ⭐ Starred [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
-3. ⭐ Starred [near/borsh](https://github.com/near/borsh)
+1. ⭐ Starred [stanfordroboticsclub/StanfordQuadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped)
+2. ⭐ Starred [compnerd/swift-win32](https://github.com/compnerd/swift-win32)
+3. ⭐ Starred [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
