@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections)
-2. ⭐ Starred [stanfordroboticsclub/StanfordQuadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped)
-3. ⭐ Starred [compnerd/swift-win32](https://github.com/compnerd/swift-win32)
+1. ⭐ Starred [rochus-keller/CspChan](https://github.com/rochus-keller/CspChan)
+2. ⭐ Starred [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections)
+3. ⭐ Starred [stanfordroboticsclub/StanfordQuadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
