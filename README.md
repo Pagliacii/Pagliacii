@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [glazerdesktop/GlazeWM](https://github.com/glazerdesktop/GlazeWM)
-2. 💪 Opened PR [#11](https://github.com/yihong0618/tg_bot_collections/pull/11) in [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections)
-3. 🔱 Forked [Pagliacii/tg_bot_collections](https://github.com/Pagliacii/tg_bot_collections) from [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections)
+1. ⭐ Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+2. ⭐ Starred [lptstr/winfetch](https://github.com/lptstr/winfetch)
+3. ⭐ Starred [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
