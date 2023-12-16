@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
-2. ⭐ Starred [lptstr/winfetch](https://github.com/lptstr/winfetch)
-3. ⭐ Starred [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox)
+1. 💪 Opened PR [#47](https://github.com/yihong0618/tg_bing_dalle/pull/47) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+2. ⭐ Starred [HolbyFPV/.dotfiles](https://github.com/HolbyFPV/.dotfiles)
+3. ⭐ Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
