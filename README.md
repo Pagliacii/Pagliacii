@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
-2. ⭐ Starred [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
-3. 💪 Opened PR [#48](https://github.com/yihong0618/tg_bing_dalle/pull/48) in [yihong0618/tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle)
+1. ⭐ Starred [cvut/qtrvsim](https://github.com/cvut/qtrvsim)
+2. ⭐ Starred [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+3. ⭐ Starred [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
