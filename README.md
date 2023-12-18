@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-2. ⭐ Starred [rizinorg/cutter](https://github.com/rizinorg/cutter)
-3. ⭐ Starred [cvut/qtrvsim](https://github.com/cvut/qtrvsim)
+1. ⭐ Starred [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
+2. ⭐ Starred [Calinou/scoop-games](https://github.com/Calinou/scoop-games)
+3. ⭐ Starred [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
