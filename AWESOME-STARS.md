@@ -343,6 +343,7 @@
 
 ## C# # 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 - [glazerdesktop/GlazeWM](https://github.com/glazerdesktop/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar.
@@ -386,6 +387,8 @@
 
 ## C++ 
 
+- [cvut/qtrvsim](https://github.com/cvut/qtrvsim) - RISC-V CPU simulator for education purposes
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 - [OneLoneCoder/olcNES](https://github.com/OneLoneCoder/olcNES) - NES Emulator, and Tutorial Video Code
