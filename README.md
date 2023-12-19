@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
-2. ⭐ Starred [Calinou/scoop-games](https://github.com/Calinou/scoop-games)
-3. ⭐ Starred [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+1. ⭐ Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
+2. ⭐ Starred [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+3. ⭐ Starred [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
