@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
-2. ⭐ Starred [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
-3. ⭐ Starred [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum)
+1. ⭐ Starred [sharkdp/numbat](https://github.com/sharkdp/numbat)
+2. ⭐ Starred [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua)
+3. ⭐ Starred [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
