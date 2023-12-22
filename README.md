@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui)
-2. ⭐ Starred [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
-3. ⭐ Starred [vanjs-org/van](https://github.com/vanjs-org/van)
+1. ⭐ Starred [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+2. ⭐ Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+3. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
