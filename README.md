@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
-2. ⭐ Starred [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-3. ⭐ Starred [Platane/snk](https://github.com/Platane/snk)
+1. ⭐ Starred [hunar4321/particle-life](https://github.com/hunar4321/particle-life)
+2. ⭐ Starred [beekeeb/piantor](https://github.com/beekeeb/piantor)
+3. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
