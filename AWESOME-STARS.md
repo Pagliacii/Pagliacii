@@ -1433,6 +1433,7 @@
 
 ## Lua 
 
+- [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical snippet management.
 - [HolbyFPV/.dotfiles](https://github.com/HolbyFPV/.dotfiles) - Windows config managed by chezmoi
 - [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) - Use popup windows to navigate files/buffer and to contain shells/TUIs
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) - Neovim Plugin for running functions on nodes.
