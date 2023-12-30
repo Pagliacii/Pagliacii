@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)
-2. ⭐ Starred [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim)
-3. ⭐ Starred [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard)
+1. ⭐ Starred [icio/actiongraph](https://github.com/icio/actiongraph)
+2. ⭐ Starred [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)
+3. ⭐ Starred [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
