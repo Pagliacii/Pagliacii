@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hunar4321/particle-life](https://github.com/hunar4321/particle-life)
-2. ⭐ Starred [beekeeb/piantor](https://github.com/beekeeb/piantor)
-3. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+1. ⭐ Starred [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors)
+2. ⭐ Starred [hunar4321/particle-life](https://github.com/hunar4321/particle-life)
+3. ⭐ Starred [beekeeb/piantor](https://github.com/beekeeb/piantor)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
