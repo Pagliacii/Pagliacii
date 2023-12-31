@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [icio/actiongraph](https://github.com/icio/actiongraph)
-2. ⭐ Starred [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)
-3. ⭐ Starred [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim)
+1. ❗️ Opened issue [#1](https://github.com/chrisgrieser/nvim-chainsaw/issues/1) in [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw)
+2. ⭐ Starred [icio/actiongraph](https://github.com/icio/actiongraph)
+3. ⭐ Starred [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
