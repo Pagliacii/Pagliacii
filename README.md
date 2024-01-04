@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
-2. ⭐ Starred [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo)
-3. ❗️ Opened issue [#1](https://github.com/chrisgrieser/nvim-chainsaw/issues/1) in [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw)
+1. ⭐ Starred [johnkerl/miller](https://github.com/johnkerl/miller)
+2. ⭐ Starred [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+3. ⭐ Starred [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
