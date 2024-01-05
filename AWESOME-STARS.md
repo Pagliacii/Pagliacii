@@ -61,6 +61,7 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
+- [Racket](#racket)
 - [Reason](#reason)
 - [Ren'Py](#ren'py)
 - [Rich Text Format](#rich-text-format)
@@ -137,6 +138,8 @@
 
 ## C 
 
+- [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
+- [g0dA/linuxStack](https://github.com/g0dA/linuxStack) - Linux技术栈
 - [rochus-keller/CspChan](https://github.com/rochus-keller/CspChan) - A pure C (-std=c89) implementation of Go channels, including blocking and non-blocking selects.
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 - [azure-rtos/threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
@@ -1873,6 +1876,7 @@
 
 ## Python 
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -1905,7 +1909,7 @@
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [beartype/plum](https://github.com/beartype/plum) - Multiple dispatch in Python
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
@@ -2448,6 +2452,10 @@
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
+## Racket 
+
+- [racket/racket](https://github.com/racket/racket) - The Racket repository
+
 ## Reason 
 
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
@@ -2815,7 +2823,6 @@
 ## Scheme 
 
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
-- [racket/racket](https://github.com/racket/racket) - The Racket repository
 
 ## Shell 
 
