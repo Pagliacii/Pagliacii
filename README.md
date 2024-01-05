@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [receiptline/receiptline](https://github.com/receiptline/receiptline)
-2. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-3. ⭐ Starred [webui-dev/webui](https://github.com/webui-dev/webui)
+1. ⭐ Starred [oschwald/maxminddb-rust](https://github.com/oschwald/maxminddb-rust)
+2. ⭐ Starred [receiptline/receiptline](https://github.com/receiptline/receiptline)
+3. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
