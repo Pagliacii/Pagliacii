@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rswier/swieros](https://github.com/rswier/swieros)
-2. ⭐ Starred [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
-3. ⭐ Starred [tconbeer/harlequin](https://github.com/tconbeer/harlequin)
+1. ⭐ Starred [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)
+2. ⭐ Starred [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
+3. ⭐ Starred [rswier/swieros](https://github.com/rswier/swieros)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
