@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga)
-2. ⭐ Starred [openFPGA666/FpgaGuide](https://github.com/openFPGA666/FpgaGuide)
-3. ⭐ Starred [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)
+1. ⭐ Starred [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom)
+2. ⭐ Starred [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga)
+3. ⭐ Starred [openFPGA666/FpgaGuide](https://github.com/openFPGA666/FpgaGuide)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
