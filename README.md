@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [marimo-team/marimo](https://github.com/marimo-team/marimo)
-2. ⭐ Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-3. ⭐ Starred [peplin/pygatt](https://github.com/peplin/pygatt)
+1. 🎉 Merged PR [#5](https://github.com/Pagliacii/hugo-bearberry/pull/5) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
+2. 💪 Opened PR [#5](https://github.com/Pagliacii/hugo-bearberry/pull/5) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
+3. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
