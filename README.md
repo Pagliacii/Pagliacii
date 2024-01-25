@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/Pagliacii/hugo-bearberry/pull/5) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
-2. 💪 Opened PR [#5](https://github.com/Pagliacii/hugo-bearberry/pull/5) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
-3. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
+1. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+2. ⭐ Starred [emmett-framework/granian](https://github.com/emmett-framework/granian)
+3. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
