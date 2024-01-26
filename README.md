@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
-2. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
-3. ⭐ Starred [emmett-framework/granian](https://github.com/emmett-framework/granian)
+1. ⭐ Starred [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim)
+2. ⭐ Starred [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla)
+3. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
