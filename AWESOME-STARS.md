@@ -396,6 +396,7 @@
 
 ## C++ 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -696,6 +697,7 @@
 
 ## Go 
 
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -914,7 +916,7 @@
 - [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [nsf/termbox-go](https://github.com/nsf/termbox-go) - Pure Go termbox implementation
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - Embedded Go Database, the fast alternative to SQLite, gorm, etc.
 - [oxplot/pdftilecut](https://github.com/oxplot/pdftilecut) - pdftilecut lets you sub-divide a PDF page(s) into smaller pages so you can print them on small form printers.
 - [lavalamp-/ipv666](https://github.com/lavalamp-/ipv666) - Golang IPv6 address enumeration
@@ -2504,6 +2506,8 @@
 
 ## Rust 
 
+- [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [oschwald/maxminddb-rust](https://github.com/oschwald/maxminddb-rust) - Rust MaxMind DB Reader
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
