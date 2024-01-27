@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim)
-2. ⭐ Starred [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla)
-3. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
+1. ⭐ Starred [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim)
+2. ⭐ Starred [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim)
+3. ⭐ Starred [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
