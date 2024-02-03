@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
-2. ⭐ Starred [clibs/sha1](https://github.com/clibs/sha1)
-3. ⭐ Starred [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot)
+1. ⭐ Starred [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)
+2. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+3. ⭐ Starred [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
