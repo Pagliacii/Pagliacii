@@ -1187,7 +1187,6 @@
 - [stedolan/counterexamples](https://github.com/stedolan/counterexamples) - Counterexamples in Type Systems
 - [jvns/nginx-playground](https://github.com/jvns/nginx-playground) - 
 - [haroldtreen/epub-press](https://github.com/haroldtreen/epub-press) - 📚 Web service for creating ebooks from collections of websites.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
@@ -1444,6 +1443,8 @@
 
 ## Lua 
 
+- [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim) - Directory browser plugin for Neovim, inspired by Ranger
+- [Selyss/mind.nvim](https://github.com/Selyss/mind.nvim) - Simple tree-based note taking system for Neovim
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from wezterm, kitty, and neovim terminals in your current neovim instance
@@ -2518,7 +2519,7 @@
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
-- [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless) - An open-source computer vision framework to build and deploy apps in minutes
+- [pipeless-ai/pipeless](https://github.com/pipeless-ai/pipeless) - An open-source computer vision framework to build and deploy apps in minutes, with all the infrastructure you need.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
@@ -2961,6 +2962,7 @@
 ## Svelte 
 
 - [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Web UI Client for Ollama 🦙
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 
 ## Swift 
