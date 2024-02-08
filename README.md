@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
-2. ⭐ Starred [chdb-io/chdb](https://github.com/chdb-io/chdb)
-3. ⭐ Starred [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)
+1. ⭐ Starred [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim)
+2. ⭐ Starred [Selyss/mind.nvim](https://github.com/Selyss/mind.nvim)
+3. ⭐ Starred [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
