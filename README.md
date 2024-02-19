@@ -87,7 +87,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C546%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C547%20hrs%206%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -116,14 +116,19 @@ Sunday                   742 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       36 mins             ███████████████░░░░░░░░░░   59.60 % 
+C++                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+gitignore                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      36 mins             ███████████████░░░░░░░░░░   59.60 % 
+Neovim                   24 mins             ██████████░░░░░░░░░░░░░░░   40.40 % 
 ```
 
 
-
+ Last Updated on 19/02/2024 21:22:26 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
