@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript)
-2. ⭐ Starred [jgaeddert/liquid-dsp](https://github.com/jgaeddert/liquid-dsp)
-3. ⭐ Starred [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
+1. ⭐ Starred [google/orbit](https://github.com/google/orbit)
+2. ⭐ Starred [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM)
+3. ⭐ Starred [Textualize/toolong](https://github.com/Textualize/toolong)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
