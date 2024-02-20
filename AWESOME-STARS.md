@@ -1756,7 +1756,7 @@
 - [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 这里收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文，欢迎Fork，你也可以通过Pull Request参与编辑。
 - [gocn/knowledge](https://github.com/gocn/knowledge) - Go社区的知识图谱，Knowledge Graph
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑
 - [paladin-t/fantasy](https://github.com/paladin-t/fantasy) - A curated list of available fantasy consoles/computers.
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
@@ -2402,7 +2402,7 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+- [pythonguis/15-minute-apps](https://github.com/pythonguis/15-minute-apps) - Demo desktop apps built with Python & Qt. With examples for PyQt6, PySide6, PyQt5 & PySide2
 - [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -2968,7 +2968,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 
