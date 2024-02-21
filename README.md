@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anurag3301/nvim-platformio.lua](https://github.com/anurag3301/nvim-platformio.lua)
-2. ⭐ Starred [google/orbit](https://github.com/google/orbit)
-3. ⭐ Starred [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM)
+1. ⭐ Starred [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv)
+2. ⭐ Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
+3. ⭐ Starred [anurag3301/nvim-platformio.lua](https://github.com/anurag3301/nvim-platformio.lua)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
