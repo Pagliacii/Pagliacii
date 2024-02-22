@@ -387,6 +387,7 @@
 
 ## C++ 
 
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, et
@@ -1061,7 +1062,6 @@
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [jokob-sk/Pi.Alert](https://github.com/jokob-sk/Pi.Alert) - 💻🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry) - 🐻 🍓 A lightweight Hugo theme based on Hugo Bear Cub.
 - [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub) - 🐻 A lightweight Hugo theme based on Bear Blog and Hugo Bear Blog
@@ -1898,6 +1898,7 @@
 
 ## Python 
 
+- [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv) - Build reactive web UIs in Python
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
@@ -3032,7 +3033,7 @@
 - [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - The most Obsidian-native PDF annotation tool ever.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
@@ -3042,6 +3043,7 @@
 - [meganetaaan/stack-chan](https://github.com/meganetaaan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
