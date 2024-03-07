@@ -69,6 +69,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [SWIG](#swig)
+- [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -2841,7 +2842,6 @@
 - [Wilfred/bfc](https://github.com/Wilfred/bfc) - An industrial-grade brainfuck compiler
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling CPU profiler for Ruby
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 
 ## SCSS 
 
@@ -2856,6 +2856,10 @@
 ## SWIG 
 
 - [tpaviot/pythonocc-core](https://github.com/tpaviot/pythonocc-core) - Python package for 3D CAD/BIM/PLM/CAM
+
+## Scala 
+
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 
 ## Scheme 
 
