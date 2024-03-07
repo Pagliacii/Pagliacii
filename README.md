@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
-2. ⭐ Starred [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript)
-3. ⭐ Starred [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim)
+1. ⭐ Starred [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim)
+2. ⭐ Starred [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
+3. ⭐ Starred [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
