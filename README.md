@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME)
-2. ⭐ Starred [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim)
-3. ⭐ Starred [SuperPaintman/the-evolution-of-a-go-programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
+1. ⭐ Starred [Optiboot/optiboot](https://github.com/Optiboot/optiboot)
+2. ⭐ Starred [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME)
+3. ⭐ Starred [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
