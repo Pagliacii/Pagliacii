@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Optiboot/optiboot](https://github.com/Optiboot/optiboot)
-2. ⭐ Starred [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME)
-3. ⭐ Starred [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim)
+1. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+2. ⭐ Starred [Optiboot/optiboot](https://github.com/Optiboot/optiboot)
+3. ⭐ Starred [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
