@@ -297,7 +297,7 @@
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [yodaos-project/yodaos](https://github.com/yodaos-project/yodaos) - Yet another Linux distribution for voice-enabled IoT and embrace Web standards
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
-- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+- [ThusSpokeNomad/GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming (Netcode) Resources
 - [SanderMertens/bake](https://github.com/SanderMertens/bake) - Bake, A build system for building, testing and running C & C++ projects
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -1608,6 +1608,7 @@
 
 ## Others 
 
+- [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - A comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources.
 - [openFPGA666/FpgaGuide](https://github.com/openFPGA666/FpgaGuide) - 分享FPGA开发知识、优秀文章、学习网站以及开源项目。本项目收集了github中许多FPGA开源项目。
 - [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
 - [beekeeb/piantor](https://github.com/beekeeb/piantor) - The Piantor Keyboard is a beginner-friendly, easy-to-solder, 42-key or 36-key, diodeless, low profile aggressive column staggered, hotswappable and non-hotswappable, programmable ergonomic mechanical 
@@ -2355,7 +2356,7 @@
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [amitt001/pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
@@ -3115,7 +3116,7 @@
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [ExplainDev/kmdr-cli](https://github.com/ExplainDev/kmdr-cli) - 🧠 The CLI tool for learning commands from your terminal
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
@@ -3140,7 +3141,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
+- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
