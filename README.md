@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig)
-2. ⭐ Starred [flydelabs/flyde](https://github.com/flydelabs/flyde)
-3. ⭐ Starred [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+1. ⭐ Starred [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+2. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)
+3. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
