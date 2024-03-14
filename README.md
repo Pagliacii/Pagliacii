@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
-2. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)
-3. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
+1. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+2. ⭐ Starred [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+3. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
