@@ -130,6 +130,8 @@
 
 ## C 
 
+- [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
+- [bwhitman/tulipcc](https://github.com/bwhitman/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 - [Jean-MarcHarvengt/MCUME](https://github.com/Jean-MarcHarvengt/MCUME) - Multi CompUter Machine Emulator for several MCUs
 - [jgaeddert/liquid-dsp](https://github.com/jgaeddert/liquid-dsp) - digital signal processing library for software-defined radios
 - [clibs/sha1](https://github.com/clibs/sha1) - sha1 hash alogrithm
@@ -343,6 +345,7 @@
 
 ## C# # 
 
+- [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 - [DynamoDS/Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
@@ -389,6 +392,7 @@
 
 ## C++ 
 
+- [ValveSoftware/openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
 - [Optiboot/optiboot](https://github.com/Optiboot/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
@@ -1608,6 +1612,10 @@
 
 ## Others 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists
 - [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - A comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources.
 - [openFPGA666/FpgaGuide](https://github.com/openFPGA666/FpgaGuide) - 分享FPGA开发知识、优秀文章、学习网站以及开源项目。本项目收集了github中许多FPGA开源项目。
 - [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
