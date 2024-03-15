@@ -1934,6 +1934,7 @@
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot) - Open-Source,ROS Robot Dog Kit
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -3059,7 +3060,6 @@
 - [sunxfancy/vscode-llvm](https://github.com/sunxfancy/vscode-llvm) - VSCode LLVM Compiler Explorer
 - [meganetaaan/stack-chan](https://github.com/meganetaaan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
