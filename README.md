@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim)
-2. ⭐ Starred [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit)
-3. ⭐ Starred [peterhinch/micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py)
+1. ⭐ Starred [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
+2. ⭐ Starred [capstone-engine/capstone](https://github.com/capstone-engine/capstone)
+3. ⭐ Starred [lsc4719/MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
