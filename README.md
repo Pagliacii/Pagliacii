@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
-2. ⭐ Starred [capstone-engine/capstone](https://github.com/capstone-engine/capstone)
-3. ⭐ Starred [lsc4719/MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems)
+1. ⭐ Starred [the-aerospace-corporation/satcat5](https://github.com/the-aerospace-corporation/satcat5)
+2. ⭐ Starred [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
+3. ⭐ Starred [capstone-engine/capstone](https://github.com/capstone-engine/capstone)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
