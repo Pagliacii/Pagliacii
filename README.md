@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen)
-2. ⭐ Starred [Klipper3d/klipper](https://github.com/Klipper3d/klipper)
-3. ⭐ Starred [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap)
+1. ⭐ Starred [loft-sh/devpod](https://github.com/loft-sh/devpod)
+2. ⭐ Starred [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen)
+3. ⭐ Starred [Klipper3d/klipper](https://github.com/Klipper3d/klipper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
