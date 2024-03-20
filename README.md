@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chanhx/crabviz](https://github.com/chanhx/crabviz)
-2. ⭐ Starred [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM)
-3. ⭐ Starred [nanochess/bootLogo](https://github.com/nanochess/bootLogo)
+1. ⭐ Starred [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen)
+2. ⭐ Starred [Klipper3d/klipper](https://github.com/Klipper3d/klipper)
+3. ⭐ Starred [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
