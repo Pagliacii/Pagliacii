@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM)
-2. ⭐ Starred [nanochess/bootLogo](https://github.com/nanochess/bootLogo)
-3. ⭐ Starred [the-aerospace-corporation/satcat5](https://github.com/the-aerospace-corporation/satcat5)
+1. ⭐ Starred [chanhx/crabviz](https://github.com/chanhx/crabviz)
+2. ⭐ Starred [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM)
+3. ⭐ Starred [nanochess/bootLogo](https://github.com/nanochess/bootLogo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
