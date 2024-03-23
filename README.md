@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM)
-2. ⭐ Starred [loft-sh/devpod](https://github.com/loft-sh/devpod)
-3. ⭐ Starred [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen)
+1. ⭐ Starred [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat)
+2. ⭐ Starred [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM)
+3. ⭐ Starred [loft-sh/devpod](https://github.com/loft-sh/devpod)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
