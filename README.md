@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh)
-2. ⭐ Starred [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot)
-3. ⭐ Starred [pyocd/pyOCD](https://github.com/pyocd/pyOCD)
+1. ⭐ Starred [scottbez1/smartknob](https://github.com/scottbez1/smartknob)
+2. ⭐ Starred [LaserWeb/LaserWeb4-Binaries](https://github.com/LaserWeb/LaserWeb4-Binaries)
+3. ⭐ Starred [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
