@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [scottbez1/smartknob](https://github.com/scottbez1/smartknob)
-2. ⭐ Starred [LaserWeb/LaserWeb4-Binaries](https://github.com/LaserWeb/LaserWeb4-Binaries)
-3. ⭐ Starred [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh)
+1. ⭐ Starred [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim)
+2. ⭐ Starred [scottbez1/smartknob](https://github.com/scottbez1/smartknob)
+3. ⭐ Starred [LaserWeb/LaserWeb4-Binaries](https://github.com/LaserWeb/LaserWeb4-Binaries)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
