@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3998](https://github.com/wez/wezterm/issues/3998) in [wez/wezterm](https://github.com/wez/wezterm)
-2. ⭐ Starred [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim)
-3. ⭐ Starred [scottbez1/smartknob](https://github.com/scottbez1/smartknob)
+1. ⭐ Starred [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+2. ✔️ Closed issue [#3998](https://github.com/wez/wezterm/issues/3998) in [wez/wezterm](https://github.com/wez/wezterm)
+3. ⭐ Starred [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
