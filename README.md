@@ -87,7 +87,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C743%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C746%20hrs%207%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -129,7 +129,7 @@ VS Code                  22 mins             ░░░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 28/03/2024 12:41:04 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
