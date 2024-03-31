@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [floooh/sokol](https://github.com/floooh/sokol)
-2. ⭐ Starred [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim)
-3. ⭐ Starred [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim)
+1. ⭐ Starred [makerdiary/nrf52840-mdk-usb-dongle](https://github.com/makerdiary/nrf52840-mdk-usb-dongle)
+2. ⭐ Starred [floooh/sokol](https://github.com/floooh/sokol)
+3. ⭐ Starred [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
