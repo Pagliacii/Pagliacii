@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nalgeon/codapi](https://github.com/nalgeon/codapi)
-2. ⭐ Starred [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
-3. ⭐ Starred [ravachol/kew](https://github.com/ravachol/kew)
+1. ⭐ Starred [moudey/Shell](https://github.com/moudey/Shell)
+2. ⭐ Starred [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky)
+3. ⭐ Starred [janhq/jan](https://github.com/janhq/jan)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
