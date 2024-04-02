@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [muodov/kociemba](https://github.com/muodov/kociemba)
-2. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
-3. 🔱 Forked [Pagliacii/codeium.nvim](https://github.com/Pagliacii/codeium.nvim) from [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim)
+1. ⭐ Starred [nalgeon/codapi](https://github.com/nalgeon/codapi)
+2. ⭐ Starred [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
+3. ⭐ Starred [ravachol/kew](https://github.com/ravachol/kew)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
