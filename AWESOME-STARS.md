@@ -131,6 +131,7 @@
 
 ## C 
 
+- [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [tsoding/musializer](https://github.com/tsoding/musializer) - Music Visualizer
@@ -398,6 +399,8 @@
 
 ## C++ 
 
+- [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
+- [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo
@@ -708,6 +711,8 @@
 
 ## Go 
 
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
+- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -1194,6 +1199,7 @@
 
 ## JavaScript 
 
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [LaserWeb/LaserWeb4-Binaries](https://github.com/LaserWeb/LaserWeb4-Binaries) - Installers for LaserWeb4
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1432,6 +1438,7 @@
 
 ## Jupyter Notebook 
 
+- [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud
@@ -1628,6 +1635,7 @@
 
 ## Others 
 
+- [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
 - [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [lsc4719/MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems) - 
@@ -1927,6 +1935,11 @@
 
 ## Python 
 
+- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+- [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
+- [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
+- [muodov/kociemba](https://github.com/muodov/kociemba) - A pure Python and pure C ports of Kociemba's algorithm for solving Rubik's cube
 - [makerdiary/nrf52840-mdk-usb-dongle](https://github.com/makerdiary/nrf52840-mdk-usb-dongle) - An open-source, small and low-cost USB Dongle that supports Bluetooth 5.4, Bluetooth mesh, Thread, Zigbee, 802.15.4, ANT and 2.4 GHz proprietary protocols
 - [pyocd/pyOCD](https://github.com/pyocd/pyOCD) - Open source Python library for programming and debugging Arm Cortex-M microcontrollers
 - [peterhinch/micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - A Python 3 utility to convert fonts to Python source capable of being frozen as bytecode
@@ -1935,7 +1948,7 @@
 - [hyperdiv/hyperdiv](https://github.com/hyperdiv/hyperdiv) - Build reactive web UIs in Python
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [peplin/pygatt](https://github.com/peplin/pygatt) - Python wrapper for gatttool (a deprecated tool from BlueZ) and the BGAPI for accessing Bluetooth LE Devices
 - [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
@@ -2393,7 +2406,7 @@
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
-- [timofurrer/maya](https://github.com/timofurrer/maya) - Datetimes for Humans™
+- [kennethreitz/maya](https://github.com/kennethreitz/maya) - Datetimes for Humans™
 - [d33tah/strokes](https://github.com/d33tah/strokes) - Strokes is a project meant to help you learn Chinese characters.
 - [facebookincubator/xar](https://github.com/facebookincubator/xar) - executable archive format
 - [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
@@ -2562,6 +2575,7 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
@@ -2972,7 +2986,7 @@
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) - vimix-icon-theme
 - [harttle/macbook-lighter](https://github.com/harttle/macbook-lighter) - Macbook screen and keyboard backlight on the ambient light
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
@@ -3071,6 +3085,8 @@
 
 ## TypeScript 
 
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
@@ -3192,7 +3208,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
