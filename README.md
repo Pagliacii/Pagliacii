@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thep0y/fcitx5-themes-candlelight](https://github.com/thep0y/fcitx5-themes-candlelight)
-2. ⭐ Starred [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
-3. ⭐ Starred [redcode/Z80](https://github.com/redcode/Z80)
+1. ⭐ Starred [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+2. ⭐ Starred [thep0y/fcitx5-themes-candlelight](https://github.com/thep0y/fcitx5-themes-candlelight)
+3. ⭐ Starred [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
