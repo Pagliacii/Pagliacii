@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
-2. ⭐ Starred [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
-3. ⭐ Starred [moudey/Shell](https://github.com/moudey/Shell)
+1. ⭐ Starred [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
+2. ⭐ Starred [redcode/Z80](https://github.com/redcode/Z80)
+3. ⭐ Starred [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
