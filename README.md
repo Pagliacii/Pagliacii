@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)
-2. ⭐ Starred [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
-3. ⭐ Starred [thep0y/fcitx5-themes-candlelight](https://github.com/thep0y/fcitx5-themes-candlelight)
+1. ⭐ Starred [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher)
+2. ⭐ Starred [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)
+3. ⭐ Starred [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
