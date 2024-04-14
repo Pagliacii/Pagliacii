@@ -131,6 +131,7 @@
 
 ## C 
 
+- [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [redcode/Z80](https://github.com/redcode/Z80) - Highly portable Zilog Z80 CPU emulator written in ANSI C
 - [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
@@ -400,6 +401,8 @@
 
 ## C++ 
 
+- [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -714,7 +717,6 @@
 ## Go 
 
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
-- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -3046,6 +3048,7 @@
 
 ## Svelte 
 
+- [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
