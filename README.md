@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chubin/wttr.in](https://github.com/chubin/wttr.in)
-2. ⭐ Starred [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
-3. ⭐ Starred [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard)
+1. ⭐ Starred [elkowar/eww](https://github.com/elkowar/eww)
+2. ⭐ Starred [chubin/wttr.in](https://github.com/chubin/wttr.in)
+3. ⭐ Starred [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
