@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard)
-2. ⭐ Starred [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
-3. ⭐ Starred [Alexays/Waybar](https://github.com/Alexays/Waybar)
+1. ⭐ Starred [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
+2. ⭐ Starred [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard)
+3. ⭐ Starred [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
