@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elkowar/eww](https://github.com/elkowar/eww)
-2. ⭐ Starred [chubin/wttr.in](https://github.com/chubin/wttr.in)
-3. ⭐ Starred [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
+1. ⭐ Starred [vortexgpgpu/vortex](https://github.com/vortexgpgpu/vortex)
+2. ⭐ Starred [mhx/dwarfs](https://github.com/mhx/dwarfs)
+3. ⭐ Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
