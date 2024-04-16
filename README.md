@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vortexgpgpu/vortex](https://github.com/vortexgpgpu/vortex)
-2. ⭐ Starred [mhx/dwarfs](https://github.com/mhx/dwarfs)
-3. ⭐ Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+1. ⭐ Starred [phanen/fzf-lua-overlay](https://github.com/phanen/fzf-lua-overlay)
+2. ⭐ Starred [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim)
+3. ⭐ Starred [vortexgpgpu/vortex](https://github.com/vortexgpgpu/vortex)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
