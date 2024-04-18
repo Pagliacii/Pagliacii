@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
-2. ⭐ Starred [phanen/fzf-lua-overlay](https://github.com/phanen/fzf-lua-overlay)
-3. ⭐ Starred [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim)
+1. ⭐ Starred [WINSDK/bite](https://github.com/WINSDK/bite)
+2. ⭐ Starred [mitchellh/libxev](https://github.com/mitchellh/libxev)
+3. ⭐ Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
