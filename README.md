@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [WINSDK/bite](https://github.com/WINSDK/bite)
-2. ⭐ Starred [mitchellh/libxev](https://github.com/mitchellh/libxev)
-3. ⭐ Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)
+1. ⭐ Starred [inhumantsar/slurp](https://github.com/inhumantsar/slurp)
+2. ⭐ Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)
+3. ⭐ Starred [WINSDK/bite](https://github.com/WINSDK/bite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
