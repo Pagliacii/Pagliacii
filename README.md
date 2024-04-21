@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit)
-2. ⭐ Starred [inhumantsar/slurp](https://github.com/inhumantsar/slurp)
-3. ⭐ Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)
+1. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+2. ⭐ Starred [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit)
+3. ⭐ Starred [inhumantsar/slurp](https://github.com/inhumantsar/slurp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
