@@ -900,7 +900,7 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [github/vulcanizer](https://github.com/github/vulcanizer) - GitHub's ops focused Elasticsearch library
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - A Go API development platform
 - [golang-china/go2-book](https://github.com/golang-china/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
