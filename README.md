@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [picosh/pico](https://github.com/picosh/pico)
-2. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-3. ⭐ Starred [qqfly/how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics)
+1. ⭐ Starred [chipsalliance/chisel](https://github.com/chipsalliance/chisel)
+2. ⭐ Starred [picosh/pico](https://github.com/picosh/pico)
+3. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
