@@ -1561,7 +1561,7 @@
 - [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin for Neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [kikito/middleclass](https://github.com/kikito/middleclass) - Object-orientation for Lua
-- [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) - Create snips from your vim/nvim editor
+- [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) - Create snips from your vim/nvim editor, code wrapper of snips.sh
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams in Neovim
@@ -1859,7 +1859,6 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) - Python 练习册，每天一个小程序
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [ChrisLinn/greyhame-2017](https://github.com/ChrisLinn/greyhame-2017) - 知识星球"灰袍技能" 2017 精华
@@ -2468,6 +2467,7 @@
 - [IntelLabs/nlp-architect](https://github.com/IntelLabs/nlp-architect) - A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
+- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An open-source adversary emulation platform
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
