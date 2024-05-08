@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-2. ⭐ Starred [borgo-lang/borgo](https://github.com/borgo-lang/borgo)
-3. ⭐ Starred [chipsalliance/chisel](https://github.com/chipsalliance/chisel)
+1. ⭐ Starred [danielchasehooper/ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public)
+2. ⭐ Starred [nothings/stb](https://github.com/nothings/stb)
+3. ⭐ Starred [httpie/desktop](https://github.com/httpie/desktop)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
