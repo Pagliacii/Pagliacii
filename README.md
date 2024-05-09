@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [raysan5/raylib](https://github.com/raysan5/raylib)
-2. ⭐ Starred [danielchasehooper/ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public)
-3. ⭐ Starred [nothings/stb](https://github.com/nothings/stb)
+1. ⭐ Starred [wjakob/nanobind](https://github.com/wjakob/nanobind)
+2. ⭐ Starred [sin-x/FPGA](https://github.com/sin-x/FPGA)
+3. ⭐ Starred [raysan5/raylib](https://github.com/raysan5/raylib)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
