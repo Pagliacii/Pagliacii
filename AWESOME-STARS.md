@@ -2791,7 +2791,6 @@
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [linebender/piet](https://github.com/linebender/piet) - An abstraction for 2D graphics.
 - [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) - Rust bindings for Sciter
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [anp/moxie](https://github.com/anp/moxie) - lightweight platform-agnostic tools for declarative UI
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [Pagliacii/mega-project-list](https://github.com/Pagliacii/mega-project-list) - [WIP] The Rust Implementations of Martyr2's Mega Project List.
@@ -3443,6 +3442,7 @@
 
 ## WebAssembly 
 
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 
 ## YASnippet 
