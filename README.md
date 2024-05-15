@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MHNightCat/superfile](https://github.com/MHNightCat/superfile)
-2. ⭐ Starred [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx)
-3. ⭐ Starred [wjakob/nanobind](https://github.com/wjakob/nanobind)
+1. ⭐ Starred [wailsapp/wails](https://github.com/wailsapp/wails)
+2. ⭐ Starred [MHNightCat/superfile](https://github.com/MHNightCat/superfile)
+3. ⭐ Starred [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
