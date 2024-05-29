@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#4](https://github.com/Pagliacii/pagliacii-bucket/issues/4) in [Pagliacii/pagliacii-bucket](https://github.com/Pagliacii/pagliacii-bucket)
-2. ⭐ Starred [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob)
-3. ⭐ Starred [wailsapp/wails](https://github.com/wailsapp/wails)
+1. ⭐ Starred [darbra/sperm](https://github.com/darbra/sperm)
+2. ❗️ Opened issue [#4](https://github.com/Pagliacii/pagliacii-bucket/issues/4) in [Pagliacii/pagliacii-bucket](https://github.com/Pagliacii/pagliacii-bucket)
+3. ⭐ Starred [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
