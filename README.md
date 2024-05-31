@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)
-2. ⭐ Starred [lovyan03/LovyanGFX](https://github.com/lovyan03/LovyanGFX)
-3. ⭐ Starred [darbra/sperm](https://github.com/darbra/sperm)
+1. ❗️ Opened issue [#133](https://github.com/joeyuping/quick_latex_obsidian/issues/133) in [joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian)
+2. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)
+3. ⭐ Starred [lovyan03/LovyanGFX](https://github.com/lovyan03/LovyanGFX)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
