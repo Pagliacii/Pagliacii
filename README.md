@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tidwall/neco](https://github.com/tidwall/neco)
-2. ⭐ Starred [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler)
-3. ❗️ Opened issue [#133](https://github.com/joeyuping/quick_latex_obsidian/issues/133) in [joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian)
+1. ⭐ Starred [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)
+2. ⭐ Starred [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)
+3. ⭐ Starred [linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn](https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
