@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)
-2. ⭐ Starred [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)
-3. ⭐ Starred [linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn](https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn)
+1. ⭐ Starred [sigoden/dufs](https://github.com/sigoden/dufs)
+2. ⭐ Starred [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)
+3. ⭐ Starred [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
