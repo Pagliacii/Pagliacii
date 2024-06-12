@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xorvoid/forsp](https://github.com/xorvoid/forsp)
-2. ⭐ Starred [snare/voltron](https://github.com/snare/voltron)
-3. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+1. ⭐ Starred [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)
+2. ⭐ Starred [johnlui/PPHC](https://github.com/johnlui/PPHC)
+3. ⭐ Starred [xorvoid/forsp](https://github.com/xorvoid/forsp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
