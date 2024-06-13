@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)
-2. ⭐ Starred [johnlui/PPHC](https://github.com/johnlui/PPHC)
-3. ⭐ Starred [xorvoid/forsp](https://github.com/xorvoid/forsp)
+1. ⭐ Starred [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)
+2. ⭐ Starred [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)
+3. ⭐ Starred [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
