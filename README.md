@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)
-2. ⭐ Starred [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)
-3. ⭐ Starred [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
+1. ⭐ Starred [ayamir/nvimdots](https://github.com/ayamir/nvimdots)
+2. ⭐ Starred [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)
+3. ⭐ Starred [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
