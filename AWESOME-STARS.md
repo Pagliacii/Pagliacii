@@ -1511,6 +1511,7 @@
 
 ## Lua 
 
+- [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [phanen/fzf-lua-overlay](https://github.com/phanen/fzf-lua-overlay) - Strong default and new pickers for fzf-lua.
 - [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) - A scrollable `watch` alternative for Neovim.
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
@@ -1982,6 +1983,7 @@
 
 ## Python 
 
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [google/mesop](https://github.com/google/mesop) - 
