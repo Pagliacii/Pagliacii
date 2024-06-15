@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Pagliacii/LazyVim](https://github.com/Pagliacii/LazyVim) from [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
-2. ⭐ Starred [NVIDIA/warp](https://github.com/NVIDIA/warp)
-3. ⭐ Starred [ayamir/nvimdots](https://github.com/ayamir/nvimdots)
+1. ❗️ Opened issue [#3663](https://github.com/LazyVim/LazyVim/issues/3663) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+2. 🔱 Forked [Pagliacii/LazyVim](https://github.com/Pagliacii/LazyVim) from [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+3. ⭐ Starred [NVIDIA/warp](https://github.com/NVIDIA/warp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
