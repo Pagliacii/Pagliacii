@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [git-town/git-town](https://github.com/git-town/git-town)
-2. ⭐ Starred [Bklieger/groqbook](https://github.com/Bklieger/groqbook)
-3. ❗️ Opened issue [#3663](https://github.com/LazyVim/LazyVim/issues/3663) in [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+1. ⭐ Starred [litex-hub/fpga_101](https://github.com/litex-hub/fpga_101)
+2. ⭐ Starred [litex-hub/litex-boards](https://github.com/litex-hub/litex-boards)
+3. ⭐ Starred [cyberman54/ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
