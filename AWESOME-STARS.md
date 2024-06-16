@@ -414,6 +414,7 @@
 
 ## C++ 
 
+- [cyberman54/ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter) - Wifi & BLE driven passenger flow metering with cheap ESP32 boards
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
@@ -737,6 +738,7 @@
 
 ## Go 
 
+- [git-town/git-town](https://github.com/git-town/git-town) - Git made easy for teams
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -1983,6 +1985,9 @@
 
 ## Python 
 
+- [litex-hub/fpga_101](https://github.com/litex-hub/fpga_101) - FPGA 101 lessons/labs
+- [litex-hub/litex-boards](https://github.com/litex-hub/litex-boards) - LiteX boards files
+- [Bklieger/groqbook](https://github.com/Bklieger/groqbook) - Groqbook: Generate entire books in seconds using Groq and Llama3
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
