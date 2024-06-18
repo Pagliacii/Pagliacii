@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1267](https://github.com/mfussenegger/nvim-dap/issues/1267) in [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
-2. ⭐ Starred [litex-hub/fpga_101](https://github.com/litex-hub/fpga_101)
-3. ⭐ Starred [litex-hub/litex-boards](https://github.com/litex-hub/litex-boards)
+1. ⭐ Starred [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
+2. ⭐ Starred [edc/bass](https://github.com/edc/bass)
+3. ⭐ Starred [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
