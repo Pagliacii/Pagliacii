@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pyapp-kit/magicgui](https://github.com/pyapp-kit/magicgui)
-2. ⭐ Starred [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
-3. ⭐ Starred [edc/bass](https://github.com/edc/bass)
+1. ⭐ Starred [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+2. ⭐ Starred [pyapp-kit/magicgui](https://github.com/pyapp-kit/magicgui)
+3. ⭐ Starred [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
