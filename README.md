@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cs01/gdbgui](https://github.com/cs01/gdbgui)
-2. ⭐ Starred [epasveer/seer](https://github.com/epasveer/seer)
-3. ⭐ Starred [nakst/gf](https://github.com/nakst/gf)
+1. ⭐ Starred [Textualize/textual-serve](https://github.com/Textualize/textual-serve)
+2. ⭐ Starred [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx)
+3. ⭐ Starred [MCUdude/MightyCore](https://github.com/MCUdude/MightyCore)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
