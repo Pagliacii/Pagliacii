@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [weartist/computer-book-list](https://github.com/weartist/computer-book-list)
-2. ⭐ Starred [Textualize/textual-serve](https://github.com/Textualize/textual-serve)
-3. ⭐ Starred [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx)
+1. ⭐ Starred [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim)
+2. ⭐ Starred [weartist/computer-book-list](https://github.com/weartist/computer-book-list)
+3. ⭐ Starred [Textualize/textual-serve](https://github.com/Textualize/textual-serve)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
