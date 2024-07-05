@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
-2. ⭐ Starred [nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash)
-3. ⭐ Starred [mr-karan/doggo](https://github.com/mr-karan/doggo)
+1. ⭐ Starred [shinh/elvm](https://github.com/shinh/elvm)
+2. ⭐ Starred [overleaf/overleaf](https://github.com/overleaf/overleaf)
+3. ⭐ Starred [Gekkio/gb-hardware](https://github.com/Gekkio/gb-hardware)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
