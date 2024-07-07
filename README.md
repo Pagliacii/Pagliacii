@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nodkz/mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server)
-2. ⭐ Starred [shinh/elvm](https://github.com/shinh/elvm)
-3. ⭐ Starred [overleaf/overleaf](https://github.com/overleaf/overleaf)
+1. ⭐ Starred [javl/image2cpp](https://github.com/javl/image2cpp)
+2. ⭐ Starred [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
+3. ⭐ Starred [LaserWeb/LaserWeb4](https://github.com/LaserWeb/LaserWeb4)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
