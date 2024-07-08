@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)
-2. ⭐ Starred [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA)
-3. ⭐ Starred [javl/image2cpp](https://github.com/javl/image2cpp)
+1. ⭐ Starred [minad/consult](https://github.com/minad/consult)
+2. ⭐ Starred [jarun/buku](https://github.com/jarun/buku)
+3. ⭐ Starred [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
