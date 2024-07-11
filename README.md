@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [YosysHQ/picorv32](https://github.com/YosysHQ/picorv32)
-2. 🔱 Forked [Pagliacii/reading-source-code-of-leveldb-1.23](https://github.com/Pagliacii/reading-source-code-of-leveldb-1.23) from [SmartKeyerror/reading-source-code-of-leveldb-1.23](https://github.com/SmartKeyerror/reading-source-code-of-leveldb-1.23)
-3. ⭐ Starred [minad/consult](https://github.com/minad/consult)
+1. ⭐ Starred [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+2. ⭐ Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+3. ⭐ Starred [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
