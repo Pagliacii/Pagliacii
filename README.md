@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
-2. ⭐ Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
-3. ⭐ Starred [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager)
+1. ⭐ Starred [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+2. ⭐ Starred [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+3. ⭐ Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
