@@ -134,6 +134,7 @@
 
 ## C 
 
+- [bitbank2/OneBitDisplay](https://github.com/bitbank2/OneBitDisplay) - A full featured Arduino display library for 1-bit per pixel OLED, LCD and e-paper displays
 - [tonyp7/esp32-wifi-manager](https://github.com/tonyp7/esp32-wifi-manager) - Captive Portal for ESP32 that can connect to a saved wireless network or start an access point where you can connect to existing wifis.
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [dojoe/Twonkie](https://github.com/dojoe/Twonkie) - A USB-PD sniffer/injector/sink based on Google's Twinkie, re-designed to be manufactured by mere mortals.
@@ -2684,6 +2685,7 @@
 
 ## Rust 
 
+- [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
