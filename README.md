@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)
-2. ⭐ Starred [rushter/selectolax](https://github.com/rushter/selectolax)
-3. ⭐ Starred [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip)
+1. ⭐ Starred [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
+2. ⭐ Starred [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)
+3. ⭐ Starred [rushter/selectolax](https://github.com/rushter/selectolax)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
