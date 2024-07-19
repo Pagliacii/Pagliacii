@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
-2. ⭐ Starred [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)
-3. ⭐ Starred [rushter/selectolax](https://github.com/rushter/selectolax)
+1. ⭐ Starred [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe)
+2. ⭐ Starred [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico)
+3. ⭐ Starred [fhdm-dev/scoppy](https://github.com/fhdm-dev/scoppy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
