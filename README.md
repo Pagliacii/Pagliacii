@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe)
-2. ⭐ Starred [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico)
-3. ⭐ Starred [fhdm-dev/scoppy](https://github.com/fhdm-dev/scoppy)
+1. ⭐ Starred [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg)
+2. ⭐ Starred [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library)
+3. ⭐ Starred [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
