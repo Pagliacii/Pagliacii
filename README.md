@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ianyh/Amethyst](https://github.com/ianyh/Amethyst)
-2. ⭐ Starred [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
-3. ⭐ Starred [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust)
+1. ⭐ Starred [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+2. ⭐ Starred [jodigiordano/gg](https://github.com/jodigiordano/gg)
+3. ⭐ Starred [ianyh/Amethyst](https://github.com/ianyh/Amethyst)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
