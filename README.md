@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facundoolano/rpg-cli](https://github.com/facundoolano/rpg-cli)
-2. ⭐ Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
-3. ⭐ Starred [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+1. ⭐ Starred [lusingander/serie](https://github.com/lusingander/serie)
+2. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
+3. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
