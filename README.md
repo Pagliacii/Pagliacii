@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lusingander/serie](https://github.com/lusingander/serie)
-2. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
-3. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+1. ⭐ Starred [litex-hub/linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv)
+2. ⭐ Starred [lusingander/serie](https://github.com/lusingander/serie)
+3. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
