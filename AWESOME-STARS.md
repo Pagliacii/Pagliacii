@@ -2047,7 +2047,7 @@
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [litex-hub/fpga_101](https://github.com/litex-hub/fpga_101) - FPGA 101 lessons/labs
 - [litex-hub/litex-boards](https://github.com/litex-hub/litex-boards) - LiteX boards files
-- [Bklieger/groqbook](https://github.com/Bklieger/groqbook) - Groqbook: Generate entire books in seconds using Groq and Llama3
+- [Bklieger/infinite-bookshelf](https://github.com/Bklieger/infinite-bookshelf) - Infinite Bookshelf: Generate entire books in seconds using Groq and Llama3
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
@@ -2699,6 +2699,9 @@
 
 ## Rust 
 
+- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
+- [facundoolano/rpg-cli](https://github.com/facundoolano/rpg-cli) - Your filesystem as a dungeon!
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
@@ -3069,6 +3072,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Gekkio/gb-hardware](https://github.com/Gekkio/gb-hardware) - Game Boy -related custom hardware by gekkio
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
