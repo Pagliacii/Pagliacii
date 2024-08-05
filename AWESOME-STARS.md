@@ -3437,6 +3437,7 @@
 
 ## Verilog 
 
+- [Obijuan/open-fpga-verilog-tutorial](https://github.com/Obijuan/open-fpga-verilog-tutorial) - Learn how to design digital systems and synthesize them into an FPGA using only opensource tools
 - [YosysHQ/picorv32](https://github.com/YosysHQ/picorv32) - PicoRV32 - A Size-Optimized RISC-V CPU
 - [vortexgpgpu/vortex](https://github.com/vortexgpgpu/vortex) - 
 - [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) - OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/
