@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [antirez/smallchat](https://github.com/antirez/smallchat)
-2. ⭐ Starred [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist)
-3. ⭐ Starred [Obijuan/open-fpga-verilog-tutorial](https://github.com/Obijuan/open-fpga-verilog-tutorial)
+1. ⭐ Starred [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev)
+2. ⭐ Starred [antirez/smallchat](https://github.com/antirez/smallchat)
+3. ⭐ Starred [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
