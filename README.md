@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#6077](https://github.com/ScoopInstaller/Main/issues/6077) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
-2. ⭐ Starred [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev)
-3. ⭐ Starred [antirez/smallchat](https://github.com/antirez/smallchat)
+1. ⭐ Starred [kmonad/kmonad](https://github.com/kmonad/kmonad)
+2. ⭐ Starred [jtroo/kanata](https://github.com/jtroo/kanata)
+3. ❗️ Opened issue [#6077](https://github.com/ScoopInstaller/Main/issues/6077) in [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
