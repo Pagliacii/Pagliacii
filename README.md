@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#105](https://github.com/luozhiya/fittencode.nvim/issues/105) in [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim)
-2. ⭐ Starred [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
-3. ❌ Closed PR [#6](https://github.com/Pagliacii/hugo-bearberry/pull/6) in [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)
+1. ✔️ Closed issue [#105](https://github.com/luozhiya/fittencode.nvim/issues/105) in [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim)
+2. ❗️ Opened issue [#105](https://github.com/luozhiya/fittencode.nvim/issues/105) in [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim)
+3. ⭐ Starred [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
