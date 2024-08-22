@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sergeykhbr/riscv_vhdl](https://github.com/sergeykhbr/riscv_vhdl)
-2. ⭐ Starred [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim)
-3. ✔️ Closed issue [#105](https://github.com/luozhiya/fittencode.nvim/issues/105) in [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim)
+1. ⭐ Starred [piccolomo/plotext](https://github.com/piccolomo/plotext)
+2. ⭐ Starred [sergeykhbr/riscv_vhdl](https://github.com/sergeykhbr/riscv_vhdl)
+3. ⭐ Starred [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
