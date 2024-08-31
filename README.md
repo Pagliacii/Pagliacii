@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-2. ⭐ Starred [piccolomo/plotext](https://github.com/piccolomo/plotext)
-3. ⭐ Starred [sergeykhbr/riscv_vhdl](https://github.com/sergeykhbr/riscv_vhdl)
+1. ⭐ Starred [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree)
+2. ⭐ Starred [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
+3. ⭐ Starred [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
