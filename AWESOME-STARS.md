@@ -437,6 +437,7 @@
 
 ## C++ 
 
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
 - [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
@@ -461,7 +462,7 @@
 - [Optiboot/optiboot](https://github.com/Optiboot/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [google/orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
-- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, et
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [BrunoLevy/learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -1157,6 +1158,7 @@
 
 ## HTML 
 
+- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
@@ -1509,6 +1511,7 @@
 
 ## Jinja 
 
+- [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 
 ## Jsonnet 
@@ -3288,7 +3291,7 @@
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - The most Obsidian-native PDF annotation, viewing & editing tool ever. Comes with optional Vim keybindings.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
