@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim)
-2. ⭐ Starred [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)
-3. ⭐ Starred [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim)
+1. ⭐ Starred [darrenburns/posting](https://github.com/darrenburns/posting)
+2. ⭐ Starred [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim)
+3. ⭐ Starred [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
