@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [darrenburns/posting](https://github.com/darrenburns/posting)
-2. ⭐ Starred [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim)
-3. ⭐ Starred [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim)
+1. ⭐ Starred [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk)
+2. ⭐ Starred [s00500/ESPUI](https://github.com/s00500/ESPUI)
+3. ⭐ Starred [saicaca/fuwari](https://github.com/saicaca/fuwari)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
