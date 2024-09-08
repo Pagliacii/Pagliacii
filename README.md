@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [medialab/xan](https://github.com/medialab/xan)
-2. ⭐ Starred [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk)
-3. ⭐ Starred [s00500/ESPUI](https://github.com/s00500/ESPUI)
+1. ⭐ Starred [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI)
+2. ⭐ Starred [theacodes/kicanvas](https://github.com/theacodes/kicanvas)
+3. ⭐ Starred [katbinaris/nanofoc_devkit](https://github.com/katbinaris/nanofoc_devkit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
