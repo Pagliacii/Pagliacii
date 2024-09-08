@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk)
-2. ⭐ Starred [s00500/ESPUI](https://github.com/s00500/ESPUI)
-3. ⭐ Starred [saicaca/fuwari](https://github.com/saicaca/fuwari)
+1. ⭐ Starred [medialab/xan](https://github.com/medialab/xan)
+2. ⭐ Starred [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk)
+3. ⭐ Starred [s00500/ESPUI](https://github.com/s00500/ESPUI)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
