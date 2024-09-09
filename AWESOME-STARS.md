@@ -140,6 +140,7 @@
 
 ## C 
 
+- [Wren6991/PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 - [raspberrypi/pico-sdk](https://github.com/raspberrypi/pico-sdk) - 
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
@@ -438,6 +439,7 @@
 
 ## C++ 
 
+- [katbinaris/nanofoc_devkit](https://github.com/katbinaris/nanofoc_devkit) - Compact All-In-One BLDC Controler featuiring ESP32-S3, TMC6300 and Magalpha sensors. Small 35x35mm footprint.
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
@@ -2059,6 +2061,7 @@
 
 ## Python 
 
+- [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [litex-hub/linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv) - Linux on LiteX-VexRiscv
@@ -3272,6 +3275,7 @@
 
 ## TypeScript 
 
+- [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [jodigiordano/gg](https://github.com/jodigiordano/gg) - The diagramming tool & software architecture simulator
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
@@ -3442,7 +3446,7 @@
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## VBScript 
 
