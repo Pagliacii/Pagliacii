@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [orhun/binsider](https://github.com/orhun/binsider)
-2. ⭐ Starred [orhun/kmon](https://github.com/orhun/kmon)
-3. ⭐ Starred [libusb/libusb](https://github.com/libusb/libusb)
+1. ⭐ Starred [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+2. ⭐ Starred [orhun/binsider](https://github.com/orhun/binsider)
+3. ⭐ Starred [orhun/kmon](https://github.com/orhun/kmon)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
