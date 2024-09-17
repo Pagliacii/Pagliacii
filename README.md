@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Pagliacii/wit.nvim](https://github.com/Pagliacii/wit.nvim) from [Aliqyan-21/wit.nvim](https://github.com/Aliqyan-21/wit.nvim)
-2. ⭐ Starred [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)
-3. ⭐ Starred [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+1. ⭐ Starred [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)
+2. ⭐ Starred [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh)
+3. 🔱 Forked [Pagliacii/wit.nvim](https://github.com/Pagliacii/wit.nvim) from [Aliqyan-21/wit.nvim](https://github.com/Aliqyan-21/wit.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
