@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rio-labs/rio](https://github.com/rio-labs/rio)
-2. 💪 Opened PR [#5](https://github.com/Aliqyan-21/wit.nvim/pull/5) in [Aliqyan-21/wit.nvim](https://github.com/Aliqyan-21/wit.nvim)
-3. ⭐ Starred [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)
+1. ⭐ Starred [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)
+2. ⭐ Starred [e-hulten/july](https://github.com/e-hulten/july)
+3. ⭐ Starred [rio-labs/rio](https://github.com/rio-labs/rio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
