@@ -87,7 +87,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C370%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C366%20hrs%201%20min-blue)
 
 **I'm an Early 🐤** 
 
@@ -128,7 +128,7 @@ Neovim                   7 hrs 53 mins       ████████░░░�
 ```
 
 
-
+ Last Updated on 19/09/2024 18:35:37 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
