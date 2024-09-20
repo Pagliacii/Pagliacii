@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)
-2. ⭐ Starred [e-hulten/july](https://github.com/e-hulten/july)
-3. ⭐ Starred [rio-labs/rio](https://github.com/rio-labs/rio)
+1. ⭐ Starred [cunarist/rinf](https://github.com/cunarist/rinf)
+2. ⭐ Starred [Byron/dua-cli](https://github.com/Byron/dua-cli)
+3. ⭐ Starred [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
