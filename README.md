@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon)
-2. ⭐ Starred [glzr-io/zebar](https://github.com/glzr-io/zebar)
-3. ⭐ Starred [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)
+1. ⭐ Starred [dam9000/kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim)
+2. ⭐ Starred [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon)
+3. ⭐ Starred [glzr-io/zebar](https://github.com/glzr-io/zebar)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
