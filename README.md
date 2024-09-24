@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xwmx/nb](https://github.com/xwmx/nb)
-2. ⭐ Starred [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim)
-3. ⭐ Starred [dam9000/kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim)
+1. ⭐ Starred [diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim)
+2. ⭐ Starred [xwmx/nb](https://github.com/xwmx/nb)
+3. ⭐ Starred [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
