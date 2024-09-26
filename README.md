@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim)
-2. ⭐ Starred [rsms/inter](https://github.com/rsms/inter)
-3. ⭐ Starred [diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim)
+1. ⭐ Starred [markmap/markmap](https://github.com/markmap/markmap)
+2. ⭐ Starred [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim)
+3. ⭐ Starred [rsms/inter](https://github.com/rsms/inter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
