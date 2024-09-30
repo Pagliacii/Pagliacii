@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tummychow/git-absorb](https://github.com/tummychow/git-absorb)
-2. ⭐ Starred [chrxh/alien](https://github.com/chrxh/alien)
-3. ⭐ Starred [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+1. ⭐ Starred [cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+2. ⭐ Starred [tummychow/git-absorb](https://github.com/tummychow/git-absorb)
+3. ⭐ Starred [chrxh/alien](https://github.com/chrxh/alien)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
