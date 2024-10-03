@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB)
-2. ⭐ Starred [hathach/tinyusb](https://github.com/hathach/tinyusb)
-3. ⭐ Starred [cherry-embedded/CherryUSB](https://github.com/cherry-embedded/CherryUSB)
+1. ⭐ Starred [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+2. ⭐ Starred [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB)
+3. ⭐ Starred [hathach/tinyusb](https://github.com/hathach/tinyusb)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
