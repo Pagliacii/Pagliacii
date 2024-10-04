@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cle-b/httpdbg](https://github.com/cle-b/httpdbg)
-2. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
-3. ⭐ Starred [openjournals/joss](https://github.com/openjournals/joss)
+1. ⭐ Starred [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku)
+2. ⭐ Starred [cle-b/httpdbg](https://github.com/cle-b/httpdbg)
+3. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
