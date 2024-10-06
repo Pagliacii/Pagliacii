@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
-2. ⭐ Starred [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku)
-3. ⭐ Starred [cle-b/httpdbg](https://github.com/cle-b/httpdbg)
+1. ⭐ Starred [ridvan/send-to-telegram](https://github.com/ridvan/send-to-telegram)
+2. ❗️ Opened issue [#3](https://github.com/ridvan/send-to-telegram/issues/3) in [ridvan/send-to-telegram](https://github.com/ridvan/send-to-telegram)
+3. ⭐ Starred [webclipper/web-clipper](https://github.com/webclipper/web-clipper)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
