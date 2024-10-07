@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ridvan/send-to-telegram](https://github.com/ridvan/send-to-telegram)
-2. ❗️ Opened issue [#3](https://github.com/ridvan/send-to-telegram/issues/3) in [ridvan/send-to-telegram](https://github.com/ridvan/send-to-telegram)
-3. ⭐ Starred [webclipper/web-clipper](https://github.com/webclipper/web-clipper)
+1. ⭐ Starred [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)
+2. ⭐ Starred [ridvan/send-to-telegram](https://github.com/ridvan/send-to-telegram)
+3. ❗️ Opened issue [#3](https://github.com/ridvan/send-to-telegram/issues/3) in [ridvan/send-to-telegram](https://github.com/ridvan/send-to-telegram)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
