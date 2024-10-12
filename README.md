@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mawww/kakoune](https://github.com/mawww/kakoune)
-2. ⭐ Starred [visioncortex/vtracer](https://github.com/visioncortex/vtracer)
-3. ⭐ Starred [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)
+1. ⭐ Starred [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
+2. ⭐ Starred [mawww/kakoune](https://github.com/mawww/kakoune)
+3. ⭐ Starred [visioncortex/vtracer](https://github.com/visioncortex/vtracer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
