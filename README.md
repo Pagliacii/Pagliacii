@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)
-2. ⭐ Starred [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
-3. ⭐ Starred [mawww/kakoune](https://github.com/mawww/kakoune)
+1. ⭐ Starred [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn)
+2. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)
+3. ⭐ Starred [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
