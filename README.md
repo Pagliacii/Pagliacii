@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joeycastillo/Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch)
-2. ⭐ Starred [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn)
-3. ⭐ Starred [jdx/mise](https://github.com/jdx/mise)
+1. ⭐ Starred [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme)
+2. ⭐ Starred [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)
+3. ⭐ Starred [joeycastillo/Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
