@@ -81,9 +81,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)
-2. ⭐ Starred [Predidit/Kazumi](https://github.com/Predidit/Kazumi)
-3. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)
+1. ⭐ Starred [hellzerg/optimizer](https://github.com/hellzerg/optimizer)
+2. ⭐ Starred [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)
+3. ⭐ Starred [Predidit/Kazumi](https://github.com/Predidit/Kazumi)
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
