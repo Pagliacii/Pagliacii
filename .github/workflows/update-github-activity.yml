@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '8 */3 * * *'
+    - cron: "8 */3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,8 +10,8 @@ jobs:
     name: Update GitHub Activity section in README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Recent GitHub Activity - Profile Readme
-        uses: Readme-Workflows/recent-activity@v2.3.0
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
