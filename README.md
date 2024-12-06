@@ -84,9 +84,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⬆️ Pushed 3 commit(s) to [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
-4. ⭐ Starred [martinvonz/jj](https://github.com/martinvonz/jj)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+4. ⬆️ Pushed 3 commit(s) to [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
+5. ⭐ Starred [martinvonz/jj](https://github.com/martinvonz/jj)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
