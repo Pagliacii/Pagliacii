@@ -1207,7 +1207,7 @@
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [dirkolbrich/hugo-tailwindcss-starter-theme](https://github.com/dirkolbrich/hugo-tailwindcss-starter-theme) - Starter files for a Hugo theme with Tailwindcss
@@ -1725,7 +1725,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [hmathsan/dotfiles](https://github.com/hmathsan/dotfiles) - Dotfiles for my Arch linux setup
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
@@ -2193,7 +2193,7 @@
 - [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 - [mangdangroboticsclub/QuadrupedRobot](https://github.com/mangdangroboticsclub/QuadrupedRobot) - Open-Source,ROS Robot Dog Kit
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
@@ -2807,7 +2807,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week.
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine (database) in a week.
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
