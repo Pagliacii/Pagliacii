@@ -145,6 +145,7 @@
 
 ## C 
 
+- [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - A High-Performance String Search Utility
 - [sbrin/lopaka](https://github.com/sbrin/lopaka) - Lopaka - Stunning graphics for embedded systems displays
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
 - [rossumur/esp_8_bit](https://github.com/rossumur/esp_8_bit) - Atari 8 bit computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia
@@ -158,7 +159,7 @@
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
-- [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - 
+- [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe) - Firmware source and binaries for the RP2040-based Debug Probe accessory
 - [pico-coder/sigrok-pico](https://github.com/pico-coder/sigrok-pico) - Use a raspberry pi pico (rp2040) as a logic analyzer and oscilloscope with sigrok
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [bitbank2/OneBitDisplay](https://github.com/bitbank2/OneBitDisplay) - A full featured Arduino display library for 1-bit per pixel OLED, LCD and e-paper displays
@@ -451,6 +452,7 @@
 
 ## C++ 
 
+- [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
@@ -752,7 +754,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [roylez/cloak](https://github.com/roylez/cloak) - Multi-user Shadowsocks/Trojan server written in Elixir
 
 ## Emacs Lisp 
@@ -836,7 +838,7 @@
 - [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -1243,7 +1245,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
 - [astaxie/NPWG_zh](https://github.com/astaxie/NPWG_zh) - Network programming with Go 中文翻译版本
@@ -2127,10 +2129,11 @@
 
 ## Python 
 
+- [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
@@ -2678,7 +2681,7 @@
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [shobrook/rebound](https://github.com/shobrook/rebound) - Get Stack Overflow results in your terminal whenever an error is thrown
+- [shobrook/rebound](https://github.com/shobrook/rebound) - Get instant Stack Overflow results whenever an exception is thrown
 - [mottosso/Qt.py](https://github.com/mottosso/Qt.py) - Minimal Python 2 & 3 shim around all Qt bindings - PySide, PySide2, PyQt4 and PyQt5.
 - [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
 - [RoganDawes/P4wnP1](https://github.com/RoganDawes/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
