@@ -151,7 +151,7 @@
 ## C 
 
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
-- [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - Ultra-fast text search tool with advanced algorithms, SIMD acceleration, multi-threading, and regex support. Designed for rapid, large-scale pattern matching with memory-mapped I/O and hardware optimi
+- [davidesantangelo/krep](https://github.com/davidesantangelo/krep) - Fast text search tool with advanced algorithms, SIMD acceleration, multi-threading, and regex support. Designed for rapid, large-scale pattern matching with memory-mapped I/O and hardware optimization
 - [sbrin/lopaka](https://github.com/sbrin/lopaka) - Lopaka - Stunning graphics for embedded systems displays
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
 - [rossumur/esp_8_bit](https://github.com/rossumur/esp_8_bit) - Atari 8 bit computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia
@@ -794,7 +794,7 @@
 ## Erlang 
 
 - [happi/theBeamBook](https://github.com/happi/theBeamBook) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
-- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
+- [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
 
 ## Fennel 
 
@@ -2703,7 +2703,7 @@
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [merrychap/shellen](https://github.com/merrychap/shellen) - :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
+- [konatabrk/shellen](https://github.com/konatabrk/shellen) - :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -2927,7 +2927,7 @@
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
