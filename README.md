@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⭐ Starred [SmingHub/Sming](https://github.com/SmingHub/Sming)<br>
+3. ⭐ Starred [HaoboGu/rmk](https://github.com/HaoboGu/rmk)<br>
+4. ⭐ Starred [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico)<br>
+5. ⭐ Starred [hrvach/deskhop](https://github.com/hrvach/deskhop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
