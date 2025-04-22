@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng)<br>
-2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⭐ Starred [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng)<br>
 3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⭐ Starred [YosysHQ/oss-cad-suite-build](https://github.com/YosysHQ/oss-cad-suite-build)<br>
+5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
