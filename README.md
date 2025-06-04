@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)<br>
-3. ⭐ Starred [pkmn/engine](https://github.com/pkmn/engine)<br>
-4. ⭐ Starred [cessen/ropey](https://github.com/cessen/ropey)<br>
-5. ⭐ Starred [tobymao/sqlglot](https://github.com/tobymao/sqlglot)<br>
+2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox)<br>
+4. ⭐ Starred [pkmn/engine](https://github.com/pkmn/engine)<br>
+5. ⭐ Starred [cessen/ropey](https://github.com/cessen/ropey)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
