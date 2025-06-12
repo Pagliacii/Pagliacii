@@ -85,8 +85,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⭐ Starred [PostHog/DeskHog](https://github.com/PostHog/DeskHog)<br>
-5. ⭐ Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)<br>
+4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+5. ⭐ Starred [PostHog/DeskHog](https://github.com/PostHog/DeskHog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
