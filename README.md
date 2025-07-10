@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⭐ Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)<br>
+2. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)<br>
+3. ⭐ Starred [amitness/learning](https://github.com/amitness/learning)<br>
+4. ⭐ Starred [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters)<br>
+5. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
