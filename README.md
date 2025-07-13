@@ -82,10 +82,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)<br>
-2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⭐ Starred [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface)<br>
 3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+4. ⭐ Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)<br>
 5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
