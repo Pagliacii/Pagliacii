@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface)<br>
-3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⭐ Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface)<br>
+4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+5. ⭐ Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
