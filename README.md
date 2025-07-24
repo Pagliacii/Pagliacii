@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed 1 commit(s) to [Pagliacii/silent-lake](https://github.com/Pagliacii/silent-lake)<br>
-3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⭐ Starred [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim)<br>
+2. ⭐ Starred [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim)<br>
+3. ⬆️ Pushed 1 commit(s) to [Pagliacii/silent-lake](https://github.com/Pagliacii/silent-lake)<br>
+4. ⬆️ Pushed 1 commit(s) to [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)<br>
+5. ⬆️ Pushed 1 commit(s) to [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
