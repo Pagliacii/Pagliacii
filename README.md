@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pagliacii/pagliacii-bucket](https://github.com/Pagliacii/pagliacii-bucket)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/pagliacii-bucket](https://github.com/Pagliacii/pagliacii-bucket)<br>
+1. ⭐ Starred [AllenDowney/ThinkStats](https://github.com/AllenDowney/ThinkStats)<br>
+2. ⭐ Starred [crypto101/book](https://github.com/crypto101/book)<br>
+3. ⭐ Starred [izabera/bitwise-challenge-2048](https://github.com/izabera/bitwise-challenge-2048)<br>
+4. ⭐ Starred [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro)<br>
+5. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
