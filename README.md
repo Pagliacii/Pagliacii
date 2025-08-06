@@ -83,9 +83,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)<br>
-3. ⭐ Starred [gleam-lang/gleam](https://github.com/gleam-lang/gleam)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)<br>
+4. ⭐ Starred [gleam-lang/gleam](https://github.com/gleam-lang/gleam)<br>
 5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
