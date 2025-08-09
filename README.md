@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)<br>
-2. ⭐ Starred [shshemi/tabiew](https://github.com/shshemi/tabiew)<br>
+1. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)<br>
+2. ⭐ Starred [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)<br>
 3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+4. ⭐ Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)<br>
+5. ⭐ Starred [shshemi/tabiew](https://github.com/shshemi/tabiew)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
