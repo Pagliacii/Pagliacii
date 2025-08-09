@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)<br>
-3. ⭐ Starred [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)<br>
-4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⭐ Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer)<br>
+2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [simstudioai/sim](https://github.com/simstudioai/sim)<br>
+4. ⭐ Starred [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)<br>
+5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
