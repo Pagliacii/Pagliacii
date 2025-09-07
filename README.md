@@ -85,8 +85,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⭐ Starred [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)<br>
-5. ⭐ Starred [Gu1llaum-3/sshm](https://github.com/Gu1llaum-3/sshm)<br>
+4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+5. ⭐ Starred [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
