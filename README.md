@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed 3 commit(s) to [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
-3. 🎉 Merged PR [#7](https://github.com/Pagliacii/extract_pdf_files/pull/7) in [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
-4. ⬆️ Pushed 12 commit(s) to [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
-5. ⬆️ Pushed 3 commit(s) to [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
+2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⬆️ Pushed 3 commit(s) to [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
+4. 🎉 Merged PR [#7](https://github.com/Pagliacii/extract_pdf_files/pull/7) in [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
+5. ⬆️ Pushed 12 commit(s) to [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
