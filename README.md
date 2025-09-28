@@ -85,8 +85,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed 2 commit(s) to [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
-5. ❗️ Opened issue [#700](https://github.com/mistweaverco/kulala.nvim/issues/700) in [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+5. ⬆️ Pushed 2 commit(s) to [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
