@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix)<br>
-2. ⭐ Starred [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree)<br>
-3. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⭐ Starred [HappyCerberus/book-cpp-algorithms](https://github.com/HappyCerberus/book-cpp-algorithms)<br>
+3. ⭐ Starred [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix)<br>
+4. ⭐ Starred [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree)<br>
+5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
