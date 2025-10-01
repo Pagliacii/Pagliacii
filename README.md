@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [HappyCerberus/book-cpp-algorithms](https://github.com/HappyCerberus/book-cpp-algorithms)<br>
-3. ⭐ Starred [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix)<br>
-4. ⭐ Starred [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree)<br>
-5. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⬆️ Pushed 1 commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [HappyCerberus/book-cpp-algorithms](https://github.com/HappyCerberus/book-cpp-algorithms)<br>
+4. ⭐ Starred [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix)<br>
+5. ⭐ Starred [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
