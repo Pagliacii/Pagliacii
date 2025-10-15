@@ -84,9 +84,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⬆️ Pushed undefined commit(s) to [Pagliacii/silent-lake](https://github.com/Pagliacii/silent-lake)<br>
-4. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)<br>
-5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+4. ⬆️ Pushed undefined commit(s) to [Pagliacii/silent-lake](https://github.com/Pagliacii/silent-lake)<br>
+5. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
