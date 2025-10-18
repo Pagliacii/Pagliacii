@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)<br>
-3. ⭐ Starred [clockworkpi/PicoCalc](https://github.com/clockworkpi/PicoCalc)<br>
-4. ⭐ Starred [higan-emu/higan](https://github.com/higan-emu/higan)<br>
-5. ⭐ Starred [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)<br>
+4. ⭐ Starred [clockworkpi/PicoCalc](https://github.com/clockworkpi/PicoCalc)<br>
+5. ⭐ Starred [higan-emu/higan](https://github.com/higan-emu/higan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
