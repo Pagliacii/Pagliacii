@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide)<br>
-3. ⭐ Starred [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card)<br>
-4. ⭐ Starred [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)<br>
-5. ⭐ Starred [mountain-loop/yaak](https://github.com/mountain-loop/yaak)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide)<br>
+4. ⭐ Starred [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card)<br>
+5. ⭐ Starred [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
