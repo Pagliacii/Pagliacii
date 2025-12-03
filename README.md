@@ -85,8 +85,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⭐ Starred [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)<br>
-5. ⭐ Starred [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)<br>
+4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+5. ⭐ Starred [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
