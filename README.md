@@ -83,9 +83,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust)<br>
-3. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
-4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust)<br>
+4. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)<br>
 5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
