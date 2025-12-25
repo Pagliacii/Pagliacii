@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [unnoq/orpc](https://github.com/unnoq/orpc)<br>
-3. ⭐ Starred [JohnEarnest/Octo](https://github.com/JohnEarnest/Octo)<br>
-4. ⭐ Starred [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire)<br>
-5. ⭐ Starred [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [unnoq/orpc](https://github.com/unnoq/orpc)<br>
+4. ⭐ Starred [JohnEarnest/Octo](https://github.com/JohnEarnest/Octo)<br>
+5. ⭐ Starred [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
