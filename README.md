@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⭐ Starred [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim)<br>
-4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⭐ Starred [unnoq/orpc](https://github.com/unnoq/orpc)<br>
+2. ⭐ Starred [JohnEarnest/Octo](https://github.com/JohnEarnest/Octo)<br>
+3. ⭐ Starred [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire)<br>
+4. ⭐ Starred [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)<br>
+5. ⭐ Starred [aimacode/aima-python](https://github.com/aimacode/aima-python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
