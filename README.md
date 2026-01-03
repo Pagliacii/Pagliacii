@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⭐ Starred [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)<br>
+2. ⭐ Starred [BenjaminGor/Latex_Notes_Tutorial](https://github.com/BenjaminGor/Latex_Notes_Tutorial)<br>
+3. ⭐ Starred [jnsahaj/lumen](https://github.com/jnsahaj/lumen)<br>
+4. ⭐ Starred [Astro-2539/ZLabs-RoundPix-16px](https://github.com/Astro-2539/ZLabs-RoundPix-16px)<br>
+5. ⭐ Starred [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
