@@ -84,9 +84,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⭐ Starred [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy)<br>
-4. ⭐ Starred [ruiqimao/SugarCube](https://github.com/ruiqimao/SugarCube)<br>
-5. ⭐ Starred [containers/bubblewrap](https://github.com/containers/bubblewrap)<br>
+3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+4. ⭐ Starred [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy)<br>
+5. ⭐ Starred [ruiqimao/SugarCube](https://github.com/ruiqimao/SugarCube)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
