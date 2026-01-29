@@ -360,7 +360,7 @@
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
 - [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
-- [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
+- [ubuntu/lightdm](https://github.com/ubuntu/lightdm) - Display Manager
 - [PromyLOPh/pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player
 - [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
@@ -809,7 +809,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [roylez/cloak](https://github.com/roylez/cloak) - Multi-user Shadowsocks/Trojan server written in Elixir
 
 ## Emacs Lisp 
