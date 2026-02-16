@@ -54,7 +54,6 @@
 - [Markdown](#markdown)
 - [Meson](#meson)
 - [Mustache](#mustache)
-- [Nim](#nim)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -1564,6 +1563,7 @@
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 - [ncform/ncform](https://github.com/ncform/ncform) - 🍻 ncform, a very nice configuration generation way to develop forms ( vue, json-schema, form, generator )
+- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [tyroprogrammer/learn-react-app](https://github.com/tyroprogrammer/learn-react-app) - Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the
@@ -1865,7 +1865,6 @@
 
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
 
 ## Makefile 
@@ -1895,10 +1894,6 @@
 
 - [hsluv/hsluv](https://github.com/hsluv/hsluv) - Human-friendly HSL, website and math
 
-## Nim 
-
-- [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
-
 ## Nix 
 
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
@@ -1910,7 +1905,7 @@
 
 ## Nunjucks 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## OCaml 
 
@@ -3005,7 +3000,7 @@
 
 ## Rust 
 
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -3036,6 +3031,7 @@
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
 - [HaoboGu/rmk](https://github.com/HaoboGu/rmk) - Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
+- [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [j178/github-contrib-stats](https://github.com/j178/github-contrib-stats) - 
