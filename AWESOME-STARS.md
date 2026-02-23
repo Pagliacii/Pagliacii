@@ -3593,6 +3593,7 @@
 
 ## TeX 
 
+- [little-book-of/algorithms](https://github.com/little-book-of/algorithms) - Bake a cake with care, follow steps the recipe gives, that’s an algorithm.
 - [BenjaminGor/Latex_Notes_Tutorial](https://github.com/BenjaminGor/Latex_Notes_Tutorial) - Latex Book/Note Writing Tutorial
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [little-book-of/c](https://github.com/little-book-of/c) - A concise, structured guide to the C programming language.
