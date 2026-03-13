@@ -82,9 +82,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
-2. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)<br>
-3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
+3. ⭐ Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)<br>
 4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
