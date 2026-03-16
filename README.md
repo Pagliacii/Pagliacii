@@ -82,10 +82,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. 💬 Commented on [#90](https://github.com/Pagliacii/dotfiles/pull/90#discussion_r2938261929) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
+2. ⭐ Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)<br>
 3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
+4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
