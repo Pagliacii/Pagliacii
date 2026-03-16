@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⬆️ Pushed undefined commit(s) to [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
-3. 👍 Approved [#93](https://github.com/Pagliacii/dotfiles/pull/93#pullrequestreview-3954744552) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
-4. 💬 Commented on [#93](https://github.com/Pagliacii/dotfiles/pull/93#issuecomment-4068531674) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
-5. ⬆️ Pushed undefined commit(s) to [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⬆️ Pushed undefined commit(s) to [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
+4. 👍 Approved [#93](https://github.com/Pagliacii/dotfiles/pull/93#pullrequestreview-3954744552) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
+5. 💬 Commented on [#93](https://github.com/Pagliacii/dotfiles/pull/93#issuecomment-4068531674) in [Pagliacii/dotfiles](https://github.com/Pagliacii/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
