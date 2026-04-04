@@ -11,7 +11,6 @@
 - [AutoHotkey](#autohotkey)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -28,6 +27,7 @@
 - [Erlang](#erlang)
 - [FIRRTL](#firrtl)
 - [Fennel](#fennel)
+- [Fluent](#fluent)
 - [GAP](#gap)
 - [GDScript](#gdscript)
 - [GLSL](#glsl)
@@ -146,10 +146,6 @@
 
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [mniip/BOOTSTRA](https://github.com/mniip/BOOTSTRA) - This is an experiment in bootstrapping some sort of programming language/environment from a clean MS-DOS install.
-
-## Blade 
-
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -852,6 +848,10 @@
 
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - 🍊 Sweet Fennel integration for Neovim
 
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
 ## GAP 
 
 - [FreddieHong19/Open5x](https://github.com/FreddieHong19/Open5x) - This is a Github repository for 5-axis 3D printing
@@ -1513,6 +1513,7 @@
 - [a-wing/webrtc-book-cn](https://github.com/a-wing/webrtc-book-cn) - 中文翻译 《 Real-Time Communication with WebRTC 》
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
@@ -2309,7 +2310,6 @@
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
 - [CadQuery/cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
@@ -3028,7 +3028,7 @@
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A VSCode debugger extension for native code, powered by LLDB.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
@@ -3093,7 +3093,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [oschwald/maxminddb-rust](https://github.com/oschwald/maxminddb-rust) - Rust MaxMind DB Reader
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
-- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui) - Play chess in the terminal. Rust TUI, Stockfish, Lichess.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -3179,7 +3179,6 @@
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
