@@ -521,7 +521,7 @@
 - [s00500/ESPUI](https://github.com/s00500/ESPUI) - A simple web user interface library for ESP32 and ESP8266
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [sergeykhbr/riscv_vhdl](https://github.com/sergeykhbr/riscv_vhdl) - Portable RISC-V System-on-Chip implementation: RTL, debugger and simulators
-- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc.
+- [Blynk-Technologies/blynk-library](https://github.com/Blynk-Technologies/blynk-library) - Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.
 - [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
