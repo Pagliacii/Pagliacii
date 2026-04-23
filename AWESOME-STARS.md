@@ -150,7 +150,6 @@
 
 ## C 
 
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [Dieu-de-l-elec/AngstromIO-devboard](https://github.com/Dieu-de-l-elec/AngstromIO-devboard) - AngstromIO, one of the smallest devboards out there, barely longer than a USB C connector, based on the Attiny1616 MCU. And a dual CH340 board for programming and debugging, and another devboard, base
 - [antirez/sds](https://github.com/antirez/sds) - Simple Dynamic Strings library for C
 - [sydundar/BenchVolt-PD](https://github.com/sydundar/BenchVolt-PD) - BenchVolt PD is an open-source, USB-C powered multi-channel lab power supply delivering up to 100 W. Features 5 outputs (0 V–32 V), STM32 control, USB-PD, low-noise LDOs, and a Python GUI. Compact, po
@@ -502,7 +501,7 @@
 - [pcb2gcode/pcb2gcode](https://github.com/pcb2gcode/pcb2gcode) - Command-line tool for isolation, routing and drilling of PCBs
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [google/mozc-devices](https://github.com/google/mozc-devices) - Circuit diagrams and firmware source code for Gboard DIY keyboards
-- [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+- [PlotJuggler/PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [joshr120/PD-Stepper](https://github.com/joshr120/PD-Stepper) - 
 - [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing
@@ -4019,6 +4018,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [pkmn/engine](https://github.com/pkmn/engine) - A minimal, complete, Pokémon battle simulation engine optimized for performance
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
