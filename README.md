@@ -90,7 +90,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C601%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C601%20hrs%2046%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -132,7 +132,7 @@ Neovim                   37 mins             ░░░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 27/04/2026 15:48:08 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
