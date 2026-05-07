@@ -803,7 +803,6 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [roylez/cloak](https://github.com/roylez/cloak) - Multi-user Shadowsocks/Trojan server written in Elixir
 
 ## Emacs Lisp 
@@ -1292,7 +1291,6 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [dirkolbrich/hugo-tailwindcss-starter-theme](https://github.com/dirkolbrich/hugo-tailwindcss-starter-theme) - Starter files for a Hugo theme with Tailwindcss
-- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
 - [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
@@ -1606,7 +1604,7 @@
 - [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 - [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -3157,6 +3155,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences. Has a mode which aims to be compatible with Oniguruma syntax.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries.
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -3510,7 +3509,7 @@
 - [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [vinceliuice/Vimix-icon-theme](https://github.com/vinceliuice/Vimix-icon-theme) - Vimix icon theme for linux desktops
 - [harttle/macbook-lighter](https://github.com/harttle/macbook-lighter) - Macbook screen and keyboard backlight on the ambient light
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
@@ -3667,6 +3666,7 @@
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [jodigiordano/gg](https://github.com/jodigiordano/gg) - The diagramming tool for flowcharts, mindmaps, user flows, network & cloud diagrams, and more!
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
