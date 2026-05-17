@@ -90,8 +90,47 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+🌆 Daytime                1466 commits        █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌃 Evening                1546 commits        █████████░░░░░░░░░░░░░░░░   36.64 % 
+🌙 Night                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   691 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Tuesday                  476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Thursday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Friday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Saturday                 601 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Sunday                   780 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C                        14 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   37.43 % 
+sh                       7 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Markdown                 5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Python                   3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Other                    2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+
+🔥 Editors: 
+Zsh                      36 hrs 29 mins      ████████████████████████░   94.17 % 
+Unknown Editor           2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+```
+
+
+ Last Updated on 17/05/2026 21:30:16 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
