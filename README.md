@@ -85,8 +85,8 @@ If you are curious to know what the nickname means, it came from a movie named W
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⭐ Starred [dunst-project/dunst](https://github.com/dunst-project/dunst)<br>
-5. ⭐ Starred [yshui/picom](https://github.com/yshui/picom)<br>
+4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+5. ⭐ Starred [dunst-project/dunst](https://github.com/dunst-project/dunst)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
