@@ -1159,7 +1159,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [syncsynchalt/illustrated-tls12](https://github.com/syncsynchalt/illustrated-tls12) - The Illustrated TLS 1.2 Connection: Every byte explained
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
-- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative data extraction engine
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [golang-china/awesome-go-zh](https://github.com/golang-china/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
 - [googleforgames/open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
