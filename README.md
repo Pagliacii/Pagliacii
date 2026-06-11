@@ -84,9 +84,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-3. ⬆️ Pushed undefined commit(s) to [Pagliacii/BroadcastChannel](https://github.com/Pagliacii/BroadcastChannel)<br>
-4. ⭐ Starred [pllk/cphb](https://github.com/pllk/cphb)<br>
-5. ⭐ Starred [liuxinyu95/amathtour](https://github.com/liuxinyu95/amathtour)<br>
+3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+4. ⬆️ Pushed undefined commit(s) to [Pagliacii/BroadcastChannel](https://github.com/Pagliacii/BroadcastChannel)<br>
+5. ⭐ Starred [pllk/cphb](https://github.com/pllk/cphb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
