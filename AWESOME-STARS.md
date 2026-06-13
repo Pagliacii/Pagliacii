@@ -1486,7 +1486,7 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
-- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - MOVED to jsonresume/jsonresume.org (packages/cli) — npm 'resume-cli' unchanged, revived for Node 18+
 - [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -1698,7 +1698,7 @@
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured ⚡️ HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).
 - [MironPascalCaseFan/debugmaster.nvim](https://github.com/MironPascalCaseFan/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
 - [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
 - [atiladefreitas/dooing](https://github.com/atiladefreitas/dooing) - The minimalist to-do list for Neovim
@@ -3027,10 +3027,10 @@
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A VSCode debugger extension for native code, powered by LLDB.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs runtime for running untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [oxipng/oxipng](https://github.com/oxipng/oxipng) - Multithreaded PNG optimizer written in Rust
@@ -3840,7 +3840,7 @@
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
-- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
