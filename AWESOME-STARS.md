@@ -618,6 +618,7 @@
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
@@ -1432,7 +1433,7 @@
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 - [vfeskov/vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top) - Simple and smooth Back To Top button
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
-- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
+- [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的“大规模分布式系统”开发指南。
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [stedolan/counterexamples](https://github.com/stedolan/counterexamples) - Counterexamples in Type Systems
 - [jvns/nginx-playground](https://github.com/jvns/nginx-playground) - 
@@ -1461,7 +1462,6 @@
 - [FPGAwars/icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [alexmojaki/birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
-- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
@@ -3583,6 +3583,7 @@
 
 ## Swift 
 
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
