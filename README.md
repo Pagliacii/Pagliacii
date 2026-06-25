@@ -92,8 +92,47 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%2C914%20hrs%2057%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌆 Daytime                1476 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
+🌃 Evening                1547 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌙 Night                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   691 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Thursday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Friday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Sunday                   784 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+sh                       7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Markdown                 6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Rust                     4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+C++                      4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Other                    3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+
+🔥 Editors: 
+Zsh                      27 hrs 11 mins      █████████████████████░░░░   82.46 % 
+Claude Code              5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+```
+
+
+ Last Updated on 25/06/2026 21:46:55 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
