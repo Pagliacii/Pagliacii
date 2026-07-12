@@ -1069,7 +1069,7 @@
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [m4rvin2/docli](https://github.com/m4rvin2/docli) - Command-line interfaces made easy
 - [jackdoe/baxx](https://github.com/jackdoe/baxx) - ssh register@ui.baxx.dev [shutdown due to covid-19]
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - [aporcupine/GoUnix](https://github.com/aporcupine/GoUnix) - This project is a collection of many of the basic tools used on Unix-like operating systems implemented in Go as a learning exercize.
 - [annamedv/red](https://github.com/annamedv/red) - Red Analytics Tool
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
