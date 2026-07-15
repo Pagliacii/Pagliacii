@@ -90,51 +90,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C001%20hrs%201%20min-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-🌆 Daytime                1476 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
-🌃 Evening                1547 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
-🌙 Night                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   691 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Tuesday                  476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Thursday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Friday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Sunday                   784 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C009%20hrs%2016%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      10 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-Markdown                 6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Rust                     3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-sh                       2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Other                    2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 54 mins      ████████████░░░░░░░░░░░░░   48.79 % 
-Zsh                      8 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Claude Code              6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Codex CLI                3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-```
-
-
-
+ Last Updated on 15/07/2026 21:32:06 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
