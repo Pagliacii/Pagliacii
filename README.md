@@ -92,8 +92,49 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%2C009%20hrs%2016%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌆 Daytime                1476 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
+🌃 Evening                1547 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌙 Night                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   691 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Thursday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Friday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Sunday                   784 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 8 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+C++                      7 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Rust                     5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+C                        2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+sh                       2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 41 mins      ████████████░░░░░░░░░░░░░   49.92 % 
+Zsh                      6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Claude Code              6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Codex CLI                5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+```
+
+
+ Last Updated on 16/07/2026 00:51:11 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
