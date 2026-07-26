@@ -119,22 +119,22 @@ Sunday                   784 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.47 % 
-C++                      5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-C                        5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Other                    4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-sh                       3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Markdown                 9 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.14 % 
+C++                      5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+C                        5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Other                    3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+sh                       3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 22 mins      █████████████░░░░░░░░░░░░   50.65 % 
-Zsh                      5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Codex CLI                4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Claude Code              3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Warp                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+VS Code                  17 hrs 9 mins       █████████████░░░░░░░░░░░░   53.56 % 
+Zsh                      5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Codex CLI                4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Claude Code              3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Zed                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 
-
+ Last Updated on 26/07/2026 00:58:13 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
