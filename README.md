@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [T76-org/drpd](https://github.com/T76-org/drpd)<br>
-2. ⭐ Starred [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA)<br>
-3. ⭐ Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br>
-4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⭐ Starred [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)<br>
+1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⭐ Starred [T76-org/drpd](https://github.com/T76-org/drpd)<br>
+3. ⭐ Starred [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA)<br>
+4. ⭐ Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br>
+5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
