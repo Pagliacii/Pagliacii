@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)<br>
-2. ⭐ Starred [oernster/3D-printing-info](https://github.com/oernster/3D-printing-info)<br>
-3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⭐ Starred [T76-org/drpd](https://github.com/T76-org/drpd)<br>
+1. ⭐ Starred [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)<br>
+4. ⭐ Starred [oernster/3D-printing-info](https://github.com/oernster/3D-printing-info)<br>
+5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
