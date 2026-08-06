@@ -90,79 +90,12 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C453%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C461%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-574%20hrs%2047%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-🌆 Daytime                1476 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
-🌃 Evening                1547 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
-🌙 Night                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   691 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Tuesday                  476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Thursday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Friday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Sunday                   784 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-583%20hrs%2018%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Rust                     9 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-Markdown                 9 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-Other                    3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-C++                      2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-C                        2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-
-🔥 Editors: 
-VS Code                  22 hrs 22 mins      ████████████████░░░░░░░░░   62.97 % 
-Codex CLI                8 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Zsh                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Claude Code              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Chrome                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 34 hrs 34 mins (97.3%)
-
-✍️ 45,545 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,075,089,874 Input Tokens, 6,799,129 Output Tokens
-
-💵 $5990.54 Estimated AI Cost This Week
-
-🧠 241 AI Sessions, 1772 AI Prompts
-
-GPT                      45,181 lines        ████████████████████████░   95.52 % 
-Fable                    2,118 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,147 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
-
+ Last Updated on 06/08/2026 23:32:47 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
