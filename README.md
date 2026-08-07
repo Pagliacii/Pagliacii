@@ -94,8 +94,75 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-583%20hrs%2018%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌆 Daytime                1476 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
+🌃 Evening                1547 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌙 Night                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   691 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Thursday                 486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Friday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Sunday                   784 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 11 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Rust                     9 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Other                    3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+C++                      3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+C                        3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 49 mins      ███████████████░░░░░░░░░░   59.06 % 
+Codex CLI                10 hrs 51 mins      ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+Zsh                      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Claude Code              2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Chrome                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 39 hrs 18 mins (97.47%)
+
+✍️ 54,988 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,540,481,519 Input Tokens, 8,447,509 Output Tokens
+
+💵 $7720.92 Estimated AI Cost This Week
+
+🧠 300 AI Sessions, 2530 AI Prompts
+
+GPT                      55,260 lines        ████████████████████████░   95.31 % 
+Fable                    2,722 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 9,407 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/08/2026 01:27:18 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
