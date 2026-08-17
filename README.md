@@ -90,9 +90,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C494%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C502%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-618%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-627%20hrs%2035%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -121,48 +121,48 @@ Sunday                   784 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Rust                     6 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Other                    5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-C++                      3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Python                   3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Markdown                 8 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+Rust                     5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Other                    4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Python                   3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Lean4                    3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 
 🔥 Editors: 
-Codex Vscode             17 hrs 12 mins      █████████████░░░░░░░░░░░░   51.48 % 
-Codex CLI                9 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Zsh                      3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Claude Code              2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Zed                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Codex Vscode             17 hrs 58 mins      █████████████░░░░░░░░░░░░   52.94 % 
+Codex CLI                7 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Claude Code              3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Zsh                      2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Zed                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 17 mins (96.58%)
+⏱ AI Coding Time: 32 hrs 41 mins (96.33%)
 
-✍️ 47,433 lines written by AI, 69 lines written by hand (99.85% AI-written)
+✍️ 54,927 lines written by AI, 69 lines written by hand (99.87% AI-written)
 
-🔤 244,436,064 Input Tokens, 23,575,472 Output Tokens
+🔤 243,355,701 Input Tokens, 21,632,031 Output Tokens
 
-💵 $1688.96 Estimated AI Cost This Week
+💵 $1606.14 Estimated AI Cost This Week
 
-🧠 348 AI Sessions, 2238 AI Prompts
+🧠 315 AI Sessions, 2377 AI Prompts
 
-GPT                      46,867 lines        ████████████████████████░   94.59 % 
-Opus                     2,268 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Fable                    410 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+GPT                      50,550 lines        ██████████████████████░░░   87.59 % 
+Opus                     5,904 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Fable                    1,095 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Codex-Vscode             162 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 9,744 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📚 Verbose Prompter — average 9,096 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 
-
+ Last Updated on 17/08/2026 21:19:17 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
