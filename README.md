@@ -82,9 +82,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [source-academy/sicp](https://github.com/source-academy/sicp)<br>
-2. ⭐ Starred [yetone/cumora](https://github.com/yetone/cumora)<br>
-3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⭐ Starred [source-academy/sicp](https://github.com/source-academy/sicp)<br>
+3. ⭐ Starred [yetone/cumora](https://github.com/yetone/cumora)<br>
 4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
