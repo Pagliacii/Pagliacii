@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb)<br>
-3. ⭐ Starred [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante)<br>
-4. ⭐ Starred [antirez/h3.c](https://github.com/antirez/h3.c)<br>
-5. ⭐ Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb)<br>
+4. ⭐ Starred [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante)<br>
+5. ⭐ Starred [antirez/h3.c](https://github.com/antirez/h3.c)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
