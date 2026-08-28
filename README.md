@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lyogavin/airllm](https://github.com/lyogavin/airllm)<br>
-2. ⭐ Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)<br>
-3. ⭐ Starred [libretro/RetroArch](https://github.com/libretro/RetroArch)<br>
-4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⭐ Starred [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb)<br>
+2. ⭐ Starred [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante)<br>
+3. ⭐ Starred [antirez/h3.c](https://github.com/antirez/h3.c)<br>
+4. ⭐ Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)<br>
+5. ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
