@@ -90,7 +90,7 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C561%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C561%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-690%20hrs%2026%20mins-blue?style=flat)
 
@@ -121,24 +121,24 @@ Sunday                   784 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Markdown                 7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-C                        4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Rust                     3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Python                   3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+C++                      9 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Markdown                 7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+C                        4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Rust                     3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🔥 Editors: 
-Codex Vscode             22 hrs 14 mins      ███████████████░░░░░░░░░░   60.55 % 
-Codex CLI                8 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Zsh                      4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Claude Code              1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Codex Vscode             22 hrs 14 mins      ███████████████░░░░░░░░░░   60.18 % 
+Codex CLI                8 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Zsh                      4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Claude Code              1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Zed                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 37 mins (97.01%)
+⏱ AI Coding Time: 35 hrs 37 mins (96.41%)
 
 ✍️ 21,626 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -160,7 +160,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ```
 
 
-
+ Last Updated on 30/08/2026 21:19:44 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
