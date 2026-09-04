@@ -90,9 +90,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C592%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C601%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-722%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-731%20hrs%2041%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -121,48 +121,48 @@ Sunday                   784 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-Python                   5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-C++                      5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Rust                     4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Other                    4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Markdown                 11 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Python                   6 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+C++                      5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Rust                     4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Other                    3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 🔥 Editors: 
-Codex Vscode             22 hrs 31 mins      █████████████░░░░░░░░░░░░   53.02 % 
-Codex CLI                10 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Zsh                      3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Claude Code              2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Zed                      2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Codex Vscode             23 hrs 24 mins      █████████████░░░░░░░░░░░░   52.81 % 
+Codex CLI                9 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Zsh                      4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Claude Code              3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Zed                      3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 14 mins (92.36%)
+⏱ AI Coding Time: 41 hrs 16 mins (93.1%)
 
-✍️ 46,262 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 51,487 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 122,956,909 Input Tokens, 11,724,272 Output Tokens
+🔤 283,511,433 Input Tokens, 30,284,782 Output Tokens
 
-💵 $1776.30 Estimated AI Cost This Week
+💵 $4181.29 Estimated AI Cost This Week
 
-🧠 492 AI Sessions, 3450 AI Prompts
+🧠 524 AI Sessions, 3504 AI Prompts
 
-GPT                      47,974 lines        ███████████████████████░░   93.10 % 
-Fable                    3,425 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Opus                     132 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GPT                      53,437 lines        ███████████████████████░░   91.56 % 
+Fable                    4,791 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Opus                     132 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 16,092 characters per prompt
+📚 Verbose Prompter — average 19,903 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
-
+ Last Updated on 04/09/2026 21:20:30 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
