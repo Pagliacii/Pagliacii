@@ -90,9 +90,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C626%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C633%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-756%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-764%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -121,48 +121,48 @@ Sunday                   787 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-Python                   14 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Other                    6 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-C++                      4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Rust                     3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Markdown                 18 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Python                   14 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+C++                      6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Other                    5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Rust                     2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-Codex Vscode             32 hrs 54 mins      █████████████░░░░░░░░░░░░   51.96 % 
-Codex CLI                12 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Zed                      6 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Zsh                      5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Claude Code              4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Codex Vscode             34 hrs 3 mins       ██████████████░░░░░░░░░░░   54.11 % 
+Codex CLI                12 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Zed                      6 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Zsh                      5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Claude Code              5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 34 mins (90.91%)
+⏱ AI Coding Time: 57 hrs 31 mins (91.38%)
 
-✍️ 56,061 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 54,008 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 385,741,068 Input Tokens, 41,207,465 Output Tokens
+🔤 372,620,333 Input Tokens, 38,829,271 Output Tokens
 
-💵 $5205.56 Estimated AI Cost This Week
+💵 $4975.03 Estimated AI Cost This Week
 
-🧠 569 AI Sessions, 4087 AI Prompts
+🧠 531 AI Sessions, 3988 AI Prompts
 
-GPT                      57,537 lines        ███████████████████████░░   91.78 % 
-Fable                    3,711 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Opus                     1,439 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+GPT                      54,155 lines        ███████████████████████░░   91.81 % 
+Fable                    2,975 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Opus                     1,854 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 24,995 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 30,465 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
-
+ Last Updated on 08/09/2026 21:21:34 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
