@@ -90,9 +90,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C743%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C750%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-885%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-892%20hrs%208%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -121,45 +121,45 @@ Sunday                   787 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-C++                      8 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Fork                     7 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Markdown                 5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Python                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Other                    10 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Fork                     9 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Python                   6 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+C++                      6 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Markdown                 2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   38.60 % 
-Chrome                   7 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Codex CLI                6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Zed                      6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Zsh                      4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Codex Vscode             14 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   37.37 % 
+Chrome                   8 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Codex CLI                6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Zed                      6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Zsh                      2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 13 mins (67.73%)
+⏱ AI Coding Time: 24 hrs 38 mins (63.42%)
 
-✍️ 8,998 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,344 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 36,983,893 Input Tokens, 3,039,792 Output Tokens
+🔤 29,029,391 Input Tokens, 2,425,103 Output Tokens
 
-💵 $2195.56 Estimated AI Cost This Week
+💵 $2093.28 Estimated AI Cost This Week
 
-🧠 108 AI Sessions, 1137 AI Prompts
+🧠 99 AI Sessions, 998 AI Prompts
 
-GPT                      9,124 lines         █████████████████████████   100.00 % 
+GPT                      4,444 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 11,039 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+📚 Verbose Prompter — average 8,574 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
-
+ Last Updated on 29/09/2026 21:24:42 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
