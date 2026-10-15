@@ -37,6 +37,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [Haxe](#haxe)
 - [Idris](#idris)
 - [ImHex Pattern Language](#imhex-pattern-language)
 - [Java](#java)
@@ -503,6 +504,7 @@
 
 ## C++ 
 
+- [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO) - EUI-NEO is a cross-platform, high-performance, low-overhead C++17 GPUI framework
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [TalismanDesign/PocketMage_PDA](https://github.com/TalismanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
@@ -909,6 +911,7 @@
 - [pgstack-io/pgstack](https://github.com/pgstack-io/pgstack) - Postgres read replicas for Search and Audit
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
@@ -1313,7 +1316,6 @@
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [Pagliacii/hugo-bearberry](https://github.com/Pagliacii/hugo-bearberry) - 🐻 🍓 A lightweight Hugo theme based on Hugo Bear Cub.
 - [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub) - 🐻 A lightweight Hugo theme based on Bear Blog and Hugo Bear Blog
-- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [dirkolbrich/hugo-tailwindcss-starter-theme](https://github.com/dirkolbrich/hugo-tailwindcss-starter-theme) - Starter files for a Hugo theme with Tailwindcss
@@ -1380,6 +1382,10 @@
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [dbousamra/hnes](https://github.com/dbousamra/hnes) - :video_game: NES Emulator written in Haskell
 
+## Haxe 
+
+- [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
+
 ## Idris 
 
 - [idris-hackers/software-foundations](https://github.com/idris-hackers/software-foundations) - Software Foundations in Idris
@@ -1426,6 +1432,7 @@
 
 ## JavaScript 
 
+- [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [source-academy/sicp](https://github.com/source-academy/sicp) - XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
@@ -1465,6 +1472,7 @@
 - [jvns/nginx-playground](https://github.com/jvns/nginx-playground) - 
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [haroldtreen/epub-press](https://github.com/haroldtreen/epub-press) - 📚 Web service for creating ebooks from collections of websites.
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [premasagar/pablo](https://github.com/premasagar/pablo) - Pablo is a lightweight, expressive JavaScript SVG library. Pablo creates interactive drawings with SVG (Scalable Vector Graphics), giving access to all of SVG's granularity and power.
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [stackgl/shader-school](https://github.com/stackgl/shader-school) - :mortar_board: A workshopper for GLSL shaders and graphics programming
@@ -1645,7 +1653,7 @@
 - [minimalchat/client](https://github.com/minimalchat/client) - Client library for Minimal Chat
 - [josephernest/writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported).
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
-- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 
@@ -1665,7 +1673,7 @@
 
 ## Jupyter Notebook 
 
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU
 - [pageman/sutskever-30-implementations](https://github.com/pageman/sutskever-30-implementations) - Sutskever 30 implementations inspired by https://papercode.vercel.app/ | For Agents, use https://github.com/pageman/Sutskever-Agent | Polyglot / Multi-Backed version at https://github.com/pageman/suts
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [AllenDowney/ThinkStats](https://github.com/AllenDowney/ThinkStats) - Notebooks for the third edition of Think Stats
@@ -2283,6 +2291,7 @@
 
 ## Python 
 
+- [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
@@ -2363,7 +2372,6 @@
 - [e-hulten/july](https://github.com/e-hulten/july) - A small library for creating pretty heatmaps of daily data.
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [litex-hub/linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv) - Linux on LiteX-VexRiscv
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
@@ -2641,7 +2649,7 @@
 - [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [sshwsfc/xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
@@ -3038,6 +3046,7 @@
 
 ## Rust 
 
+- [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js & Bun bindings for Zed’s GPUI. Build memory efficient native apps with React or Solid.js
 - [dbalsom/martypc](https://github.com/dbalsom/martypc) - A cycle-accurate IBM PC/XT/Jr/Tandy emulator
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
 - [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante) - Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints.
@@ -3051,7 +3060,7 @@
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 5x faster Homebrew client
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
@@ -3461,7 +3470,7 @@
 - [toidiu/learn-rust](https://github.com/toidiu/learn-rust) - 
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [Wilfred/bfc](https://github.com/Wilfred/bfc) - An industrial-grade brainfuck compiler
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
+- [OpenSC2K/OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [rbspy/rbspy](https://github.com/rbspy/rbspy) - Sampling CPU profiler for Ruby
 
