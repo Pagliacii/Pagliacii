@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [espressif/esp-emulator](https://github.com/espressif/esp-emulator)<br>
-3. ⭐ Starred [FeSens/openTPU](https://github.com/FeSens/openTPU)<br>
-4. ⭐ Starred [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)<br>
-5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [espressif/esp-emulator](https://github.com/espressif/esp-emulator)<br>
+4. ⭐ Starred [FeSens/openTPU](https://github.com/FeSens/openTPU)<br>
+5. ⭐ Starred [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
