@@ -82,11 +82,11 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)<br>
-2. ⭐ Starred [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)<br>
-3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-4. ⭐ Starred [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)<br>
-5. ❗️ Opened issue [#31](https://github.com/espressif/esp-emulator/issues/31) in [espressif/esp-emulator](https://github.com/espressif/esp-emulator)<br>
+1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. ⭐ Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)<br>
+3. ⭐ Starred [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)<br>
+4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+5. ⭐ Starred [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
