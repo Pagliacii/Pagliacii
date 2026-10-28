@@ -82,10 +82,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8060](https://github.com/tangency-labs/solidcraft/issues/8060#issuecomment-6463095575) in [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)<br>
-2. 💬 Commented on [#8060](https://github.com/tangency-labs/solidcraft/issues/8060#issuecomment-6463007182) in [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)<br>
-3. ❗️ Opened issue [#8060](https://github.com/tangency-labs/solidcraft/issues/8060) in [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)<br>
-4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. 💬 Commented on [#8060](https://github.com/tangency-labs/solidcraft/issues/8060#issuecomment-6463095575) in [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)<br>
+3. 💬 Commented on [#8060](https://github.com/tangency-labs/solidcraft/issues/8060#issuecomment-6463007182) in [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)<br>
+4. ❗️ Opened issue [#8060](https://github.com/tangency-labs/solidcraft/issues/8060) in [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)<br>
 5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
