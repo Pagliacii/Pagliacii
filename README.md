@@ -121,48 +121,48 @@ Sunday                   787 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    33 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   41.26 % 
-Markdown                 12 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-JavaScript               6 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-sh                       5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Rust                     4 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Other                    32 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
+Markdown                 14 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+JavaScript               6 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Rust                     6 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Sponsor                  3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-Codex Vscode             32 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   39.94 % 
-Chrome                   19 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-ChatGPT                  15 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Telegram                 3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-OMP                      3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Codex Vscode             28 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.40 % 
+Chrome                   20 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+ChatGPT                  19 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Telegram                 3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+OMP                      3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 65 hrs 59 mins (80.41%)
+⏱ AI Coding Time: 66 hrs 3 mins (80.96%)
 
-✍️ 15,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 17,654 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 196,592,870 Input Tokens, 19,625,506 Output Tokens
+🔤 209,835,496 Input Tokens, 20,015,438 Output Tokens
 
-💵 $15036.32 Estimated AI Cost This Week
+💵 $15195.54 Estimated AI Cost This Week
 
-🧠 839 AI Sessions, 1125 AI Prompts
+🧠 971 AI Sessions, 1069 AI Prompts
 
-Codex-Vscode             12,555 lines        ████████████████████░░░░░   81.23 % 
-GPT                      2,422 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Grok                     479 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             15,128 lines        █████████████████████░░░░   84.82 % 
+GPT                      2,024 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Grok                     479 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+OMP                      204 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 665 characters per prompt
+📄 Detailed Prompter — average 666 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
-
+ Last Updated on 04/11/2026 21:15:30 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
