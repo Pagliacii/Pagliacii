@@ -82,9 +82,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/ridvan/send-to-telegram/issues/3#issuecomment-6785429175) in [ridvan/send-to-telegram](https://github.com/ridvan/send-to-telegram)<br>
-2. ⭐ Starred [seedds/nxnative](https://github.com/seedds/nxnative)<br>
-3. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. 💬 Commented on [#3](https://github.com/ridvan/send-to-telegram/issues/3#issuecomment-6785429175) in [ridvan/send-to-telegram](https://github.com/ridvan/send-to-telegram)<br>
+3. ⭐ Starred [seedds/nxnative](https://github.com/seedds/nxnative)<br>
 4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
