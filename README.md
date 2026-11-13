@@ -90,9 +90,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C017%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C028%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C164%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C178%20hrs%2010%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -121,48 +121,48 @@ Sunday                   835 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 33 hrs              █████████░░░░░░░░░░░░░░░░   35.22 % 
-Other                    14 hrs 28 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Rust                     10 hrs 10 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-TypeScript               6 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-JavaScript               4 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Markdown                 33 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   37.10 % 
+Other                    14 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Rust                     9 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+TypeScript               6 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+JavaScript               4 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Telegram                 29 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   31.89 % 
-Chrome                   21 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-OMP                      20 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-Codex Vscode             8 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-BambuStudio              6 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Chrome                   26 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+Telegram                 23 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+OMP                      19 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Codex Vscode             8 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+BambuStudio              6 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 82 hrs 40 mins (88.23%)
+⏱ AI Coding Time: 79 hrs 53 mins (87.35%)
 
-✍️ 64,427 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 62,516 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,448,919,777 Input Tokens, 14,912,635 Output Tokens
+🔤 2,297,454,690 Input Tokens, 13,142,017 Output Tokens
 
-💵 $18924.53 Estimated AI Cost This Week
+💵 $18057.18 Estimated AI Cost This Week
 
-🧠 17182 AI Sessions, 4132 AI Prompts
+🧠 16679 AI Sessions, 4433 AI Prompts
 
-GPT                      29,352 lines        ████████████░░░░░░░░░░░░░   46.82 % 
-OMP                      20,155 lines        ████████░░░░░░░░░░░░░░░░░   32.15 % 
-Opus                     11,104 lines        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Grok                     900 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+GPT                      27,803 lines        ███████████░░░░░░░░░░░░░░   44.46 % 
+OMP                      21,641 lines        █████████░░░░░░░░░░░░░░░░   34.61 % 
+Opus                     12,241 lines        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 Amp                      718 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Anthropic.Claude         127 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 334 characters per prompt
+📝 Concise Prompter — average 302 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
-
+ Last Updated on 13/11/2026 21:16:43 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
