@@ -90,28 +90,28 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C081%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C088%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C224%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C228%20hrs%2031%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                878 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-🌆 Daytime                1544 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌃 Evening                1675 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
-🌙 Night                  514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+🌞 Morning                878 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+🌆 Daytime                1544 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
+🌃 Evening                1675 commits        █████████░░░░░░░░░░░░░░░░   36.24 % 
+🌙 Night                  525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   741 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Tuesday                  506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Wednesday                850 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Thursday                 548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Friday                   474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Saturday                 649 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Sunday                   843 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Monday                   741 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Tuesday                  506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Wednesday                850 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Thursday                 548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Friday                   474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Saturday                 649 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Sunday                   854 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 ```
 
 
@@ -121,48 +121,48 @@ Sunday                   843 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Other                    12 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-sh                       11 hrs 10 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-JSON                     7 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Rust                     4 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Markdown                 15 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Other                    10 hrs 49 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+sh                       10 hrs 32 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+JSON                     10 hrs 17 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Rust                     3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-OMP                      26 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   40.93 % 
-Chrome                   26 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.48 % 
-BambuStudio              2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Claude Code              2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Telegram                 2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Chrome                   26 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   39.71 % 
+OMP                      25 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   38.14 % 
+Claude Code              5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+BambuStudio              3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Zsh                      2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 21 mins (73.48%)
+⏱ AI Coding Time: 48 hrs 31 mins (72.72%)
 
-✍️ 31,600 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 34,245 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 914,305,852 Input Tokens, 4,529,092 Output Tokens
+🔤 847,805,225 Input Tokens, 4,452,799 Output Tokens
 
-💵 $9025.73 Estimated AI Cost This Week
+💵 $8527.46 Estimated AI Cost This Week
 
-🧠 7875 AI Sessions, 2421 AI Prompts
+🧠 7107 AI Sessions, 2171 AI Prompts
 
-GPT                      16,017 lines        █████████████░░░░░░░░░░░░   52.75 % 
-OMP                      8,900 lines         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-Codex-Vscode             5,447 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+GPT                      16,041 lines        ██████████████░░░░░░░░░░░   55.12 % 
+Codex-Vscode             6,615 lines         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+OMP                      6,446 lines         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 264 characters per prompt
+📝 Concise Prompter — average 362 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
-
+ Last Updated on 21/11/2026 21:17:17 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
