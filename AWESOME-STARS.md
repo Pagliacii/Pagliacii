@@ -133,7 +133,6 @@
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## AutoHotkey 
 
@@ -1101,7 +1100,7 @@
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [m4rvin2/docli](https://github.com/m4rvin2/docli) - Command-line interfaces made easy
 - [jackdoe/baxx](https://github.com/jackdoe/baxx) - ssh register@ui.baxx.dev [shutdown due to covid-19]
-- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one AI agent for your whole organization: databases, APIs, files, and code over MCP
+- [dosco/deeporg](https://github.com/dosco/deeporg) - DeepORG (formerly GraphJin) — one AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [aporcupine/GoUnix](https://github.com/aporcupine/GoUnix) - This project is a collection of many of the basic tools used on Unix-like operating systems implemented in Go as a learning exercize.
 - [annamedv/red](https://github.com/annamedv/red) - Red Analytics Tool
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
@@ -2271,7 +2270,7 @@
 
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, 
 - [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open and lightweight modification to Windows, designed to optimise performance, privacy and usability.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [ScoopInstaller/Games](https://github.com/ScoopInstaller/Games) - Scoop bucket for open source/freeware games and game-related tools
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -3066,7 +3065,7 @@
 - [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
+- [ai-openshell/openshell](https://github.com/ai-openshell/openshell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [tokio-rs/toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
@@ -3717,7 +3716,7 @@
 
 ## TypeScript 
 
-- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.
 - [livliv-dev/player](https://github.com/livliv-dev/player) - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.
 - [backnotprop/pstack](https://github.com/backnotprop/pstack) - Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
@@ -3967,6 +3966,7 @@
 - [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [kantord/just-dashboard](https://github.com/kantord/just-dashboard) - :bar_chart: :clipboard: Dashboards using YAML or JSON files
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
