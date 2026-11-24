@@ -90,9 +90,9 @@ If you are curious to know what the nickname means, it came from a movie named W
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C101%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C109%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C245%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C254%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -121,48 +121,48 @@ Sunday                   953 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-Other                    12 hrs 40 mins      █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-JSON                     10 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Python                   4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-sh                       3 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Markdown                 19 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+Other                    12 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+JSON                     7 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Python                   6 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Rust                     3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-OMP                      25 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   39.74 % 
-Chrome                   16 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Telegram                 8 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Claude Code              6 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Zsh                      3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+OMP                      26 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   41.61 % 
+Chrome                   14 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Telegram                 8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Claude Code              6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Zsh                      3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 hrs 8 mins (83.9%)
+⏱ AI Coding Time: 56 hrs 21 mins (87.05%)
 
-✍️ 31,751 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 35,889 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 841,436,758 Input Tokens, 4,076,623 Output Tokens
+🔤 944,040,280 Input Tokens, 4,482,776 Output Tokens
 
-💵 $8051.63 Estimated AI Cost This Week
+💵 $9291.20 Estimated AI Cost This Week
 
-🧠 7321 AI Sessions, 1422 AI Prompts
+🧠 8215 AI Sessions, 1437 AI Prompts
 
-GPT                      13,736 lines        ██████████████░░░░░░░░░░░   55.47 % 
-Codex-Vscode             6,615 lines         ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-OMP                      4,410 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+GPT                      17,640 lines        ███████████████░░░░░░░░░░   61.04 % 
+Codex-Vscode             6,615 lines         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+OMP                      4,509 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Max                      135 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 482 characters per prompt
+📄 Detailed Prompter — average 586 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
-
+ Last Updated on 24/11/2026 21:21:01 UTC
 <!--END_SECTION:waka-->
 
 **:pushpin: Pinned Repos**
