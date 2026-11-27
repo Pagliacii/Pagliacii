@@ -83,10 +83,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
-2. ⭐ Starred [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)<br>
-3. ⭐ Starred [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop)<br>
-4. ⭐ Starred [DozenTwelve/Papermorph](https://github.com/DozenTwelve/Papermorph)<br>
-5. ⭐ Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br>
+2. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+3. ⭐ Starred [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)<br>
+4. ⭐ Starred [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop)<br>
+5. ⭐ Starred [DozenTwelve/Papermorph](https://github.com/DozenTwelve/Papermorph)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka-->
