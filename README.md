@@ -82,10 +82,10 @@ If you are curious to know what the nickname means, it came from a movie named W
 :zap: **Recent Activity:**
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#19](undefined) in [Pagliacii/useless-swf-player](https://github.com/Pagliacii/useless-swf-player)<br>
-2. 💪 Opened PR [#8](undefined) in [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
-3. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-4. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+1. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
+2. 💪 Opened PR [#19](undefined) in [Pagliacii/useless-swf-player](https://github.com/Pagliacii/useless-swf-player)<br>
+3. 💪 Opened PR [#8](undefined) in [Pagliacii/extract_pdf_files](https://github.com/Pagliacii/extract_pdf_files)<br>
+4. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
 5. ⬆️ Pushed undefined commit(s) to [Pagliacii/Pagliacii](https://github.com/Pagliacii/Pagliacii)<br>
 <!--RECENT_ACTIVITY:end-->
 
